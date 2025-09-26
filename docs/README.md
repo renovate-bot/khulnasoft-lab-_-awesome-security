@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-25 03:11:01.708305
+Last generated: 2025-09-26 02:50:07.002147
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -194,6 +194,7 @@ Last generated: 2025-09-25 03:11:01.708305
 | [CVE-2025-54309](https://www.cve.org/CVERecord?id=CVE-2025-54309) | [watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309](https://github.com/watchtowrlabs/watchTowr-vs-CrushFTP-Authentication-Bypass-CVE-2025-54309) | no description | 2025-08-25T03:07:13Z |
 | [CVE-2025-54309](https://www.cve.org/CVERecord?id=CVE-2025-54309) | [brokendreamsclub/CVE-2025-54309](https://github.com/brokendreamsclub/CVE-2025-54309) | CrushFTP AS2 Authentication Bypass | 2025-08-29T03:05:20Z |
 | [CVE-2025-54309](https://www.cve.org/CVERecord?id=CVE-2025-54309) | [foregenix/CVE-2025-54309](https://github.com/foregenix/CVE-2025-54309) | Exploitation scripts for the CrushFTP CVE-2025-54309: vulnerability | 2025-09-03T11:05:05Z |
+| [CVE-2025-54309](https://www.cve.org/CVERecord?id=CVE-2025-54309) | [whisperer1290/CVE-2025-54309__Enhanced_exploit](https://github.com/whisperer1290/CVE-2025-54309__Enhanced_exploit) | no description | 2025-09-06T21:43:50Z |
 | [CVE-2025-54253](https://www.cve.org/CVERecord?id=CVE-2025-54253) | [Shivshantp/CVE-2025-54253-Exploit-Demo](https://github.com/Shivshantp/CVE-2025-54253-Exploit-Demo) | Simulated PoC for CVE-2025-54253: Adobe AEM OGNL Injection Vulnerability | 2025-08-06T19:28:00Z |
 | [CVE-2025-54253](https://www.cve.org/CVERecord?id=CVE-2025-54253) | [B1ack4sh/Blackash-CVE-2025-54253](https://github.com/B1ack4sh/Blackash-CVE-2025-54253) | CVE-2025-54253 | 2025-08-06T10:37:01Z |
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [itsShotgun/chrome_v8_cve_checker](https://github.com/itsShotgun/chrome_v8_cve_checker) | Checks if your Chrome version is vulnerable to CVE-2025-5419, from the browser | 2025-06-14T01:48:21Z |
@@ -255,6 +256,7 @@ Last generated: 2025-09-25 03:11:01.708305
 | [CVE-2025-53691](https://www.cve.org/CVERecord?id=CVE-2025-53691) | [brokendreamsclub/CVE-2025-53691](https://github.com/brokendreamsclub/CVE-2025-53691) | Remote code execution (RCE) through insecure deserialization | 2025-09-01T14:30:08Z |
 | [CVE-2025-53690](https://www.cve.org/CVERecord?id=CVE-2025-53690) | [rxerium/CVE-2025-53690](https://github.com/rxerium/CVE-2025-53690) | Detection for CVE-2025-53690 | 2025-09-04T19:53:25Z |
 | [CVE-2025-53690](https://www.cve.org/CVERecord?id=CVE-2025-53690) | [B1ack4sh/Blackash-CVE-2025-53690](https://github.com/B1ack4sh/Blackash-CVE-2025-53690) | CVE-2025-53690 | 2025-09-05T14:47:53Z |
+| [CVE-2025-53690](https://www.cve.org/CVERecord?id=CVE-2025-53690) | [m0d0ri205/CVE-2025-53690-Analysis](https://github.com/m0d0ri205/CVE-2025-53690-Analysis) | This is CVE-2025-53690 Analysis Documents. | 2025-09-07T03:20:13Z |
 | [CVE-2025-53652](https://www.cve.org/CVERecord?id=CVE-2025-53652) | [pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis](https://github.com/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis) | CVE-2025-53652: Jenkins Git Parameter Analysis | 2025-07-25T13:10:17Z |
 | [CVE-2025-53640](https://www.cve.org/CVERecord?id=CVE-2025-53640) | [rafaelcorvino1/CVE-2025-53640](https://github.com/rafaelcorvino1/CVE-2025-53640) | Broken Object Level Authorization (BOLA) in CERN&#x27;s Indico leads to authenticated user enumeration. | 2025-07-19T12:57:38Z |
 | [CVE-2025-53632](https://www.cve.org/CVERecord?id=CVE-2025-53632) | [pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632) | An exploit of CVE-2025-53632 to confirm exploitability | 2025-08-22T12:37:59Z |
@@ -280,6 +282,7 @@ Last generated: 2025-09-25 03:11:01.708305
 | [CVE-2025-52399](https://www.cve.org/CVERecord?id=CVE-2025-52399) | [gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students](https://github.com/gmh5225/CVE-2025-52399-SQLi-Institute-of-Current-Students) | no description | 2025-07-25T16:55:08Z |
 | [CVE-2025-52392](https://www.cve.org/CVERecord?id=CVE-2025-52392) | [137f/Soosyze-CMS-2.0---CVE-2025-52392](https://github.com/137f/Soosyze-CMS-2.0---CVE-2025-52392) | Este script em Bash demonstra como seria um ataque automatizado contra um formulário de login web via WorldList conhecida. | 2025-08-20T20:45:42Z |
 | [CVE-2025-52389](https://www.cve.org/CVERecord?id=CVE-2025-52389) | [milamrk/CVE-2025-52389](https://github.com/milamrk/CVE-2025-52389) | An Insecure Direct Object Reference (IDOR) in Envasadora H2O Eireli - Soda Cristal v40.20.4 allows authenticated attackers to access sensitive data for other users via a crafted HTTP request. | 2025-09-04T00:44:52Z |
+| [CVE-2025-52389](https://www.cve.org/CVERecord?id=CVE-2025-52389) | [ktr4ck3r/CVE-2025-52389](https://github.com/ktr4ck3r/CVE-2025-52389) | An Insecure Direct Object Reference (IDOR) in Envasadora H2O Eireli - Soda Cristal v40.20.4 allows unauthenticated attackers to access sensitive data for other users via a crafted HTTP request. | 2025-09-06T21:13:21Z |
 | [CVE-2025-52385](https://www.cve.org/CVERecord?id=CVE-2025-52385) | [Kov404/CVE-2025-52385](https://github.com/Kov404/CVE-2025-52385) | Studio 3T v.2025.1.0 | 2025-08-12T16:48:25Z |
 | [CVE-2025-52357](https://www.cve.org/CVERecord?id=CVE-2025-52357) | [wrathfulDiety/CVE-2025-52357](https://github.com/wrathfulDiety/CVE-2025-52357) | Proof of Concept and Security Advisory for XSS vulnerability in the FD602GW-DX-R410 fiber router’s admin console (firmware V2.2.14). Includes details, impact, and mitigation guidance. | 2025-06-12T18:09:33Z |
 | [CVE-2025-52289](https://www.cve.org/CVERecord?id=CVE-2025-52289) | [Madhav-Bhardwaj/CVE-2025-52289](https://github.com/Madhav-Bhardwaj/CVE-2025-52289) | no description | 2025-07-31T15:50:45Z |
@@ -457,6 +460,7 @@ Last generated: 2025-09-25 03:11:01.708305
 | [CVE-2025-47812](https://www.cve.org/CVERecord?id=CVE-2025-47812) | [blindma1den/CVE-2025-47812](https://github.com/blindma1den/CVE-2025-47812) | no description | 2025-07-17T07:02:49Z |
 | [CVE-2025-47812](https://www.cve.org/CVERecord?id=CVE-2025-47812) | [B1ack4sh/Blackash-CVE-2025-47812](https://github.com/B1ack4sh/Blackash-CVE-2025-47812) | CVE-2025-47812 | 2025-07-17T13:46:01Z |
 | [CVE-2025-47812](https://www.cve.org/CVERecord?id=CVE-2025-47812) | [r0otk3r/CVE-2025-47812](https://github.com/r0otk3r/CVE-2025-47812) | no description | 2025-07-27T17:47:40Z |
+| [CVE-2025-47812](https://www.cve.org/CVERecord?id=CVE-2025-47812) | [CTY-Research-1/CVE-2025-47812_Lab_environment](https://github.com/CTY-Research-1/CVE-2025-47812_Lab_environment) | no description | 2025-09-07T10:10:34Z |
 | [CVE-2025-47810](https://www.cve.org/CVERecord?id=CVE-2025-47810) | [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810) | PunkBuster LPI to NT AUTHORITY\SYSTEM | 2025-02-15T21:18:39Z |
 | [CVE-2025-47646](https://www.cve.org/CVERecord?id=CVE-2025-47646) | [Nxploited/CVE-2025-47646](https://github.com/Nxploited/CVE-2025-47646) | WordPress PSW Front-end Login &amp;amp; Registration Plugin &lt;= 1.12 is vulnerable to Broken Authentication | 2025-05-16T05:44:32Z |
 | [CVE-2025-47646](https://www.cve.org/CVERecord?id=CVE-2025-47646) | [RootHarpy/CVE-2025-47646](https://github.com/RootHarpy/CVE-2025-47646) | PoC for CVE-2025-47646 - WordPress PSW Front-end Login Registration Plugin ≤ 1.12 Unauthenticated Privilege Escalation | 2025-05-20T10:07:42Z |
@@ -1353,6 +1357,7 @@ Last generated: 2025-09-25 03:11:01.708305
 | [CVE-2025-23266](https://www.cve.org/CVERecord?id=CVE-2025-23266) | [jpts/cve-2025-23266-poc](https://github.com/jpts/cve-2025-23266-poc) | no description | 2025-07-19T10:40:04Z |
 | [CVE-2025-23266](https://www.cve.org/CVERecord?id=CVE-2025-23266) | [r0binak/CVE-2025-23266](https://github.com/r0binak/CVE-2025-23266) | CVE-2025-23266 – Fully Weaponized NVIDIA Container Toolkit Exploit | 2025-09-02T12:20:19Z |
 | [CVE-2025-23266](https://www.cve.org/CVERecord?id=CVE-2025-23266) | [Mindasy/cve-2025-23266-migration-bypass](https://github.com/Mindasy/cve-2025-23266-migration-bypass) | cve-2025-23266-migration-bypass | 2025-09-04T13:42:27Z |
+| [CVE-2025-23266](https://www.cve.org/CVERecord?id=CVE-2025-23266) | [mrk336/CVE-2025-23266](https://github.com/mrk336/CVE-2025-23266) | CVE-2025-23266 targets FastAPI’s parse_request() function, where oversized HTTP headers cause a buffer overflow and remote code execution. The article explains how attackers can escape container boundaries, compromise AI workloads, and how tools like Sentinel can detect and mitigate the threat | 2025-09-07T03:03:11Z |
 | [CVE-2025-2324565](https://www.cve.org/CVERecord?id=CVE-2025-2324565) | [cydragLINUX/CVE-2025-23245655](https://github.com/cydragLINUX/CVE-2025-23245655) | no description | 2025-06-14T07:02:39Z |
 | [CVE-2025-23167](https://www.cve.org/CVERecord?id=CVE-2025-23167) | [abhisek3122/CVE-2025-23167](https://github.com/abhisek3122/CVE-2025-23167) | Working exploit for CVE-2025-23167 – HTTP request smuggling in vulnerable Node.js 20.x versions before 20.19.2 | 2025-07-15T17:51:09Z |
 | [CVE-2025-23040](https://www.cve.org/CVERecord?id=CVE-2025-23040) | [GabrieleDattile/CVE-2025-23040](https://github.com/GabrieleDattile/CVE-2025-23040) | no description | 2025-01-31T21:27:42Z |
@@ -1483,6 +1488,7 @@ Last generated: 2025-09-25 03:11:01.708305
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094) | It is an input sanitization flaw caused by an encoding mismatch, allowing crafted input to bypass filters. If a server is vulnerable, an attacker can inject malicious SQL that the backend executes. | 2025-06-18T15:18:33Z |
 | [CVE-2025-1055](https://www.cve.org/CVERecord?id=CVE-2025-1055) | [diego-tella/CVE-2025-1055-poc](https://github.com/diego-tella/CVE-2025-1055-poc) | PoC for CVE-2025-1055 and CVE-2025-52915 using K7RKScan.sys | 2025-09-04T12:24:05Z |
 | [CVE-2025-1015](https://www.cve.org/CVERecord?id=CVE-2025-1015) | [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015) | an attacker to create and export an address book containing a malicious payload in a field. For example, in the “Other” field of the Instant Messaging section. If another user imported the address book, clicking on the link could result in opening a web page inside Thunderbird, and that page could execute (unprivileged) JavaScript | 2025-02-06T08:35:56Z |
+| [CVE-2025-10046](https://www.cve.org/CVERecord?id=CVE-2025-10046) | [byteReaper77/CVE-2025-10046](https://github.com/byteReaper77/CVE-2025-10046) | exploit SQL injection ELEX WooCommerce Google Shopping | 2025-09-06T23:32:48Z |
 | [CVE-2025-0994](https://www.cve.org/CVERecord?id=CVE-2025-0994) | [rxerium/CVE-2025-0994](https://github.com/rxerium/CVE-2025-0994) | Cityworks deserialization of untrusted data vulnerability Detection | 2025-02-07T14:13:08Z |
 | [CVE-2025-0924](https://www.cve.org/CVERecord?id=CVE-2025-0924) | [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different) | no description | 2025-02-21T04:49:36Z |
 | [CVE-2025-0868](https://www.cve.org/CVERecord?id=CVE-2025-0868) | [aidana-gift/CVE-2025-0868](https://github.com/aidana-gift/CVE-2025-0868) | no description | 2025-05-25T13:14:41Z |
