@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-27 02:19:50.133799
+Last generated: 2025-09-28 02:39:01.713372
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -81,6 +81,7 @@ Last generated: 2025-09-27 02:19:50.133799
 | [CVE-2025-6934](https://www.cve.org/CVERecord?id=CVE-2025-6934) | [0xgh057r3c0n/CVE-2025-6934](https://github.com/0xgh057r3c0n/CVE-2025-6934) | CVE-2025-6934 is a critical vulnerability in the WordPress Opal Estate Pro plugin (&lt;= 1.7.5) that allows unauthenticated attackers to create new administrator accounts through the plugin’s insecure AJAX registration process. | 2025-08-16T12:12:21Z |
 | [CVE-2025-6934](https://www.cve.org/CVERecord?id=CVE-2025-6934) | [yukinime/CVE-2025-6934](https://github.com/yukinime/CVE-2025-6934) | no description | 2025-08-27T12:24:15Z |
 | [CVE-2025-6934](https://www.cve.org/CVERecord?id=CVE-2025-6934) | [Pwdnx1337/CVE-2025-6934](https://github.com/Pwdnx1337/CVE-2025-6934) | exploit | 2025-09-02T07:49:50Z |
+| [CVE-2025-6934](https://www.cve.org/CVERecord?id=CVE-2025-6934) | [Rosemary1337/CVE-2025-6934](https://github.com/Rosemary1337/CVE-2025-6934) | CVE-2025-6934 - Exploit WordPress Opal Estate Pro | 2025-09-08T12:58:45Z |
 | [CVE-2025-6907](https://www.cve.org/CVERecord?id=CVE-2025-6907) | [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907) | a standalone C-based SQL Injection exploit targeting the CVE‑2025‑6907 vulnerability in the CODE_PROJECT service. | 2025-07-04T12:54:16Z |
 | [CVE-2025-6860](https://www.cve.org/CVERecord?id=CVE-2025-6860) | [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860) | A proof‑of‑concept command‑line tool in C for detecting the SQL injection vulnerability . | 2025-06-29T22:25:42Z |
 | [CVE-2025-6759](https://www.cve.org/CVERecord?id=CVE-2025-6759) | [olljanat/TestCitrixException](https://github.com/olljanat/TestCitrixException) | Minimal tool to test CVE-2025-6759 mitigation | 2025-07-09T11:19:47Z |
@@ -136,6 +137,8 @@ Last generated: 2025-09-27 02:19:50.133799
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [net-hex/CVE-2025-57819](https://github.com/net-hex/CVE-2025-57819) | A write up of CVE-2025-57819, a vulnerability affecting FreePBX 15, 16, and 17 | 2025-09-02T00:31:42Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [brokendreamsclub/CVE-2025-57819](https://github.com/brokendreamsclub/CVE-2025-57819) | FreePBX SQL Injection Exploit | 2025-09-01T16:29:24Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819) | FreePBX CVE-2025-57819 lab (Docker) + Nuclei POC for unauth SQLi (time-based). | 2025-09-04T03:21:34Z |
+| [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819](https://github.com/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819) | no description | 2025-09-08T15:28:14Z |
+| [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [B1ack4sh/Blackash-CVE-2025-57819](https://github.com/B1ack4sh/Blackash-CVE-2025-57819) | CVE-2025-57819 | 2025-09-08T13:12:10Z |
 | [CVE-2025-57773](https://www.cve.org/CVERecord?id=CVE-2025-57773) | [B1ack4sh/Blackash-CVE-2025-57773](https://github.com/B1ack4sh/Blackash-CVE-2025-57773) | Blackash-CVE-2025-57773 | 2025-08-26T12:41:11Z |
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-](https://github.com/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-) | 详细讲解CitrixBleed 2 — CVE-2025-5777（越界泄漏）PoC 和检测套件 | 2025-06-30T11:02:46Z |
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [nocerainfosec/cve-2025-5777](https://github.com/nocerainfosec/cve-2025-5777) | Memory disclosure vulnerability in Citrix NetScaler ADC and Gateway when configured as a Gateway (VPN virtual server, ICA proxy, CVPN, RDP Proxy). | 2025-07-05T23:56:36Z |
@@ -1286,12 +1289,14 @@ Last generated: 2025-09-27 02:19:50.133799
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat](https://github.com/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat) | no description | 2025-08-23T14:27:55Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [drcrypterdotru/Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter) | Apache (CVE-2025-24813) GOExploiter Checker &amp; Exploiter very Fast | 2025-08-31T10:01:08Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [CEAlbez/CVE-2025-24813-PoC](https://github.com/CEAlbez/CVE-2025-24813-PoC) | This is a PoC for the CVE-2025-24813 and tested in different environments. | 2025-09-03T11:36:13Z |
+| [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution](https://github.com/Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution) | Este repositorio contiene un exploit automatizado desarrollado con fines educativos y de investigación en ciberseguridad, dirigido a demostrar una potencial vulnerabilidad de ejecución remota de código (RCE) en Apache Tomcat (CVE-2025-24813). | 2025-09-08T18:00:50Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801) | no description | 2025-04-19T01:59:30Z |
 | [CVE-2025-24801](https://www.cve.org/CVERecord?id=CVE-2025-24801) | [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801) | CVE-2025-24801 Exploit | 2025-05-05T23:22:18Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC) | no description | 2025-03-31T15:48:12Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799) | no description | 2025-04-03T16:55:11Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [MatheuZSecurity/Exploit-CVE-2025-24799](https://github.com/MatheuZSecurity/Exploit-CVE-2025-24799) | CVE-2025-24799 Exploit: GLPI - Unauthenticated SQL Injection | 2025-04-15T04:57:39Z |
 | [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [galletitaconpate/CVE-2025-24799](https://github.com/galletitaconpate/CVE-2025-24799) | no description | 2025-05-22T20:49:43Z |
+| [CVE-2025-24799](https://www.cve.org/CVERecord?id=CVE-2025-24799) | [Rosemary1337/CVE-2025-24799](https://github.com/Rosemary1337/CVE-2025-24799) | CVE-2025-24799 Exploit: GLPI - Unauthenticated SQL Injection | 2025-09-08T13:43:26Z |
 | [CVE-2025-24797](https://www.cve.org/CVERecord?id=CVE-2025-24797) | [Alainx277/CVE-2025-24797](https://github.com/Alainx277/CVE-2025-24797) | Meshtastic buffer overflow vulnerability - CVE-2025-24797 | 2025-04-16T19:04:44Z |
 | [CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476) | [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476) | Use After Free (CWE-416) | 2025-03-20T13:44:52Z |
 | [CVE-2025-24752](https://www.cve.org/CVERecord?id=CVE-2025-24752) | [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC) | POC for CVE-2025-24752. | 2025-03-01T08:25:38Z |
@@ -7425,6 +7430,7 @@ Last generated: 2025-09-27 02:19:50.133799
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [Zyx2440/Apache-HTTP-Server-2.4.50-RCE](https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE) | Apache-HTTP-Server-2.4.50-RCE This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-42013 vulnerability. It is intended for educational purposes only and should be used responsibly on systems you have explicit permission to test. | 2024-08-26T01:54:06Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773](https://github.com/jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773) | Apache: a Mainstream Web Service Turned a Vector of Attack for Remote Code Execution | 2024-08-28T00:49:09Z |
 | [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [skentagon/CVE-2021-41773](https://github.com/skentagon/CVE-2021-41773) | no description | 2022-02-27T22:39:58Z |
+| [CVE-2021-41773](https://www.cve.org/CVERecord?id=CVE-2021-41773) | [redspy-sec/CVE-2021-41773](https://github.com/redspy-sec/CVE-2021-41773) | no description | 2024-12-16T04:23:41Z |
 | [CVE-2021-41703](https://www.cve.org/CVERecord?id=CVE-2021-41703) | [Yanoro/CVE-2021-41703](https://github.com/Yanoro/CVE-2021-41703) | no description | 2024-01-15T19:43:48Z |
 | [CVE-2021-41652](https://www.cve.org/CVERecord?id=CVE-2021-41652) | [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652) | Missing Access Control in BatFlat CMS 1.3.6 | 2023-06-11T06:33:01Z |
 | [CVE-2021-4154](https://www.cve.org/CVERecord?id=CVE-2021-4154) | [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154) | CVE-2021-4154 | 2023-02-23T08:38:22Z |
