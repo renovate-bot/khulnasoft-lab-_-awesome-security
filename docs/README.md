@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-28 02:39:01.713372
+Last generated: 2025-09-29 07:52:34.540887
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -130,8 +130,10 @@ Last generated: 2025-09-28 02:39:01.713372
 | [CVE-2025-58443](https://www.cve.org/CVERecord?id=CVE-2025-58443) | [casp3r0x0/CVE-2025-58443](https://github.com/casp3r0x0/CVE-2025-58443) | FOGProject Authentication bypass CVE-2025-58443 Exploit | 2025-09-06T02:36:56Z |
 | [CVE-2025-58440](https://www.cve.org/CVERecord?id=CVE-2025-58440) | [ph-hitachi/CVE-2025-58440](https://github.com/ph-hitachi/CVE-2025-58440) | Remote Code Execution (RCE) via Polyglot File Attack and Null Byte Injection on Laravel FileManager | 2025-09-04T23:42:23Z |
 | [CVE-2025-5840](https://www.cve.org/CVERecord?id=CVE-2025-5840) | [haxerr9/CVE-2025-5840](https://github.com/haxerr9/CVE-2025-5840) | CVE-2025-5840 Exploit Written In Python By haxerr9 | 2025-06-08T14:55:11Z |
+| [CVE-2025-58180](https://www.cve.org/CVERecord?id=CVE-2025-58180) | [prabhatverma47/CVE-2025-58180](https://github.com/prabhatverma47/CVE-2025-58180) | In OctoPrint version &lt;=1.11.2, an attacker with file upload access (e.g., valid API key or session) can craft a malicious filename that bypasses sanitization and is later executed by OctoPrint’s event system, leading to remote code execution (RCE) on the host | 2025-09-09T08:32:49Z |
 | [CVE-2025-5815](https://www.cve.org/CVERecord?id=CVE-2025-5815) | [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template) | CVE-2025-5815: An unauthenticated vulnerability in the WordPress Traffic Monitor plugin (≤ 3.2.2) allowing remote attackers to disable bot logging via an exposed AJAX action without requiring authentication. | 2025-06-13T07:21:24Z |
 | [CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833) | [Mkway/CVE-2025-57833](https://github.com/Mkway/CVE-2025-57833) | We&#x27;ve set up an environment to test CVE-2025-57833. This environment was built using AI, so it&#x27;s subject to ongoing modification. | 2025-09-05T05:03:29Z |
+| [CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833) | [loic-houchi/Django-faille-CVE-2025-57833_test](https://github.com/loic-houchi/Django-faille-CVE-2025-57833_test) | no description | 2025-09-09T12:08:05Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check) | This is repository contains a script to check for current IOCs listed in the freepbx forum topic of the CVE-2025-57819 | 2025-08-29T11:59:48Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [rxerium/CVE-2025-57819](https://github.com/rxerium/CVE-2025-57819) | Detection for CVE-2025-57819 | 2025-08-28T10:15:33Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [net-hex/CVE-2025-57819](https://github.com/net-hex/CVE-2025-57819) | A write up of CVE-2025-57819, a vulnerability affecting FreePBX 15, 16, and 17 | 2025-09-02T00:31:42Z |
@@ -453,6 +455,7 @@ Last generated: 2025-09-28 02:39:01.713372
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [arun1033/CVE-2025-48384](https://github.com/arun1033/CVE-2025-48384) | no description | 2025-08-29T11:48:10Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [jacobholtz/CVE-2025-48384-submodule](https://github.com/jacobholtz/CVE-2025-48384-submodule) | no description | 2025-08-28T15:54:22Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [jacobholtz/CVE-2025-48384-poc](https://github.com/jacobholtz/CVE-2025-48384-poc) | PoC for CVE-2025-48384 | 2025-08-28T15:10:25Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [EdwardYeIntrix/CVE-2025-48384-Scanner](https://github.com/EdwardYeIntrix/CVE-2025-48384-Scanner) | CVE-2025-48384 Scanner | 2025-09-09T04:57:30Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
 | [CVE-2025-47987](https://www.cve.org/CVERecord?id=CVE-2025-47987) | [Kryptoenix/CVE-2025-47987_PoC](https://github.com/Kryptoenix/CVE-2025-47987_PoC) | no description | 2025-08-22T09:42:02Z |
@@ -5993,6 +5996,7 @@ Last generated: 2025-09-28 02:39:01.713372
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [netuseradministrator/CVE-2023-28432](https://github.com/netuseradministrator/CVE-2023-28432) | no description | 2024-01-07T12:34:49Z |
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432) | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | 2024-01-11T13:41:20Z |
 | [CVE-2023-28432](https://www.cve.org/CVERecord?id=CVE-2023-28432) | [0xRulez/CVE-2023-28432](https://github.com/0xRulez/CVE-2023-28432) | MinIO vulnerability exploit - CVE-2023-28432 | 2024-04-13T13:52:43Z |
+| [CVE-2023-28354](https://www.cve.org/CVERecord?id=CVE-2023-28354) | [stormfleet/CVE-2023-28354](https://github.com/stormfleet/CVE-2023-28354) | CVE-2023-28354 | 2024-11-20T15:19:32Z |
 | [CVE-2023-28343](https://www.cve.org/CVERecord?id=CVE-2023-28343) | [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343) | CVE-2023-28343 | 2023-07-03T11:48:21Z |
 | [CVE-2023-28330](https://www.cve.org/CVERecord?id=CVE-2023-28330) | [cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330) | no description | 2023-10-18T07:58:16Z |
 | [CVE-2023-2833](https://www.cve.org/CVERecord?id=CVE-2023-2833) | [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833) | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | 2023-06-19T22:10:09Z |
@@ -7111,6 +7115,7 @@ Last generated: 2025-09-28 02:39:01.713372
 | [CVE-2022-20490](https://www.cve.org/CVERecord?id=CVE-2022-20490) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20490](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20490) | no description | 2023-05-31T10:45:35Z |
 | [CVE-2022-20489](https://www.cve.org/CVERecord?id=CVE-2022-20489) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489) | no description | 2023-05-31T11:56:48Z |
 | [CVE-2022-20489](https://www.cve.org/CVERecord?id=CVE-2022-20489) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old) | no description | 2023-05-31T11:22:01Z |
+| [CVE-2022-20474](https://www.cve.org/CVERecord?id=CVE-2022-20474) | [cxxsheng/CVE-2022-20474](https://github.com/cxxsheng/CVE-2022-20474) | PoC of CVE-2022-20474 | 2024-11-14T08:48:59Z |
 | [CVE-2022-20456](https://www.cve.org/CVERecord?id=CVE-2022-20456) | [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456) | no description | 2023-05-31T10:07:10Z |
 | [CVE-2022-20409](https://www.cve.org/CVERecord?id=CVE-2022-20409) | [Markakd/bad_io_uring](https://github.com/Markakd/bad_io_uring) | Android kernel exploitation for CVE-2022-20409 | 2022-11-21T22:42:50Z |
 | [CVE-2022-20347](https://www.cve.org/CVERecord?id=CVE-2022-20347) | [hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347](https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347) | no description | 2023-04-06T09:54:28Z |
@@ -7515,6 +7520,7 @@ Last generated: 2025-09-28 02:39:01.713372
 | [CVE-2021-38647](https://www.cve.org/CVERecord?id=CVE-2021-38647) | [corelight/CVE-2021-38647-noimages](https://github.com/corelight/CVE-2021-38647-noimages) | no description | 2024-03-13T20:05:11Z |
 | [CVE-2021-38314](https://www.cve.org/CVERecord?id=CVE-2021-38314) | [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314) | Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin | 2023-04-28T17:03:27Z |
 | [CVE-2021-3831](https://www.cve.org/CVERecord?id=CVE-2021-3831) | [aratane/CVE-2021-3831](https://github.com/aratane/CVE-2021-3831) | Unauthenticated Sensitive Information Disclosure | 2024-07-20T09:36:51Z |
+| [CVE-2021-38304](https://www.cve.org/CVERecord?id=CVE-2021-38304) | [philsajdak/CVE-2021-38304-PoC](https://github.com/philsajdak/CVE-2021-38304-PoC) | CVE-2021-38304 Proof of Concept | 2024-09-15T02:33:25Z |
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297) | A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow | 2023-11-15T20:52:36Z |
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [paras98/CVE-2021-38297-Go-wasm-Replication](https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication) | no description | 2024-04-04T01:17:05Z |
 | [CVE-2021-38003](https://www.cve.org/CVERecord?id=CVE-2021-38003) | [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | 2023-01-07T06:09:14Z |
