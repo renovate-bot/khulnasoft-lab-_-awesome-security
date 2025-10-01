@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-09-30 03:41:37.299701
+Last generated: 2025-10-01 03:05:33.262196
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Last generated: 2025-09-30 03:41:37.299701
 | [CVE-2025-8671](https://www.cve.org/CVERecord?id=CVE-2025-8671) | [moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS](https://github.com/moften/CVE-2025-8671-MadeYouReset-HTTP-2-DDoS) | CVE-2025-25063 MadeYouReset HTTP/2 DDoS | 2025-08-18T19:17:45Z |
 | [CVE-2025-8671](https://www.cve.org/CVERecord?id=CVE-2025-8671) | [mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2](https://github.com/mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2) | PoC para validar vulnerabilidade MadeYouReset | 2025-08-21T21:20:18Z |
 | [CVE-2025-8671](https://www.cve.org/CVERecord?id=CVE-2025-8671) | [abiyeenzo/CVE-2025-8671](https://github.com/abiyeenzo/CVE-2025-8671) | PoC éducatif pour la vulnérabilité CVE-2025-8671 (DoS HTTP/2 sur lighttpd). À utiliser uniquement en laboratoire local. | 2025-08-23T19:14:08Z |
+| [CVE-2025-8570](https://www.cve.org/CVERecord?id=CVE-2025-8570) | [Nxploited/CVE-2025-8570](https://github.com/Nxploited/CVE-2025-8570) | BeyondCart Connector &lt;= 2.1.0 - Missing Configuration of JWT Secret to Unauthenticated Privilege Escalation | 2025-09-11T12:36:23Z |
 | [CVE-2025-8550](https://www.cve.org/CVERecord?id=CVE-2025-8550) | [byteReaper77/CVE-2025-8550](https://github.com/byteReaper77/CVE-2025-8550) | XSS exploit for CVE-2025-8550 in atjiu pybbs ≤6.0.0 | 2025-08-05T19:31:11Z |
 | [CVE-2025-8517](https://www.cve.org/CVERecord?id=CVE-2025-8517) | [kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1](https://github.com/kwerty138/Session-Fixation-in-Vvveb-CMS-v1.0.6.1) | CVE-2025-8517: Session Fixation in Vvveb CMS v1.0.6.1 | 2025-07-26T03:54:07Z |
 | [CVE-2025-8471](https://www.cve.org/CVERecord?id=CVE-2025-8471) | [byteReaper77/CVE-2025-8471](https://github.com/byteReaper77/CVE-2025-8471) | Exploit SQL injection in  projectworlds Online Admissions System v1.0 | 2025-08-03T17:43:53Z |
@@ -174,6 +175,7 @@ Last generated: 2025-09-30 03:41:37.299701
 | [CVE-2025-5640](https://www.cve.org/CVERecord?id=CVE-2025-5640) | [mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-) | no description | 2025-06-21T11:52:01Z |
 | [CVE-2025-55998](https://www.cve.org/CVERecord?id=CVE-2025-55998) | [Ocmenog/CVE-2025-55998](https://github.com/Ocmenog/CVE-2025-55998) | no description | 2025-09-03T17:41:30Z |
 | [CVE-2025-55763](https://www.cve.org/CVERecord?id=CVE-2025-55763) | [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763) | Heap overflow PoC for CivetWeb CVE-2025-55763 | 2025-08-29T09:46:07Z |
+| [CVE-2025-55746](https://www.cve.org/CVERecord?id=CVE-2025-55746) | [r4bbit-r4/directus-preso](https://github.com/r4bbit-r4/directus-preso) | Presentation about CVE-2025-55746 | 2025-09-02T20:19:01Z |
 | [CVE-2025-55668](https://www.cve.org/CVERecord?id=CVE-2025-55668) | [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668) | Apache Tomcat - Session fixation via rewrite valve | 2025-08-13T15:08:59Z |
 | [CVE-2025-55580](https://www.cve.org/CVERecord?id=CVE-2025-55580) | [ddobrev25/CVE-2025-55580](https://github.com/ddobrev25/CVE-2025-55580) | CVE-2025-55580 | 2025-08-28T18:29:44Z |
 | [CVE-2025-55579](https://www.cve.org/CVERecord?id=CVE-2025-55579) | [ddobrev25/CVE-2025-55579](https://github.com/ddobrev25/CVE-2025-55579) | CVE-2025-55579 | 2025-08-28T15:54:57Z |
@@ -582,6 +584,7 @@ Last generated: 2025-09-30 03:41:37.299701
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322) | Motors &lt;= 5.6.67 - Unauthenticated Privilege Escalation via Password Update/Account Takeover | 2025-05-22T15:12:25Z |
 | [CVE-2025-4322](https://www.cve.org/CVERecord?id=CVE-2025-4322) | [B1ack4sh/Blackash-CVE-2025-4322](https://github.com/B1ack4sh/Blackash-CVE-2025-4322) | CVE-2025-4322 – Unauthenticated Privilege Escalation via Password Update &quot;Account Takeover&quot; 🔥 | 2025-06-23T21:08:48Z |
 | [CVE-2025-42957](https://www.cve.org/CVERecord?id=CVE-2025-42957) | [mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege](https://github.com/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege) | CVE‑2025‑42957 exposes an RFC‑enabled SAP S/4HANA module that lets low‑privileged users inject ABAP code to create admin accounts and gain full control. The article explains the vulnerability, threat model, provides minimal exploit ABAP code, and lists patching &amp; monitoring steps to secure the system | 2025-09-10T03:23:47Z |
+| [CVE-2025-42944](https://www.cve.org/CVERecord?id=CVE-2025-42944) | [rxerium/CVE-2025-42944](https://github.com/rxerium/CVE-2025-42944) | Detection for CVE-2025-42944 | 2025-09-11T10:51:19Z |
 | [CVE-2025-4275](https://www.cve.org/CVERecord?id=CVE-2025-4275) | [NikolajSchlej/Hydroph0bia](https://github.com/NikolajSchlej/Hydroph0bia) | Binaries, drivers, PoCs and other stuff on Hydroph0bia vulnerability (CVE-2025-4275) | 2025-06-10T11:24:13Z |
 | [CVE-2025-4190](https://www.cve.org/CVERecord?id=CVE-2025-4190) | [Nxploited/CVE-2025-4190](https://github.com/Nxploited/CVE-2025-4190) | CSV Mass Importer &lt;= 1.2 - Admin+ Arbitrary File Upload | 2025-05-07T10:56:03Z |
 | [CVE-2025-4190](https://www.cve.org/CVERecord?id=CVE-2025-4190) | [GadaLuBau1337/CVE-2025-4190](https://github.com/GadaLuBau1337/CVE-2025-4190) | no description | 2025-05-15T15:51:15Z |
@@ -1253,6 +1256,7 @@ Last generated: 2025-09-30 03:41:37.299701
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [Infinit3i/CVE-2025-24893](https://github.com/Infinit3i/CVE-2025-24893) | PoC exploits CVE-2025-24893 , a remote code execution (RCE) vulnerability in XWiki caused by improper sandboxing in Groovy macros rendered asynchronously. It allows arbitrary command execution through injection into RSS-based SolrSearch endpoints. | 2025-08-03T14:49:37Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [b0ySie7e/CVE-2025-24893](https://github.com/b0ySie7e/CVE-2025-24893) | no description | 2025-09-03T22:25:53Z |
 | [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [andwati/CVE-2025-24893](https://github.com/andwati/CVE-2025-24893) | no description | 2025-09-05T15:51:02Z |
+| [CVE-2025-24893](https://www.cve.org/CVERecord?id=CVE-2025-24893) | [Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893](https://github.com/Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893) | CVE-2025-24893 RCE exploit for XWiki with reverse shell capability | 2025-09-10T13:28:30Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [imbas007/CVE-2025-24813-apache-tomcat](https://github.com/imbas007/CVE-2025-24813-apache-tomcat) | Nuclei Template CVE-2025–24813 | 2025-03-17T22:39:38Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [issamjr/CVE-2025-24813-Scanner](https://github.com/issamjr/CVE-2025-24813-Scanner) | CVE-2025-24813 - Apache Tomcat Vulnerability Scanner | 2025-03-17T03:58:34Z |
 | [CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813) | [charis3306/CVE-2025-24813](https://github.com/charis3306/CVE-2025-24813) | CVE-2025-24813利用工具 | 2025-03-16T11:59:59Z |
@@ -1512,6 +1516,7 @@ Last generated: 2025-09-30 03:41:37.299701
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094) | It is an input sanitization flaw caused by an encoding mismatch, allowing crafted input to bypass filters. If a server is vulnerable, an attacker can inject malicious SQL that the backend executes. | 2025-06-18T15:18:33Z |
 | [CVE-2025-1055](https://www.cve.org/CVERecord?id=CVE-2025-1055) | [diego-tella/CVE-2025-1055-poc](https://github.com/diego-tella/CVE-2025-1055-poc) | PoC for CVE-2025-1055 and CVE-2025-52915 using K7RKScan.sys | 2025-09-04T12:24:05Z |
 | [CVE-2025-1015](https://www.cve.org/CVERecord?id=CVE-2025-1015) | [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015) | an attacker to create and export an address book containing a malicious payload in a field. For example, in the “Other” field of the Instant Messaging section. If another user imported the address book, clicking on the link could result in opening a web page inside Thunderbird, and that page could execute (unprivileged) JavaScript | 2025-02-06T08:35:56Z |
+| [CVE-2025-10142](https://www.cve.org/CVERecord?id=CVE-2025-10142) | [MooseLoveti/PagSeguro-Connect-Para-WooCommerce-CVE-Report](https://github.com/MooseLoveti/PagSeguro-Connect-Para-WooCommerce-CVE-Report) | Disclosure for CVE-2025-10142 | 2025-09-10T06:08:05Z |
 | [CVE-2025-10046](https://www.cve.org/CVERecord?id=CVE-2025-10046) | [byteReaper77/CVE-2025-10046](https://github.com/byteReaper77/CVE-2025-10046) | exploit SQL injection ELEX WooCommerce Google Shopping | 2025-09-06T23:32:48Z |
 | [CVE-2025-0994](https://www.cve.org/CVERecord?id=CVE-2025-0994) | [rxerium/CVE-2025-0994](https://github.com/rxerium/CVE-2025-0994) | Cityworks deserialization of untrusted data vulnerability Detection | 2025-02-07T14:13:08Z |
 | [CVE-2025-0924](https://www.cve.org/CVERecord?id=CVE-2025-0924) | [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different) | no description | 2025-02-21T04:49:36Z |
