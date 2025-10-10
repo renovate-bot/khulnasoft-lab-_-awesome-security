@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-09 02:28:20.382462
+Last generated: 2025-10-10 02:22:46.559462
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -503,6 +503,7 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [jacobholtz/CVE-2025-48384-submodule](https://github.com/jacobholtz/CVE-2025-48384-submodule) | no description | 2025-08-28T15:54:22Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [jacobholtz/CVE-2025-48384-poc](https://github.com/jacobholtz/CVE-2025-48384-poc) | PoC for CVE-2025-48384 | 2025-08-28T15:10:25Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [EdwardYeIntrix/CVE-2025-48384-Scanner](https://github.com/EdwardYeIntrix/CVE-2025-48384-Scanner) | CVE-2025-48384 Scanner | 2025-09-09T04:57:30Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [butyraldehyde/CVE-2025-48384-PoC](https://github.com/butyraldehyde/CVE-2025-48384-PoC) | Built to call on CVE-2025-48384-PoC-Part2 for RCE | 2025-08-28T18:54:58Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
 | [CVE-2025-47987](https://www.cve.org/CVERecord?id=CVE-2025-47987) | [Kryptoenix/CVE-2025-47987_PoC](https://github.com/Kryptoenix/CVE-2025-47987_PoC) | no description | 2025-08-22T09:42:02Z |
@@ -669,6 +670,7 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2025-37899](https://www.cve.org/CVERecord?id=CVE-2025-37899) | [SeanHeelan/o3_finds_cve-2025-37899](https://github.com/SeanHeelan/o3_finds_cve-2025-37899) | Artefacts for blog post on finding CVE-2025-37899 with o3 | 2025-05-22T10:36:18Z |
 | [CVE-2025-37899](https://www.cve.org/CVERecord?id=CVE-2025-37899) | [vett3x/SMB-LINUX-CVE-2025-37899](https://github.com/vett3x/SMB-LINUX-CVE-2025-37899) | no description | 2025-06-09T09:01:57Z |
 | [CVE-2025-3776](https://www.cve.org/CVERecord?id=CVE-2025-3776) | [Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776) | WordPress Verification SMS with TargetSMS Plugin &lt;= 1.5 is vulnerable to Remote Code Execution (RCE) | 2025-04-24T01:19:01Z |
+| [CVE-2025-3639](https://www.cve.org/CVERecord?id=CVE-2025-3639) | [6lj/CVE-2025-3639](https://github.com/6lj/CVE-2025-3639) | login bypass vulnerability in Liferay Portal (versions 7.3.0–7.4.3.132) and Liferay DXP (various versions from 2024.Q1 to 2025.Q1.6) | 2025-09-13T03:09:56Z |
 | [CVE-2025-3605](https://www.cve.org/CVERecord?id=CVE-2025-3605) | [Nxploited/CVE-2025-3605](https://github.com/Nxploited/CVE-2025-3605) | WordPress Frontend Login and Registration Blocks Plugin &lt;= 1.0.7 is vulnerable to Privilege Escalation | 2025-05-09T21:45:31Z |
 | [CVE-2025-3605](https://www.cve.org/CVERecord?id=CVE-2025-3605) | [GadaLuBau1337/CVE-2025-3605](https://github.com/GadaLuBau1337/CVE-2025-3605) | no description | 2025-05-15T16:08:46Z |
 | [CVE-2025-36041](https://www.cve.org/CVERecord?id=CVE-2025-36041) | [byteReaper77/CVE-2025-36041](https://github.com/byteReaper77/CVE-2025-36041) | Exploit (C) of the CVE-2025-36041 vulnerability in IBM MQ | 2025-06-19T22:44:04Z |
@@ -1092,6 +1094,8 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [adjscent/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/adjscent/vulnerable-nextjs-14-CVE-2025-29927) | do not use. vulnerable | 2025-09-17T08:56:21Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [sdrtba/CVE-2025-29927](https://github.com/sdrtba/CVE-2025-29927) | no description | 2025-09-20T08:12:13Z |
 | [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [sermikr0/nextjs-middleware-auth-bypass](https://github.com/sermikr0/nextjs-middleware-auth-bypass) | CVE-2025-29927 | 2025-09-23T06:07:00Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [iteride/CVE-2025-29927](https://github.com/iteride/CVE-2025-29927) | no description | 2025-09-21T19:28:03Z |
+| [CVE-2025-29927](https://www.cve.org/CVERecord?id=CVE-2025-29927) | [amalpvatayam67/day10-nextjs-middleware-lab](https://github.com/amalpvatayam67/day10-nextjs-middleware-lab) | Next.js middleware auth-bypass lab (CVE-2025-29927 simulation) | 2025-09-23T11:22:00Z |
 | [CVE-2025-29824](https://www.cve.org/CVERecord?id=CVE-2025-29824) | [encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824) | no description | 2025-05-14T01:45:50Z |
 | [CVE-2025-29824](https://www.cve.org/CVERecord?id=CVE-2025-29824) | [AfanPan/CVE-2025-29824-Exploit](https://github.com/AfanPan/CVE-2025-29824-Exploit) | Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally. | 2025-07-30T08:04:27Z |
 | [CVE-2025-29810](https://www.cve.org/CVERecord?id=CVE-2025-29810) | [aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check) | Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services. | 2025-04-09T18:14:31Z |
@@ -1209,6 +1213,8 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2025-26465](https://www.cve.org/CVERecord?id=CVE-2025-26465) | [rxerium/CVE-2025-26465](https://github.com/rxerium/CVE-2025-26465) | MitM attack allowing a malicious interloper to impersonate a legitimate server when a client attempts to connect to it | 2025-02-18T16:53:27Z |
 | [CVE-2025-26443](https://www.cve.org/CVERecord?id=CVE-2025-26443) | [Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443](https://github.com/Pazhanivelmani/ManagedProvisioning-A10_r33_CVE-2025-26443) | no description | 2025-06-19T12:13:19Z |
 | [CVE-2025-26417](https://www.cve.org/CVERecord?id=CVE-2025-26417) | [uthrasri/CVE-2025-26417](https://github.com/uthrasri/CVE-2025-26417) | no description | 2025-03-17T09:20:55Z |
+| [CVE-2025-26399](https://www.cve.org/CVERecord?id=CVE-2025-26399) | [h4xnz/CVE-2025-26399-Exploit](https://github.com/h4xnz/CVE-2025-26399-Exploit) | no description | 2025-09-23T16:35:28Z |
+| [CVE-2025-26399](https://www.cve.org/CVERecord?id=CVE-2025-26399) | [rxerium/CVE-2025-26399](https://github.com/rxerium/CVE-2025-26399) | Detection for CVE-2025-26399 | 2025-09-23T11:34:04Z |
 | [CVE-2025-26326](https://www.cve.org/CVERecord?id=CVE-2025-26326) | [azurejoga/CVE-2025-26326](https://github.com/azurejoga/CVE-2025-26326) | Critical security vulnerability in NVDA remote connection add-ons. | 2025-02-25T21:04:45Z |
 | [CVE-2025-26319](https://www.cve.org/CVERecord?id=CVE-2025-26319) | [dorattias/CVE-2025-26319](https://github.com/dorattias/CVE-2025-26319) | no description | 2025-02-02T08:02:48Z |
 | [CVE-2025-26319](https://www.cve.org/CVERecord?id=CVE-2025-26319) | [YuoLuo/CVE-2025-26319](https://github.com/YuoLuo/CVE-2025-26319) | no description | 2025-03-13T08:06:45Z |
@@ -1553,6 +1559,7 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [B1ack4sh/Blackash-CVE-2025-1974](https://github.com/B1ack4sh/Blackash-CVE-2025-1974) | CVE-2025-1974 | 2025-06-26T09:24:29Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [Armand2002/Exploit-CVE-2025-1974-Lab](https://github.com/Armand2002/Exploit-CVE-2025-1974-Lab) | no description | 2025-07-14T13:46:24Z |
 | [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [BiiTts/POC-IngressNightmare-CVE-2025-1974](https://github.com/BiiTts/POC-IngressNightmare-CVE-2025-1974) | no description | 2025-08-10T18:04:42Z |
+| [CVE-2025-1974](https://www.cve.org/CVERecord?id=CVE-2025-1974) | [iteride/CVE-2025-1974](https://github.com/iteride/CVE-2025-1974) | no description | 2025-09-23T17:24:49Z |
 | [CVE-2025-1793](https://www.cve.org/CVERecord?id=CVE-2025-1793) | [Usama-Figueira/-CVE-2025-1793-poc](https://github.com/Usama-Figueira/-CVE-2025-1793-poc) | no description | 2025-06-11T23:06:50Z |
 | [CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734) | [WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734) | no description | 2025-03-25T12:38:15Z |
 | [CVE-2025-1718](https://www.cve.org/CVERecord?id=CVE-2025-1718) | [issamjr/CVE-2025-1718-Scanner](https://github.com/issamjr/CVE-2025-1718-Scanner) | CVE-2025-1718 - Hitachi Energy FTP Reboot Vulnerability Scanner | 2025-06-24T13:04:46Z |
@@ -2003,6 +2010,7 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2024-55972](https://www.cve.org/CVERecord?id=CVE-2024-55972) | [RandomRobbieBF/CVE-2024-55972](https://github.com/RandomRobbieBF/CVE-2024-55972) | eTemplates &lt;= 0.2.1 - Unauthenticated SQL Injection | 2025-01-03T12:47:01Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968) | POC for DTEX LPE (CVE-2024-55968) | 2024-12-17T21:08:11Z |
 | [CVE-2024-55968](https://www.cve.org/CVERecord?id=CVE-2024-55968) | [Wi1DN00B/CVE-2024-55968](https://github.com/Wi1DN00B/CVE-2024-55968) | Exploit POC Code for CVE-2024-55968 | 2024-12-17T21:07:59Z |
+| [CVE-2024-55963](https://www.cve.org/CVERecord?id=CVE-2024-55963) | [superswan/CVE-2024-55963](https://github.com/superswan/CVE-2024-55963) | CVE-2024-55963, allows unauthenticated remote code execution on Appsmith Enterprise platform due to a misconfigured PostgreSQL database included by default | 2025-07-06T00:28:23Z |
 | [CVE-2024-55890](https://www.cve.org/CVERecord?id=CVE-2024-55890) | [samh4cks/CVE-2024-55890](https://github.com/samh4cks/CVE-2024-55890) | no description | 2025-06-13T04:26:01Z |
 | [CVE-2024-55875](https://www.cve.org/CVERecord?id=CVE-2024-55875) | [JAckLosingHeart/CVE-2024-55875](https://github.com/JAckLosingHeart/CVE-2024-55875) | CVE-2024-55875 - GHSA-7mj5-hjjj-8rgw - http4k first CVE | 2024-12-13T06:21:36Z |
 | [CVE-2024-55656](https://www.cve.org/CVERecord?id=CVE-2024-55656) | [rick2600/redis-stack-CVE-2024-55656](https://github.com/rick2600/redis-stack-CVE-2024-55656) | no description | 2025-05-20T14:01:46Z |
@@ -5967,6 +5975,7 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2023-31320](https://www.cve.org/CVERecord?id=CVE-2023-31320) | [whypet/CVE-2023-31320](https://github.com/whypet/CVE-2023-31320) | DoS vulnerability in AMD driver that corrupts the display. | 2023-08-22T21:15:46Z |
 | [CVE-2023-31320](https://www.cve.org/CVERecord?id=CVE-2023-31320) | [Scottzxor/Citrix-Bleed-Buffer-Overread-Demo](https://github.com/Scottzxor/Citrix-Bleed-Buffer-Overread-Demo) | This code functionally approximates the Citrix Bleed vulnerability (CVE-2023-4699). | 2023-11-17T19:55:30Z |
 | [CVE-2023-31290](https://www.cve.org/CVERecord?id=CVE-2023-31290) | [ohexa/py_trustwallet_wasm](https://github.com/ohexa/py_trustwallet_wasm) | (CVE-2023-31290) Trust Wallet Core before 3.1.1, as used in the Trust Wallet browser extension before 0.0.183, allows theft of funds because the entropy is 32 bits, as exploited in the wild in December 2022 and March 2023. | 2024-05-07T15:02:22Z |
+| [CVE-2023-3128](https://www.cve.org/CVERecord?id=CVE-2023-3128) | [spyata123/CVE-2023-3128](https://github.com/spyata123/CVE-2023-3128) | no description | 2025-04-13T14:06:26Z |
 | [CVE-2023-3124](https://www.cve.org/CVERecord?id=CVE-2023-3124) | [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124) | CVE-2023-3124 PoC | 2023-09-05T12:32:50Z |
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106) | no description | 2023-08-03T05:15:34Z |
 | [CVE-2023-3106](https://www.cve.org/CVERecord?id=CVE-2023-3106) | [iralabdisco/cvemp-2023](https://github.com/iralabdisco/cvemp-2023) | no description | 2023-08-02T08:43:44Z |
@@ -6124,6 +6133,7 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [C04LA/CVE-2023-28121](https://github.com/C04LA/CVE-2023-28121) | no description | 2023-07-23T22:38:39Z |
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [Jenderal92/WP-CVE-2023-28121](https://github.com/Jenderal92/WP-CVE-2023-28121) | Python 2.7 | 2023-11-03T01:19:09Z |
 | [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [1337nemojj/CVE-2023-28121](https://github.com/1337nemojj/CVE-2023-28121) | no description | 2023-11-03T22:02:11Z |
+| [CVE-2023-28121](https://www.cve.org/CVERecord?id=CVE-2023-28121) | [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121) | WooCommerce Payments (WordPress plugin) =&lt; 5.6.1 CVE-2023-28121 PoC | 2025-04-12T12:31:16Z |
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [hheeyywweellccoommee/CVE-2023-27997-test-nleyl](https://github.com/hheeyywweellccoommee/CVE-2023-27997-test-nleyl) | test | 2023-06-29T04:00:24Z |
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [puckiestyle/cve-2023-27997](https://github.com/puckiestyle/cve-2023-27997) | no description | 2023-06-23T15:15:54Z |
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [imbas007/CVE-2023-27997-Check](https://github.com/imbas007/CVE-2023-27997-Check) | no description | 2023-06-22T14:16:44Z |
@@ -6622,6 +6632,7 @@ Last generated: 2025-10-09 02:28:20.382462
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177) | no description | 2023-04-13T02:56:24Z |
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [saimahmed/MLflow-Vuln](https://github.com/saimahmed/MLflow-Vuln) | MLflow LFI/RFI Vulnerability -CVE-2023-1177 - Reproduced | 2024-08-21T16:11:31Z |
 | [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [charlesgargasson/CVE-2023-1177](https://github.com/charlesgargasson/CVE-2023-1177) | MLFlow Path Traversal | 2024-09-19T10:59:31Z |
+| [CVE-2023-1177](https://www.cve.org/CVERecord?id=CVE-2023-1177) | [paultheal1en/CVE-2023-1177-PoC-reproduce](https://github.com/paultheal1en/CVE-2023-1177-PoC-reproduce) | PoC of CVE-2023-1177 vulnerability in MLflow (Reproduce) | 2025-04-12T10:33:38Z |
 | [CVE-2023-1112](https://www.cve.org/CVERecord?id=CVE-2023-1112) | [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP) | CVE-2023-1112 Auto Exploiter | 2023-08-01T01:02:12Z |
 | [CVE-2023-1077](https://www.cve.org/CVERecord?id=CVE-2023-1077) | [RenukaSelvar/kernel_rt_CVE_2023_1077](https://github.com/RenukaSelvar/kernel_rt_CVE_2023_1077) | no description | 2024-04-09T08:27:58Z |
 | [CVE-2023-10608](https://www.cve.org/CVERecord?id=CVE-2023-10608) | [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC) | cve-2023-10608 Proof Of Concept | 2023-06-08T10:16:41Z |
@@ -10682,3 +10693,4 @@ Last generated: 2025-10-09 02:28:20.382462
 | CVE NOT FOUND | [intbjw/Inspector-xss-poc](https://github.com/intbjw/Inspector-xss-poc) | CVE-2025–58444 | 2025-09-15T07:49:15Z |
 | CVE NOT FOUND | [mrk336/ElkStack-Secured-From-Logs-to-CVEs](https://github.com/mrk336/ElkStack-Secured-From-Logs-to-CVEs) | ElkStack delivers a hands on ELK pipeline that turns raw Node.js logs into actionable alerts. The article walks through index mapping, Logstash ingestion and Kibana dashboards that surfaced three real CVEs—CVE‑2025‑23165, ‑66 and ‑67 identified this year | 2025-09-15T03:00:05Z |
 | CVE NOT FOUND | [hohau8609/CVE2025](https://github.com/hohau8609/CVE2025) | no description | 2025-09-23T04:54:44Z |
+| CVE NOT FOUND | [harshul27/CVE-Vulnerability-Dashboard-app](https://github.com/harshul27/CVE-Vulnerability-Dashboard-app) | A Streamlit dashboard providing a cybersecurity analyst&#x27;s narrative on messaging app vulnerabilities (CVEs) from 2019-2024, featuring historical trends, forecasts, and secure alternatives. Data-driven insights for informed digital security decisions. | 2025-07-02T10:10:25Z |
