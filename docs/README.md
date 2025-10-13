@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-12 02:25:08.194006
+Last generated: 2025-10-13 05:48:07.456865
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -187,6 +187,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2025-5755](https://www.cve.org/CVERecord?id=CVE-2025-5755) | [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755) | no description | 2025-07-09T07:30:36Z |
 | [CVE-2025-57520](https://www.cve.org/CVERecord?id=CVE-2025-57520) | [onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-](https://github.com/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-) | A stored cross-site scripting (XSS) vulnerability exists in Decap CMS up to version 3.8.3.   The issue affects multiple input fields in the **admin interface** and is triggered when a privileged user opens the **content preview panel** of a malicious entry. | 2025-09-10T00:54:51Z |
 | [CVE-2025-57515](https://www.cve.org/CVERecord?id=CVE-2025-57515) | [sanchitsahni/CVE-2025-57515](https://github.com/sanchitsahni/CVE-2025-57515) | Uniclare Student Portal is an online platform providing students access to academic resources and administrative functions, including grades, course materials, assignment submission, instructor communication, class registration, and personal information management. It streamlines processes and enhances the student experience. | 2025-09-20T06:49:17Z |
+| [CVE-2025-57483](https://www.cve.org/CVERecord?id=CVE-2025-57483) | [Jainil-89/CVE](https://github.com/Jainil-89/CVE) | Xss In Tawk.to Live Chat Support (CVE-2025-57483) | 2025-09-26T14:29:56Z |
 | [CVE-2025-57392](https://www.cve.org/CVERecord?id=CVE-2025-57392) | [meisterlos/CVE-2025-57392](https://github.com/meisterlos/CVE-2025-57392) | no description | 2025-08-07T12:39:33Z |
 | [CVE-2025-57176](https://www.cve.org/CVERecord?id=CVE-2025-57176) | [semaja22/CVE-2025-57176](https://github.com/semaja22/CVE-2025-57176) | CVE-2025-57176 - Siklu EtherHaul Series - Unauthenticated Arbitrary File Upload | 2025-09-24T22:16:34Z |
 | [CVE-2025-57174](https://www.cve.org/CVERecord?id=CVE-2025-57174) | [semaja22/CVE-2025-57174](https://github.com/semaja22/CVE-2025-57174) | CVE-2025-57174 Unauthenticated Remote Command Execution | 2025-09-24T22:10:29Z |
@@ -209,6 +210,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2025-55887](https://www.cve.org/CVERecord?id=CVE-2025-55887) | [0xZeroSec/CVE-2025-55887](https://github.com/0xZeroSec/CVE-2025-55887) | no description | 2025-09-18T16:21:24Z |
 | [CVE-2025-55886](https://www.cve.org/CVERecord?id=CVE-2025-55886) | [0xZeroSec/CVE-2025-55886](https://github.com/0xZeroSec/CVE-2025-55886) | no description | 2025-09-18T16:20:57Z |
 | [CVE-2025-55885](https://www.cve.org/CVERecord?id=CVE-2025-55885) | [0xZeroSec/CVE-2025-55885](https://github.com/0xZeroSec/CVE-2025-55885) | no description | 2025-09-20T11:56:24Z |
+| [CVE-2025-55817](https://www.cve.org/CVERecord?id=CVE-2025-55817) | [5qu1n7/CVE-2025-55817](https://github.com/5qu1n7/CVE-2025-55817) | ChilliCream Nitro GraphQL version 28.0.13 is vulnerable to multiple Stored Cross Site Scripting (XSS) Vulnerabilities | 2025-09-26T16:38:16Z |
 | [CVE-2025-55763](https://www.cve.org/CVERecord?id=CVE-2025-55763) | [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763) | Heap overflow PoC for CivetWeb CVE-2025-55763 | 2025-08-29T09:46:07Z |
 | [CVE-2025-55746](https://www.cve.org/CVERecord?id=CVE-2025-55746) | [r4bbit-r4/directus-preso](https://github.com/r4bbit-r4/directus-preso) | Presentation about CVE-2025-55746 | 2025-09-02T20:19:01Z |
 | [CVE-2025-55668](https://www.cve.org/CVERecord?id=CVE-2025-55668) | [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668) | Apache Tomcat - Session fixation via rewrite valve | 2025-08-13T15:08:59Z |
@@ -581,6 +583,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2025-46080](https://www.cve.org/CVERecord?id=CVE-2025-46080) | [yggcwhat/CVE-2025-46080](https://github.com/yggcwhat/CVE-2025-46080) | Details | 2025-04-16T08:29:18Z |
 | [CVE-2025-46078](https://www.cve.org/CVERecord?id=CVE-2025-46078) | [yggcwhat/CVE-2025-46078](https://github.com/yggcwhat/CVE-2025-46078) | Vulnerability Description | 2025-04-15T13:01:32Z |
 | [CVE-2025-4606](https://www.cve.org/CVERecord?id=CVE-2025-4606) | [Yucaerin/CVE-2025-4606](https://github.com/Yucaerin/CVE-2025-4606) | Sala - Startup &amp; SaaS WordPress Theme &lt;= 1.1.4 - Unauthenticated Privilege Escalation via Password Reset/Account Takeover | 2025-08-02T19:14:09Z |
+| [CVE-2025-4606](https://www.cve.org/CVERecord?id=CVE-2025-4606) | [UcenHaxor07/CVE-2025-4606](https://github.com/UcenHaxor07/CVE-2025-4606) | no description | 2025-09-27T02:04:37Z |
 | [CVE-2025-46047](https://www.cve.org/CVERecord?id=CVE-2025-46047) | [J0ey17/CVE-2025-46047](https://github.com/J0ey17/CVE-2025-46047) | PoC for Silverpeas &lt;= 6.4.2 Username Enumeration | 2025-04-14T10:51:21Z |
 | [CVE-2025-46041](https://www.cve.org/CVERecord?id=CVE-2025-46041) | [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041) | no description | 2025-06-08T11:35:33Z |
 | [CVE-2025-4603](https://www.cve.org/CVERecord?id=CVE-2025-4603) | [d0n601/CVE-2025-4603](https://github.com/d0n601/CVE-2025-4603) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Deletion | 2025-05-12T19:34:30Z |
@@ -669,6 +672,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2025-40775](https://www.cve.org/CVERecord?id=CVE-2025-40775) | [AlexSvobo/nhi-zero-trust-bypass](https://github.com/AlexSvobo/nhi-zero-trust-bypass) | Demonstrates a real-world zero-trust bypass by exploiting BIND CVE-2025-40775 to disrupt DNS, break secret rotation, and expose static credentials in a cloud-native lab. | 2025-05-23T00:41:43Z |
 | [CVE-2025-40766](https://www.cve.org/CVERecord?id=CVE-2025-40766) | [FurkanKAYAPINAR/ecs_checker](https://github.com/FurkanKAYAPINAR/ecs_checker) | EDNS Client Subnet (ECS) Remote Detection Tool - CVE-2025-40766 | 2025-07-30T07:30:26Z |
 | [CVE-2025-40634](https://www.cve.org/CVERecord?id=CVE-2025-40634) | [hacefresko/CVE-2025-40634](https://github.com/hacefresko/CVE-2025-40634) | Exploit for stack-based buffer overflow found in the conn-indicator binary in the TP-Link Archer AX50 router | 2025-05-20T17:54:36Z |
+| [CVE-2025-39866](https://www.cve.org/CVERecord?id=CVE-2025-39866) | [byteReaper77/CVE-2025-39866](https://github.com/byteReaper77/CVE-2025-39866) | Proof of concept for CVE-2025-39866 (UAF and race condition) | 2025-09-26T15:35:50Z |
 | [CVE-2025-3969](https://www.cve.org/CVERecord?id=CVE-2025-3969) | [Stuub/CVE-2025-3969-Exploit](https://github.com/Stuub/CVE-2025-3969-Exploit) | CVE-2025-3969: Exploit PoC (OS CMD injection, Web Shell, Interactive Shell) | 2025-05-05T09:39:12Z |
 | [CVE-2025-39601](https://www.cve.org/CVERecord?id=CVE-2025-39601) | [Nxploited/CVE-2025-39601](https://github.com/Nxploited/CVE-2025-39601) | WordPress Custom CSS, JS &amp; PHP plugin &lt;= 2.4.1 - CSRF to RCE vulnerability | 2025-04-16T14:52:41Z |
 | [CVE-2025-39538](https://www.cve.org/CVERecord?id=CVE-2025-39538) | [Nxploited/CVE-2025-39538](https://github.com/Nxploited/CVE-2025-39538) | WordPress WP-Advanced-Search &lt;= 3.3.9.3 - Arbitrary File Upload Vulnerability | 2025-04-30T17:28:33Z |
@@ -934,6 +938,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [r0otk3r/CVE-2025-31161](https://github.com/r0otk3r/CVE-2025-31161) | no description | 2025-07-19T18:31:42Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [f4dee-backup/CVE-2025-31161](https://github.com/f4dee-backup/CVE-2025-31161) | PoC CVE-2025-31161 - Authentication Bypass CrushFTP | 2025-09-10T00:20:35Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [acan0007/CVE-2025-31161](https://github.com/acan0007/CVE-2025-31161) | Authentication bypass vulnerability in versions of the CrushFTP server. | 2025-09-15T04:24:27Z |
+| [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Teexo/CVE-2025-31161](https://github.com/Teexo/CVE-2025-31161) | Scans target to see if its vulnerable to CVE-2025-31161 | 2025-09-26T21:52:57Z |
 | [CVE-2025-31137](https://www.cve.org/CVERecord?id=CVE-2025-31137) | [pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-](https://github.com/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-) | no description | 2025-04-23T10:37:35Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131) | YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server. | 2025-04-04T15:31:15Z |
 | [CVE-2025-31131](https://www.cve.org/CVERecord?id=CVE-2025-31131) | [B1ack4sh/Blackash-CVE-2025-31131](https://github.com/B1ack4sh/Blackash-CVE-2025-31131) | CVE-2025-31131 | 2025-06-07T09:18:08Z |
@@ -2151,6 +2156,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2024-5246](https://www.cve.org/CVERecord?id=CVE-2024-5246) | [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246) | no description | 2024-08-02T20:56:39Z |
 | [CVE-2024-52433](https://www.cve.org/CVERecord?id=CVE-2024-52433) | [RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433) | My Geo Posts Free &lt;= 1.2 - Unauthenticated PHP Object Injection | 2024-11-22T08:56:58Z |
 | [CVE-2024-52430](https://www.cve.org/CVERecord?id=CVE-2024-52430) | [RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430) | Lis Video Gallery &lt;= 0.2.1 - Unauthenticated PHP Object Injection | 2024-11-25T13:55:39Z |
+| [CVE-2024-5243](https://www.cve.org/CVERecord?id=CVE-2024-5243) | [dilagluc/CVE_2024_5243](https://github.com/dilagluc/CVE_2024_5243) | no description | 2025-07-07T19:10:44Z |
 | [CVE-2024-52429](https://www.cve.org/CVERecord?id=CVE-2024-52429) | [RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429) | WP Quick Setup &lt;= 2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin/Theme Installation | 2024-11-22T10:26:55Z |
 | [CVE-2024-52402](https://www.cve.org/CVERecord?id=CVE-2024-52402) | [Nxploited/CVE-2024-52402](https://github.com/Nxploited/CVE-2024-52402) | WordPress Exclusive Content Password Protect plugin &lt;= 1.1.0 - CSRF to Arbitrary File Upload vulnerability | 2025-03-18T07:32:16Z |
 | [CVE-2024-52382](https://www.cve.org/CVERecord?id=CVE-2024-52382) | [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382) | Matix Popup Builder &lt;= 1.0.0 - Unauthenticated Arbitrary Options Update | 2024-11-21T16:19:12Z |
@@ -3275,6 +3281,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) | POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20 | 2024-06-22T21:20:33Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [th3gokul/CVE-2024-31982](https://github.com/th3gokul/CVE-2024-31982) | A tool for vulnerability detection and exploitation tool for CVE-2024-31982 | 2024-06-22T17:04:02Z |
 | [CVE-2024-31974](https://www.cve.org/CVERecord?id=CVE-2024-31974) | [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown) | CVE-2024-31974 | 2024-05-17T02:02:00Z |
+| [CVE-2024-31964](https://www.cve.org/CVERecord?id=CVE-2024-31964) | [d-Raco/CVE-2024-31964](https://github.com/d-Raco/CVE-2024-31964) | CVE-2024-31964 PoC: Mitel 6900w Series SIP Phone - Temporary Authentication Bypass | 2025-07-06T15:00:05Z |
 | [CVE-2024-31903](https://www.cve.org/CVERecord?id=CVE-2024-31903) | [WithSecureLabs/ibm-sterling-b2b-integrator-poc](https://github.com/WithSecureLabs/ibm-sterling-b2b-integrator-poc) | PoC code for the LPE and RCE (CVE-2024-31903) attacks against the IBM Sterling B2B Integrator | 2025-02-18T19:08:04Z |
 | [CVE-2024-31851](https://www.cve.org/CVERecord?id=CVE-2024-31851) | [GKalmus/referaat](https://github.com/GKalmus/referaat) | CVE-2024-31851 | 2024-05-04T16:56:34Z |
 | [CVE-2024-31848](https://www.cve.org/CVERecord?id=CVE-2024-31848) | [Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) | PoC for Exploiting CVE-2024-31848/49/50/51 - File Path Traversal | 2024-05-07T10:42:03Z |
@@ -6208,6 +6215,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability](https://github.com/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability) | no description | 2024-05-10T16:14:22Z |
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [imancybersecurity/CVE-2023-27350-POC](https://github.com/imancybersecurity/CVE-2023-27350-POC) | no description | 2023-04-21T20:13:47Z |
 | [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [monke443/CVE-2023-27350](https://github.com/monke443/CVE-2023-27350) | Unauthenticated remote command execution in Papercut service allows an attacker to execute commands due to improper access controls in the SetupCompleted Java class. | 2025-03-09T18:08:42Z |
+| [CVE-2023-27350](https://www.cve.org/CVERecord?id=CVE-2023-27350) | [0xB0y426/CVE-2023-27350-PoC](https://github.com/0xB0y426/CVE-2023-27350-PoC) | PoC for CVE-2023-27350 | 2025-04-14T02:33:39Z |
 | [CVE-2023-27326](https://www.cve.org/CVERecord?id=CVE-2023-27326) | [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326) | VM Escape for Parallels Desktop &lt;18.1.1 | 2023-03-20T11:47:54Z |
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [Jenderal92/WP-CVE-2023-2732](https://github.com/Jenderal92/WP-CVE-2023-2732) | Python 2.7 | 2023-06-06T02:59:22Z |
 | [CVE-2023-2732](https://www.cve.org/CVERecord?id=CVE-2023-2732) | [domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass) | CVE-2023-2732 Mass | 2023-05-31T02:43:11Z |
@@ -6772,6 +6780,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-tp1](https://github.com/scabench/jsonorg-tp1) | simple application with a CVE-2022-45688 vulnerability | 2023-12-27T22:05:06Z |
 | [CVE-2022-45688](https://www.cve.org/CVERecord?id=CVE-2022-45688) | [scabench/jsonorg-fn1](https://github.com/scabench/jsonorg-fn1) | simple application with a CVE-2022-45688 vulnerability | 2024-01-21T01:28:23Z |
 | [CVE-2022-45477](https://www.cve.org/CVERecord?id=CVE-2022-45477) | [M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts) | nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481 | 2023-02-26T23:39:42Z |
+| [CVE-2022-45460](https://www.cve.org/CVERecord?id=CVE-2022-45460) | [born0monday/CVE-2022-45460](https://github.com/born0monday/CVE-2022-45460) | Proof of Concept for CVE-2022-45460 | 2025-01-30T16:16:01Z |
 | [CVE-2022-4543](https://www.cve.org/CVERecord?id=CVE-2022-4543) | [sunichi/cve-2022-4543-wrapper](https://github.com/sunichi/cve-2022-4543-wrapper) | no description | 2023-07-10T02:34:01Z |
 | [CVE-2022-4539](https://www.cve.org/CVERecord?id=CVE-2022-4539) | [Abdurahmon3236/CVE-2022-4539](https://github.com/Abdurahmon3236/CVE-2022-4539) | no description | 2024-09-01T13:59:21Z |
 | [CVE-2022-45354](https://www.cve.org/CVERecord?id=CVE-2022-45354) | [RandomRobbieBF/CVE-2022-45354](https://github.com/RandomRobbieBF/CVE-2022-45354) | Download Monitor &lt;= 4.7.60 - Sensitive Information Exposure via REST API | 2023-07-11T09:51:40Z |
@@ -7139,6 +7148,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z |
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [btar1gan/exploit_CVE-2022-24112](https://github.com/btar1gan/exploit_CVE-2022-24112) | New exploit for Apache APISIX v2.12.1 - Remote code execution (RCE) | 2024-06-03T17:33:59Z |
 | [CVE-2022-24086](https://www.cve.org/CVERecord?id=CVE-2022-24086) | [BurpRoot/CVE-2022-24086](https://github.com/BurpRoot/CVE-2022-24086) | CVE-2022-24086 POC example | 2023-09-03T17:27:58Z |
+| [CVE-2022-24086](https://www.cve.org/CVERecord?id=CVE-2022-24086) | [wubinworks/magento2-template-filter-patch](https://github.com/wubinworks/magento2-template-filter-patch) | Magento 2 patch for CVE-2022-24086, CVE-2022-24087. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one. | 2024-11-25T06:56:05Z |
 | [CVE-2022-23988](https://www.cve.org/CVERecord?id=CVE-2022-23988) | [simonepetruzzi/WebSecurityProject](https://github.com/simonepetruzzi/WebSecurityProject) | Analysis and replication of CVE-2022-23988 and CVE-2022-34265 | 2023-10-12T15:58:06Z |
 | [CVE-2022-23862](https://www.cve.org/CVERecord?id=CVE-2022-23862) | [mbadanoiu/CVE-2022-23862](https://github.com/mbadanoiu/CVE-2022-23862) | CVE-2022-23862: Local Privilege Escalation via Unauthenticated JMX in YSoft SafeQ | 2024-09-29T13:24:40Z |
 | [CVE-2022-23861](https://www.cve.org/CVERecord?id=CVE-2022-23861) | [mbadanoiu/CVE-2022-23861](https://github.com/mbadanoiu/CVE-2022-23861) | CVE-2022-23861: Multiple Stored Cross-Site Scripting in YSoft SafeQ | 2024-09-29T12:57:38Z |
@@ -9267,6 +9277,7 @@ Last generated: 2025-10-12 02:25:08.194006
 | [CVE-2017-15950](https://www.cve.org/CVERecord?id=CVE-2017-15950) | [rnnsz/CVE-2017-15950](https://github.com/rnnsz/CVE-2017-15950) | no description | 2021-05-31T18:26:19Z |
 | [CVE-2017-15277](https://www.cve.org/CVERecord?id=CVE-2017-15277) | [tacticthreat/ImageMagick-CVE-2017-15277](https://github.com/tacticthreat/ImageMagick-CVE-2017-15277) | PoC files for CVE-2017-15277, use with neex/gifoeb | 2019-01-15T01:20:44Z |
 | [CVE-2017-15010](https://www.cve.org/CVERecord?id=CVE-2017-15010) | [ossf-cve-benchmark/CVE-2017-15010](https://github.com/ossf-cve-benchmark/CVE-2017-15010) | no description | 2020-11-30T14:52:17Z |
+| [CVE-2017-14980](https://www.cve.org/CVERecord?id=CVE-2017-14980) | [TheDarthMole/CVE-2017-14980](https://github.com/TheDarthMole/CVE-2017-14980) | no description | 2023-02-03T18:30:02Z |
 | [CVE-2017-13253](https://www.cve.org/CVERecord?id=CVE-2017-13253) | [tamirzb/CVE-2017-13253](https://github.com/tamirzb/CVE-2017-13253) | PoC code for CVE-2017-13253 | 2018-03-12T16:06:21Z |
 | [CVE-2017-13253](https://www.cve.org/CVERecord?id=CVE-2017-13253) | [devil2531/cve20177529](https://github.com/devil2531/cve20177529) | no description | 2020-09-26T07:47:29Z |
 | [CVE-2017-13253](https://www.cve.org/CVERecord?id=CVE-2017-13253) | [daehee/nginx-overflow](https://github.com/daehee/nginx-overflow) | Scans for nginx integer overflow vulnerability (CVE-2017-7529) | 2020-09-15T21:19:17Z |
