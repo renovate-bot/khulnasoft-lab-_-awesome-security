@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-20 04:59:58.921281
+Last generated: 2025-10-21 04:05:23.376477
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -3945,6 +3945,7 @@ Last generated: 2025-10-20 04:59:58.921281
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [ejaboz/cve-2024-24919](https://github.com/ejaboz/cve-2024-24919) | no description | 2025-03-24T16:07:27Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [CyprianAtsyor/CVE-2024-24919-Incident-Report.md](https://github.com/CyprianAtsyor/CVE-2024-24919-Incident-Report.md) | no description | 2025-04-25T09:30:10Z |
 | [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-) | no description | 2025-06-08T10:44:52Z |
+| [CVE-2024-24919](https://www.cve.org/CVERecord?id=CVE-2024-24919) | [MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation) | no description | 2025-07-12T16:28:55Z |
 | [CVE-2024-24816](https://www.cve.org/CVERecord?id=CVE-2024-24816) | [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816) | CKEditor 4 &lt; 4.24.0-lts - XSS vulnerability in samples that use the &quot;preview&quot; feature. | 2024-02-10T10:26:35Z |
 | [CVE-2024-24809](https://www.cve.org/CVERecord?id=CVE-2024-24809) | [fa-rrel/CVE-2024-24809-Proof-of-concept](https://github.com/fa-rrel/CVE-2024-24809-Proof-of-concept) | Critical Flaws in Traccar GPS System Expose Users to Remote Attacks | 2024-09-03T09:56:13Z |
 | [CVE-2024-24787](https://www.cve.org/CVERecord?id=CVE-2024-24787) | [LOURC0D3/CVE-2024-24787-PoC](https://github.com/LOURC0D3/CVE-2024-24787-PoC) | CVE-2024-24787 Proof of Concept | 2024-05-10T07:45:51Z |
@@ -5544,6 +5545,7 @@ Last generated: 2025-10-20 04:59:58.921281
 | [CVE-2023-3897](https://www.cve.org/CVERecord?id=CVE-2023-3897) | [jFriedli/CVE-2023-3897](https://github.com/jFriedli/CVE-2023-3897) | no description | 2024-08-13T09:20:21Z |
 | [CVE-2023-38891](https://www.cve.org/CVERecord?id=CVE-2023-38891) | [jselliott/CVE-2023-38891](https://github.com/jselliott/CVE-2023-38891) | Authenticated SQL Injection Vulnerability in VTiger Open Source CRM v7.5 | 2023-09-12T22:58:41Z |
 | [CVE-2023-38890](https://www.cve.org/CVERecord?id=CVE-2023-38890) | [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890) | poc | 2023-08-18T16:37:39Z |
+| [CVE-2023-38873](https://www.cve.org/CVERecord?id=CVE-2023-38873) | [K9-Modz/CVE-2023-38873-G1](https://github.com/K9-Modz/CVE-2023-38873-G1) | no description | 2025-02-13T02:15:26Z |
 | [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [1337kid/CVE-2023-38836](https://github.com/1337kid/CVE-2023-38836) | Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0 | 2023-08-16T14:30:30Z |
 | [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit](https://github.com/TuanLeDevelopment/CVE-2023-MDM0001-Vulnerability-Forced-MDM-Profiles-Removal-Exploit) | no description | 2023-09-05T20:39:32Z |
 | [CVE-2023-38836](https://www.cve.org/CVERecord?id=CVE-2023-38836) | [mind2hex/MICS_Hunter](https://github.com/mind2hex/MICS_Hunter) | Script to exploit CVE-2023-38035 | 2023-09-05T01:58:39Z |
