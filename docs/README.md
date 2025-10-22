@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-21 04:05:23.376477
+Last generated: 2025-10-22 03:04:24.680862
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -3101,6 +3101,7 @@ Last generated: 2025-10-21 04:05:23.376477
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [0x0d3ad/CVE-2024-36401](https://github.com/0x0d3ad/CVE-2024-36401) | CVE-2024-36401 (GeoServer Remote Code Execution) | 2024-11-27T19:13:49Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [whitebear-ch/GeoServerExploit](https://github.com/whitebear-ch/GeoServerExploit) | GeoServer（CVE-2024-36401/CVE-2024-36404）漏洞利用工具 | 2025-01-07T08:13:39Z |
 | [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [amoy6228/CVE-2024-36401_Geoserver_RCE_POC](https://github.com/amoy6228/CVE-2024-36401_Geoserver_RCE_POC) | 本脚本是针对 GeoServer 的远程代码执行漏洞（CVE-2024-36401）开发的 PoC（Proof of Concept）探测工具。该漏洞允许攻击者通过构造特定请求，在目标服务器上执行任意命令。 | 2025-04-30T07:45:55Z |
+| [CVE-2024-36401](https://www.cve.org/CVERecord?id=CVE-2024-36401) | [bmth666/GeoServer-Tools-CVE-2024-36401](https://github.com/bmth666/GeoServer-Tools-CVE-2024-36401) | CVE-2024-36401 图形化利用工具，支持各个JDK版本利用以及回显、内存马实现 | 2025-04-11T04:36:34Z |
 | [CVE-2024-3640](https://www.cve.org/CVERecord?id=CVE-2024-3640) | [H1ng007/CVE-2024-3640_WafBypass](https://github.com/H1ng007/CVE-2024-3640_WafBypass) | CVE-2024-3640绕过Waf进行漏洞利用 | 2025-04-09T07:39:47Z |
 | [CVE-2024-36104](https://www.cve.org/CVERecord?id=CVE-2024-36104) | [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104) | no description | 2024-06-17T07:57:58Z |
 | [CVE-2024-36079](https://www.cve.org/CVERecord?id=CVE-2024-36079) | [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079) | no description | 2024-05-20T22:07:41Z |
@@ -5681,6 +5682,7 @@ Last generated: 2025-10-21 04:05:23.376477
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [mrtacojr/CVE-2023-38408](https://github.com/mrtacojr/CVE-2023-38408) | Script para eliminar vulnerabilidad de openssh de ubuntu 22.04 LTS | 2024-07-17T02:00:31Z |
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [fazilbaig1/cve_2023_38408_scanner](https://github.com/fazilbaig1/cve_2023_38408_scanner) | Vulnerability Overview CVE-2023-38408 affects OpenSSH versions &lt; 9.3p2 and stems from improper validation of data when SSH agent forwarding is enabled. When users connect to a remote server with ssh -A, they allow the agent on their local machine to be used for authentication to further systems | 2024-10-17T13:03:42Z |
 | [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [Nick-Morbid/cve-2023-38408](https://github.com/Nick-Morbid/cve-2023-38408) | no description | 2024-12-15T11:30:46Z |
+| [CVE-2023-38408](https://www.cve.org/CVERecord?id=CVE-2023-38408) | [TX-One/CVE-2023-38408](https://github.com/TX-One/CVE-2023-38408) | CVE-2023-38408 SSH Vulnerability Scanner &amp; PoC | 2025-04-19T20:09:15Z |
 | [CVE-2023-38389](https://www.cve.org/CVERecord?id=CVE-2023-38389) | [codeb0ss/CVE-2023-38389-PoC](https://github.com/codeb0ss/CVE-2023-38389-PoC) | CVE-2023-38389 &lt; Wordpress &lt; JupiterX Core &lt; Unauthenticated Account Takeover | 2023-08-27T00:30:16Z |
 | [CVE-2023-38388](https://www.cve.org/CVERecord?id=CVE-2023-38388) | [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388) | Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload | 2023-08-26T05:51:06Z |
 | [CVE-2023-3836](https://www.cve.org/CVERecord?id=CVE-2023-3836) | [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836) | no description | 2023-08-20T03:16:31Z |
@@ -10870,3 +10872,4 @@ Last generated: 2025-10-21 04:05:23.376477
 | CVE NOT FOUND | [harshul27/CVE-Vulnerability-Dashboard-app](https://github.com/harshul27/CVE-Vulnerability-Dashboard-app) | A Streamlit dashboard providing a cybersecurity analyst&#x27;s narrative on messaging app vulnerabilities (CVEs) from 2019-2024, featuring historical trends, forecasts, and secure alternatives. Data-driven insights for informed digital security decisions. | 2025-07-02T10:10:25Z |
 | CVE NOT FOUND | [AliAmouz/CVE2025-24893](https://github.com/AliAmouz/CVE2025-24893) | no description | 2025-09-24T10:03:08Z |
 | CVE NOT FOUND | [Tamilselvan-S-Cyber-Security/CVE-2025-Xss](https://github.com/Tamilselvan-S-Cyber-Security/CVE-2025-Xss) | no description | 2025-09-28T01:08:25Z |
+| CVE NOT FOUND | [samueloph/generate_cve_stats_debian_2024](https://github.com/samueloph/generate_cve_stats_debian_2024) | no description | 2025-07-14T16:40:31Z |
