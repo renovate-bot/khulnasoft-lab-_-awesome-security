@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-22 03:04:24.680862
+Last generated: 2025-10-23 02:25:19.025079
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -142,6 +142,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2025-61882](https://www.cve.org/CVERecord?id=CVE-2025-61882) | [B1ack4sh/Blackash-CVE-2025-61882](https://github.com/B1ack4sh/Blackash-CVE-2025-61882) | CVE-2025-61882 | 2025-10-07T12:21:42Z |
 | [CVE-2025-6169](https://www.cve.org/CVERecord?id=CVE-2025-6169) | [Yuri08loveElaina/CVE_2025_6169](https://github.com/Yuri08loveElaina/CVE_2025_6169) | The WIMP website co-construction management platform from HAMASTAR Technology has a SQL Injection vulnerability, allowing unauthenticated remote attackers to inject arbitrary SQL commands to read, modify, and delete database contents. | 2025-06-16T07:07:12Z |
 | [CVE-2025-61622](https://www.cve.org/CVERecord?id=CVE-2025-61622) | [fa1consec/cve_2025_61622_poc](https://github.com/fa1consec/cve_2025_61622_poc) | This PoC demonstrates the Remote Code Execution (RCE) vulnerability in  Apache Pyfory (versions 0.12.0-0.12.2 and legacy PyFury 0.1.0-0.10.3)  due to insecure pickle fallback deserialization (CVE-2025-61622). | 2025-10-03T12:44:16Z |
+| [CVE-2025-61183](https://www.cve.org/CVERecord?id=CVE-2025-61183) | [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183) | no description | 2025-10-08T08:47:41Z |
 | [CVE-2025-6085](https://www.cve.org/CVERecord?id=CVE-2025-6085) | [d0n601/CVE-2025-6085](https://github.com/d0n601/CVE-2025-6085) | Make Connector &lt;= 1.5.10 - Authenticated (Administrator+) Arbitrary File Upload | 2025-06-17T22:17:26Z |
 | [CVE-2025-6083](https://www.cve.org/CVERecord?id=CVE-2025-6083) | [Yuri08loveElaina/CVE_2025_6083](https://github.com/Yuri08loveElaina/CVE_2025_6083) | In ExtremeCloud Universal ZTNA, a syntax error in the &#x27;searchKeyword&#x27; condition caused queries to bypass the owner_id filter. This issue may allow users to search data across the entire table instead of being restricted to their specific owner_id. | 2025-06-15T09:42:47Z |
 | [CVE-2025-6082](https://www.cve.org/CVERecord?id=CVE-2025-6082) | [byteReaper77/CVE-2025-6082](https://github.com/byteReaper77/CVE-2025-6082) | Proof‑of‑Concept exploits the Full Path Disclosure bug in the  “Birth Chart Compatibility” WordPress plugin (&lt;=v2.0) | 2025-07-22T15:38:22Z |
@@ -454,6 +455,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2025-5058](https://www.cve.org/CVERecord?id=CVE-2025-5058) | [d0n601/CVE-2025-5058](https://github.com/d0n601/CVE-2025-5058) | eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Upload via set_image Task | 2025-05-21T18:30:01Z |
 | [CVE-2025-50565](https://www.cve.org/CVERecord?id=CVE-2025-50565) | [OoO7ce/CVE-2025-50565](https://github.com/OoO7ce/CVE-2025-50565) | no description | 2025-09-01T01:04:00Z |
 | [CVE-2025-5054](https://www.cve.org/CVERecord?id=CVE-2025-5054) | [daryllundy/cve-2025-5054](https://github.com/daryllundy/cve-2025-5054) | no description | 2025-06-06T03:13:19Z |
+| [CVE-2025-50505](https://www.cve.org/CVERecord?id=CVE-2025-50505) | [bron1e/CVE-2025-50505](https://github.com/bron1e/CVE-2025-50505) | no description | 2025-04-26T22:47:11Z |
 | [CVE-2025-50481](https://www.cve.org/CVERecord?id=CVE-2025-50481) | [kevinpdicks/Mezzanine-CMS-6.1.0-XSS](https://github.com/kevinpdicks/Mezzanine-CMS-6.1.0-XSS) | Mezzanine CMS 6.1.0 XSS (CVE-2025-50481) | 2025-07-05T18:15:01Z |
 | [CVE-2025-50472](https://www.cve.org/CVERecord?id=CVE-2025-50472) | [xhjy2020/CVE-2025-50472](https://github.com/xhjy2020/CVE-2025-50472) | Technical Details and Exploit for CVE-2025-50472 | 2025-07-30T02:02:13Z |
 | [CVE-2025-50461](https://www.cve.org/CVERecord?id=CVE-2025-50461) | [Anchor0221/CVE-2025-50461](https://github.com/Anchor0221/CVE-2025-50461) | Technical Details and Exploit for CVE-2025-50461 | 2025-08-15T06:26:57Z |
@@ -478,6 +480,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit) | CVE-2025-49844 (RediShell) | 2025-10-07T06:18:28Z |
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [gopinaath/CVE-2025-49844-discovery](https://github.com/gopinaath/CVE-2025-49844-discovery) | no description | 2025-10-07T00:57:38Z |
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [dwisiswant0/CVE-2025-49844](https://github.com/dwisiswant0/CVE-2025-49844) | CVE-2025-49844 – Redis Lua Parser Use-After-Free | 2025-10-07T04:58:12Z |
+| [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [srozb/reditrap](https://github.com/srozb/reditrap) | Minimal Redis honeypot detecting RediShell (CVE-2025-49844) exploits. | 2025-10-08T07:16:07Z |
 | [CVE-2025-49706](https://www.cve.org/CVERecord?id=CVE-2025-49706) | [AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation](https://github.com/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation) | A deep dive into CVE-2025-49706 — the SharePoint spoofing flaw now exploited in the wild for stealthy web shell deployment and privilege escalation. | 2025-07-20T13:55:28Z |
 | [CVE-2025-49667](https://www.cve.org/CVERecord?id=CVE-2025-49667) | [Yuri08loveElaina/CVE-2025-49667](https://github.com/Yuri08loveElaina/CVE-2025-49667) | Windows Win32 Kernel Subsystem | 2025-08-16T07:01:19Z |
 | [CVE-2025-49619](https://www.cve.org/CVERecord?id=CVE-2025-49619) | [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619) | This script exploits CVE-2025-49619 in Skyvern to execute a reverse shell command. | 2025-06-09T10:09:43Z |
@@ -1606,6 +1609,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [sfewer-r7/CVE-2025-22457](https://github.com/sfewer-r7/CVE-2025-22457) | PoC for CVE-2025-22457 | 2025-04-09T14:39:25Z |
 | [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [TRone-ux/CVE-2025-22457](https://github.com/TRone-ux/CVE-2025-22457) | PoC CVE-2025-22457 | 2025-05-25T22:52:53Z |
 | [CVE-2025-22457](https://www.cve.org/CVERecord?id=CVE-2025-22457) | [B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457) | CVE-2025-22457 | 2025-07-13T10:43:52Z |
+| [CVE-2025-22441](https://www.cve.org/CVERecord?id=CVE-2025-22441) | [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison) | Writeup and exploit for CVE-2025-22441: Privilege escalation from installed app to SystemUI process on Android due to pass of untrusted ApplicationInfo to LoadedApk | 2025-10-08T13:12:13Z |
 | [CVE-2025-22352](https://www.cve.org/CVERecord?id=CVE-2025-22352) | [DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352) | PoC of CVE-2025-22352 | 2025-01-06T01:59:29Z |
 | [CVE-2025-2233](https://www.cve.org/CVERecord?id=CVE-2025-2233) | [McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233) | Improper Verification of Cryptographic Signature (CWE-347) | 2025-03-12T08:54:24Z |
 | [CVE-2025-22294](https://www.cve.org/CVERecord?id=CVE-2025-22294) | [mirmeweu/cve-2025-22294](https://github.com/mirmeweu/cve-2025-22294) | the task from C*****k | 2025-09-25T16:43:24Z |
@@ -2500,6 +2504,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575) | no description | 2024-11-15T13:19:33Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [XiaomingX/cve-2024-47575-exp](https://github.com/XiaomingX/cve-2024-47575-exp) | CVE-2024-47575是Fortinet的FortiManager和FortiManager Cloud产品中的一个严重漏洞，源于fgfmsd守护进程缺乏对关键功能的身份验证。 | 2024-11-22T03:13:03Z |
 | [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [Laonhearts/CVE-2024-47575-POC](https://github.com/Laonhearts/CVE-2024-47575-POC) | CVE POC Exploit | 2025-01-05T02:54:01Z |
+| [CVE-2024-47575](https://www.cve.org/CVERecord?id=CVE-2024-47575) | [AnnnNix/CVE-2024-47575](https://github.com/AnnnNix/CVE-2024-47575) | PoC for CVE-2024-47575 | 2025-07-19T21:07:16Z |
 | [CVE-2024-47533](https://www.cve.org/CVERecord?id=CVE-2024-47533) | [zetraxz/CVE-2024-47533](https://github.com/zetraxz/CVE-2024-47533) | CVE-2024-47533: Improper Authentication (CWE-287) | 2024-11-19T09:28:48Z |
 | [CVE-2024-47533](https://www.cve.org/CVERecord?id=CVE-2024-47533) | [zs1n/CVE-2024-47533](https://github.com/zs1n/CVE-2024-47533) | PoC of CVE-2025-47533 Clobber RCE | 2025-08-13T01:25:58Z |
 | [CVE-2024-47177](https://www.cve.org/CVERecord?id=CVE-2024-47177) | [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177) | PoC honeypot for detecting exploit attempts against CVE-2024-47177 | 2024-09-27T05:18:23Z |
@@ -4330,6 +4335,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767) | no description | 2024-03-28T07:46:31Z |
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767) | Exploit Toolkit for Adobe ColdFusion CVE-2024-20767 Vulnerability | 2024-03-26T19:17:14Z |
 | [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion) | Exploit for CVE-2024-20767 affecting Adobe ColdFusion | 2024-04-01T09:01:30Z |
+| [CVE-2024-20767](https://www.cve.org/CVERecord?id=CVE-2024-20767) | [alm6no5/CVE-2024-20767](https://github.com/alm6no5/CVE-2024-20767) | no description | 2025-07-19T08:33:21Z |
 | [CVE-2024-20746](https://www.cve.org/CVERecord?id=CVE-2024-20746) | [200101WhoAmI/CVE-2024-20746](https://github.com/200101WhoAmI/CVE-2024-20746) | adobe premiere pro | 2024-08-21T05:29:10Z |
 | [CVE-2024-2074](https://www.cve.org/CVERecord?id=CVE-2024-2074) | [yuziiiiiiiiii/CVE-2024-2074](https://github.com/yuziiiiiiiiii/CVE-2024-2074) | CVE-2024-2074 | 2024-02-29T12:30:37Z |
 | [CVE-2024-20698](https://www.cve.org/CVERecord?id=CVE-2024-20698) | [RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) | Analysis of the vulnerability | 2024-01-17T04:35:42Z |
@@ -4859,6 +4865,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [Meirelez/SSR-DNSSEC](https://github.com/Meirelez/SSR-DNSSEC) | In this repository you can find the files used to try to produce a POC for the CVE-2023-50387 | 2024-05-23T14:41:50Z |
 | [CVE-2023-50387](https://www.cve.org/CVERecord?id=CVE-2023-50387) | [Pablodiz/CVE-2023-50387](https://github.com/Pablodiz/CVE-2023-50387) | no description | 2024-12-04T11:27:11Z |
 | [CVE-2023-50386](https://www.cve.org/CVERecord?id=CVE-2023-50386) | [vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC) | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | 2024-02-29T08:57:47Z |
+| [CVE-2023-50257](https://www.cve.org/CVERecord?id=CVE-2023-50257) | [Jminis/CVE-2023-50257](https://github.com/Jminis/CVE-2023-50257) | This repository is for research purposes (2025 Sejong Univ. Capstone Design) | 2025-04-20T11:32:14Z |
 | [CVE-2023-50245](https://www.cve.org/CVERecord?id=CVE-2023-50245) | [200101WhoAmI/CVE-2023-50245](https://github.com/200101WhoAmI/CVE-2023-50245) | exr viewer | 2024-08-21T04:49:18Z |
 | [CVE-2023-5024](https://www.cve.org/CVERecord?id=CVE-2023-5024) | [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024) | no description | 2023-09-27T03:28:02Z |
 | [CVE-2023-50164](https://www.cve.org/CVERecord?id=CVE-2023-50164) | [jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE) | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | 2023-12-13T09:31:36Z |
@@ -6167,6 +6174,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2023-30258](https://www.cve.org/CVERecord?id=CVE-2023-30258) | [Chocapikk/CVE-2023-30258](https://github.com/Chocapikk/CVE-2023-30258) | Command Injection vulnerability in MagnusSolution magnusbilling 6.x and 7.x allows remote attackers to run arbitrary commands via unauthenticated HTTP request. | 2025-03-16T23:27:52Z |
 | [CVE-2023-30258](https://www.cve.org/CVERecord?id=CVE-2023-30258) | [tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit](https://github.com/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit) | no description | 2025-03-12T10:27:46Z |
 | [CVE-2023-30258](https://www.cve.org/CVERecord?id=CVE-2023-30258) | [n00o00b/CVE-2023-30258-RCE-POC](https://github.com/n00o00b/CVE-2023-30258-RCE-POC) | POC for CVE-2023-30258-RCE by n0o0b | 2025-03-25T16:00:43Z |
+| [CVE-2023-30258](https://www.cve.org/CVERecord?id=CVE-2023-30258) | [sk00l/CVE-2023-30258](https://github.com/sk00l/CVE-2023-30258) | no description | 2025-03-09T15:01:00Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [Rubikcuv5/cve-2023-30253](https://github.com/Rubikcuv5/cve-2023-30253) | Dolibarr before 17.0.1 allows remote code execution by an authenticated user via an uppercase manipulation: &lt;?PHP instead of &lt;?php in injected data. | 2024-05-26T15:43:08Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [04Shivam/CVE-2023-30253-Exploit](https://github.com/04Shivam/CVE-2023-30253-Exploit) | Poc for CVE-2023-30253 | 2024-05-27T11:00:43Z |
 | [CVE-2023-30253](https://www.cve.org/CVERecord?id=CVE-2023-30253) | [nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253](https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253) | Reverse Shell POC exploit for Dolibarr &lt;= 17.0.0 (CVE-2023-30253), PHP Code Injection | 2024-05-27T15:10:12Z |
@@ -7614,6 +7622,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
+| [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [skyllpro/CVE-2021-44026-PoC](https://github.com/skyllpro/CVE-2021-44026-PoC) | Bug Chain XSS (CVE-2020-35730 and CVE-2023-43770) to SQLi (CVE-2021-44026) | 2025-04-20T07:30:38Z |
 | [CVE-2021-43890](https://www.cve.org/CVERecord?id=CVE-2021-43890) | [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc) | no description | 2022-10-28T01:46:51Z |
 | [CVE-2021-43858](https://www.cve.org/CVERecord?id=CVE-2021-43858) | [khuntor/CVE-2021-43858-MinIO](https://github.com/khuntor/CVE-2021-43858-MinIO) | no description | 2023-04-12T07:34:03Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [nuker/CVE-2021-43798](https://github.com/nuker/CVE-2021-43798) | POC for CVE-2021-43798 written in python | 2023-07-19T04:16:39Z |
@@ -8079,6 +8088,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2021-21551](https://www.cve.org/CVERecord?id=CVE-2021-21551) | [nanabingies/CVE-2021-21551](https://github.com/nanabingies/CVE-2021-21551) | Dell Driver EoP (CVE-2021-21551) | 2023-01-07T02:42:59Z |
 | [CVE-2021-21551](https://www.cve.org/CVERecord?id=CVE-2021-21551) | [heikanet/Microsoft-Exchange-RCE](https://github.com/heikanet/Microsoft-Exchange-RCE) | Microsoft Exchange CVE-2021-26855&amp;CVE-2021-27065 | 2023-02-02T13:20:45Z |
 | [CVE-2021-21551](https://www.cve.org/CVERecord?id=CVE-2021-21551) | [Eap2468/CVE-2021-21551](https://github.com/Eap2468/CVE-2021-21551) | Proof of concept exploit for CVE-2021-21551 | 2024-08-02T20:14:27Z |
+| [CVE-2021-21551](https://www.cve.org/CVERecord?id=CVE-2021-21551) | [IlanDudnik/CVE-2021-21551](https://github.com/IlanDudnik/CVE-2021-21551) | Exploit implementation for CVE-2021-21551 | 2025-01-11T12:18:40Z |
 | [CVE-2021-21425](https://www.cve.org/CVERecord?id=CVE-2021-21425) | [CsEnox/CVE-2021-21425](https://github.com/CsEnox/CVE-2021-21425) | GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Code Execution (CVE-2021-21425) | 2021-06-24T13:06:24Z |
 | [CVE-2021-21425](https://www.cve.org/CVERecord?id=CVE-2021-21425) | [bluetoothStrawberry/cve-2021-21425](https://github.com/bluetoothStrawberry/cve-2021-21425) | working exploit for the old cve-2021-21425 grav cms 1.7.10 vuln | 2024-11-13T00:30:59Z |
 | [CVE-2021-21401](https://www.cve.org/CVERecord?id=CVE-2021-21401) | [uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33](https://github.com/uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33) | no description | 2024-11-05T20:05:20Z |
@@ -8761,6 +8771,7 @@ Last generated: 2025-10-22 03:04:24.680862
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [0x4r2/Webmin-CVE-2019-15107](https://github.com/0x4r2/Webmin-CVE-2019-15107) | RCE for Webmin CVE-2019-15107 | 2023-12-12T19:53:50Z |
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [aamfrk/Webmin-CVE-2019-15107](https://github.com/aamfrk/Webmin-CVE-2019-15107) | Exploit for Webmin servers, versions 1.890 through 1.920 | 2023-11-09T12:19:09Z |
 | [CVE-2019-15043](https://www.cve.org/CVERecord?id=CVE-2019-15043) | [h0ffayyy/CVE-2019-15043](https://github.com/h0ffayyy/CVE-2019-15043) | POC scanner for the Grafana vulnerability CVE-2019-15043 | 2020-08-01T21:31:46Z |
+| [CVE-2019-14974](https://www.cve.org/CVERecord?id=CVE-2019-14974) | [conan-sudo/CVE-2019-14974-bypass](https://github.com/conan-sudo/CVE-2019-14974-bypass) | no description | 2024-06-06T16:11:05Z |
 | [CVE-2019-14678](https://www.cve.org/CVERecord?id=CVE-2019-14678) | [mbadanoiu/CVE-2019-14678](https://github.com/mbadanoiu/CVE-2019-14678) | CVE-2019-14678: XML External Entity in SAS XML Mapper | 2024-03-12T15:49:09Z |
 | [CVE-2019-1458](https://www.cve.org/CVERecord?id=CVE-2019-1458) | [piotrflorczyk/cve-2019-1458_POC](https://github.com/piotrflorczyk/cve-2019-1458_POC) | POC for cve-2019-1458 | 2020-03-03T17:55:07Z |
 | [CVE-2019-14530](https://www.cve.org/CVERecord?id=CVE-2019-14530) | [sec-it/exploit-CVE-2019-14530](https://github.com/sec-it/exploit-CVE-2019-14530) | OpenEMR &lt; 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure | 2021-06-30T08:59:57Z |
