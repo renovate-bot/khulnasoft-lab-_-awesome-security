@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-23 02:25:19.025079
+Last generated: 2025-10-24 02:22:37.237794
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -183,6 +183,7 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2025-57926](https://www.cve.org/CVERecord?id=CVE-2025-57926) | [quetuan03/CVE-2025-57926](https://github.com/quetuan03/CVE-2025-57926) | WordPress Passster Plugin &lt;= 4.2.18 is vulnerable to Cross Site Scripting (XSS) | 2025-10-01T09:53:14Z |
 | [CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833) | [Mkway/CVE-2025-57833](https://github.com/Mkway/CVE-2025-57833) | We&#x27;ve set up an environment to test CVE-2025-57833. This environment was built using AI, so it&#x27;s subject to ongoing modification. | 2025-09-05T05:03:29Z |
 | [CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833) | [loic-houchi/Django-faille-CVE-2025-57833_test](https://github.com/loic-houchi/Django-faille-CVE-2025-57833_test) | no description | 2025-09-09T12:08:05Z |
+| [CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833) | [ianoboyle/CVE-2025-57833](https://github.com/ianoboyle/CVE-2025-57833) | Example Vulnerable application for CVE-2025–57833 | 2025-10-08T21:18:38Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check) | This is repository contains a script to check for current IOCs listed in the freepbx forum topic of the CVE-2025-57819 | 2025-08-29T11:59:48Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [rxerium/CVE-2025-57819](https://github.com/rxerium/CVE-2025-57819) | Detection for CVE-2025-57819 | 2025-08-28T10:15:33Z |
 | [CVE-2025-57819](https://www.cve.org/CVERecord?id=CVE-2025-57819) | [net-hex/CVE-2025-57819](https://github.com/net-hex/CVE-2025-57819) | A write up of CVE-2025-57819, a vulnerability affecting FreePBX 15, 16, and 17 | 2025-09-02T00:31:42Z |
@@ -481,6 +482,7 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [gopinaath/CVE-2025-49844-discovery](https://github.com/gopinaath/CVE-2025-49844-discovery) | no description | 2025-10-07T00:57:38Z |
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [dwisiswant0/CVE-2025-49844](https://github.com/dwisiswant0/CVE-2025-49844) | CVE-2025-49844 – Redis Lua Parser Use-After-Free | 2025-10-07T04:58:12Z |
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [srozb/reditrap](https://github.com/srozb/reditrap) | Minimal Redis honeypot detecting RediShell (CVE-2025-49844) exploits. | 2025-10-08T07:16:07Z |
+| [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [pedrorichil/CVE-2025-49844](https://github.com/pedrorichil/CVE-2025-49844) | no description | 2025-10-08T13:38:51Z |
 | [CVE-2025-49706](https://www.cve.org/CVERecord?id=CVE-2025-49706) | [AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation](https://github.com/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation) | A deep dive into CVE-2025-49706 — the SharePoint spoofing flaw now exploited in the wild for stealthy web shell deployment and privilege escalation. | 2025-07-20T13:55:28Z |
 | [CVE-2025-49667](https://www.cve.org/CVERecord?id=CVE-2025-49667) | [Yuri08loveElaina/CVE-2025-49667](https://github.com/Yuri08loveElaina/CVE-2025-49667) | Windows Win32 Kernel Subsystem | 2025-08-16T07:01:19Z |
 | [CVE-2025-49619](https://www.cve.org/CVERecord?id=CVE-2025-49619) | [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619) | This script exploits CVE-2025-49619 in Skyvern to execute a reverse shell command. | 2025-06-09T10:09:43Z |
@@ -764,6 +766,7 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2025-38089](https://www.cve.org/CVERecord?id=CVE-2025-38089) | [keymaker-arch/NFSundown](https://github.com/keymaker-arch/NFSundown) | PoC for CVE-2025-38089 | 2025-07-02T08:40:57Z |
 | [CVE-2025-38001](https://www.cve.org/CVERecord?id=CVE-2025-38001) | [0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001) | CVE-2025-38001: Linux HFSC Eltree Use-After-Free - Debian 12 PoC | 2025-07-11T18:34:08Z |
 | [CVE-2025-38001](https://www.cve.org/CVERecord?id=CVE-2025-38001) | [khoatran107/cve-2025-38001](https://github.com/khoatran107/cve-2025-38001) | no description | 2025-08-25T09:10:40Z |
+| [CVE-2025-37947](https://www.cve.org/CVERecord?id=CVE-2025-37947) | [doyensec/KSMBD-CVE-2025-37947](https://github.com/doyensec/KSMBD-CVE-2025-37947) | Blog Post: https://blog.doyensec.com/2025/10/08/ksmbd-3.html | 2025-10-03T14:08:46Z |
 | [CVE-2025-37899](https://www.cve.org/CVERecord?id=CVE-2025-37899) | [SeanHeelan/o3_finds_cve-2025-37899](https://github.com/SeanHeelan/o3_finds_cve-2025-37899) | Artefacts for blog post on finding CVE-2025-37899 with o3 | 2025-05-22T10:36:18Z |
 | [CVE-2025-37899](https://www.cve.org/CVERecord?id=CVE-2025-37899) | [vett3x/SMB-LINUX-CVE-2025-37899](https://github.com/vett3x/SMB-LINUX-CVE-2025-37899) | no description | 2025-06-09T09:01:57Z |
 | [CVE-2025-3776](https://www.cve.org/CVERecord?id=CVE-2025-3776) | [Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776) | WordPress Verification SMS with TargetSMS Plugin &lt;= 1.5 is vulnerable to Remote Code Execution (RCE) | 2025-04-24T01:19:01Z |
@@ -910,6 +913,7 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463) | [onniio/CVE-2025-32463](https://github.com/onniio/CVE-2025-32463) | no description | 2025-10-01T15:07:07Z |
 | [CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463) | [AC8999/CVE-2025-32463](https://github.com/AC8999/CVE-2025-32463) | A Python exploit for CVE-2025-32463, a critical local privilege escalation vulnerability in the Sudo binary on Linux systems. This flaw allows local users to obtain root access by exploiting the --chroot option, which incorrectly uses /etc/nsswitch.conf from a user-controlled directory. | 2025-09-30T00:23:56Z |
 | [CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463) | [r3dBust3r/CVE-2025-32463](https://github.com/r3dBust3r/CVE-2025-32463) | This repository contains an exploit script for CVE-2025-32463, a local privilege escalation involving `chroot` behavior in affected `sudo` versions (1.9.14 through 1.9.17) | 2025-10-07T00:17:59Z |
+| [CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463) | [0x3c4dfa1/CVE-2025-32463](https://github.com/0x3c4dfa1/CVE-2025-32463) | sudo --chroot exploit | 2025-10-08T22:30:12Z |
 | [CVE-2025-32462](https://www.cve.org/CVERecord?id=CVE-2025-32462) | [Hacksparo/CVE-2025-32462](https://github.com/Hacksparo/CVE-2025-32462) | POC script for CVE-2025-32462 a vulnerability in sudo | 2025-07-01T16:23:11Z |
 | [CVE-2025-32462](https://www.cve.org/CVERecord?id=CVE-2025-32462) | [cybersentinelx1/CVE-2025-32462-Exploit](https://github.com/cybersentinelx1/CVE-2025-32462-Exploit) | CVE-2025-32462 Exploit | 2025-07-03T15:53:18Z |
 | [CVE-2025-32462](https://www.cve.org/CVERecord?id=CVE-2025-32462) | [CryingN/CVE-2025-32462](https://github.com/CryingN/CVE-2025-32462) | A easy sudo poc by cryingn. | 2025-07-03T07:59:37Z |
@@ -1713,6 +1717,9 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2025-10874](https://www.cve.org/CVERecord?id=CVE-2025-10874) | [ryanmroth/Orbit-Fox_SSRF_CVE-2025-10874](https://github.com/ryanmroth/Orbit-Fox_SSRF_CVE-2025-10874) | Demonstrates SSRF with null byte injection bypass for CVE-2025-10874 | 2025-10-06T16:05:27Z |
 | [CVE-2025-10585](https://www.cve.org/CVERecord?id=CVE-2025-10585) | [AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day) | Google patched CVE-2025-10585, a Chrome V8 zero-day under active exploitation — here’s what it is, why it matters, and how to stay safe. | 2025-09-19T19:53:28Z |
 | [CVE-2025-1055](https://www.cve.org/CVERecord?id=CVE-2025-1055) | [diego-tella/CVE-2025-1055-poc](https://github.com/diego-tella/CVE-2025-1055-poc) | PoC for CVE-2025-1055 and CVE-2025-52915 using K7RKScan.sys | 2025-09-04T12:24:05Z |
+| [CVE-2025-10353](https://www.cve.org/CVERecord?id=CVE-2025-10353) | [ivansmc00/CVE-2025-10353-POC](https://github.com/ivansmc00/CVE-2025-10353-POC) | Exploit for CVE-2025-10353. Unauthenticated File Upload on Melis Platform Framework that leads to RCE | 2025-10-08T11:52:13Z |
+| [CVE-2025-10352](https://www.cve.org/CVERecord?id=CVE-2025-10352) | [ivansmc00/CVE-2025-10352-POC](https://github.com/ivansmc00/CVE-2025-10352-POC) | Exploit for CVE-2025-10352. Admin account creation on Melis Platform Framework | 2025-10-08T10:48:31Z |
+| [CVE-2025-10351](https://www.cve.org/CVERecord?id=CVE-2025-10351) | [ivansmc00/CVE-2025-10351-POC](https://github.com/ivansmc00/CVE-2025-10351-POC) | Exploit for CVE-2025-10351. SQL Injection on Melis Platform Framework | 2025-08-03T11:04:53Z |
 | [CVE-2025-10184](https://www.cve.org/CVERecord?id=CVE-2025-10184) | [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC) | no description | 2025-09-24T09:24:45Z |
 | [CVE-2025-10184](https://www.cve.org/CVERecord?id=CVE-2025-10184) | [Webpage-gh/CVE-2025-10184-PoC](https://github.com/Webpage-gh/CVE-2025-10184-PoC) | OxygenOS Telephony provider permission bypass | 2025-10-04T10:19:07Z |
 | [CVE-2025-1015](https://www.cve.org/CVERecord?id=CVE-2025-1015) | [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015) | an attacker to create and export an address book containing a malicious payload in a field. For example, in the “Other” field of the Instant Messaging section. If another user imported the address book, clicking on the link could result in opening a web page inside Thunderbird, and that page could execute (unprivileged) JavaScript | 2025-02-06T08:35:56Z |
@@ -1869,6 +1876,7 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [tequilasunsh1ne/ivanti_CVE_2024_8190](https://github.com/tequilasunsh1ne/ivanti_CVE_2024_8190) | no description | 2024-10-08T09:35:01Z |
 | [CVE-2024-8190](https://www.cve.org/CVERecord?id=CVE-2024-8190) | [flyingllama87/CVE-2024-8190-unauth](https://github.com/flyingllama87/CVE-2024-8190-unauth) | Combining CVE-2024-8963 &amp; CVE-2024-8190 - For Unauthenticated RCE on Ivanti CSA 4.6 and below | 2025-03-04T11:34:52Z |
 | [CVE-2024-8176](https://www.cve.org/CVERecord?id=CVE-2024-8176) | [uthrasri/Expat_2.6.2_CVE-2024-8176](https://github.com/uthrasri/Expat_2.6.2_CVE-2024-8176) | no description | 2025-04-02T10:39:00Z |
+| [CVE-2024-8118](https://www.cve.org/CVERecord?id=CVE-2024-8118) | [nurarifin05/POC-CVE-2024-8118](https://github.com/nurarifin05/POC-CVE-2024-8118) | Berikut untuk POC grafana CVE-2024-8118 | 2025-07-21T05:58:31Z |
 | [CVE-2024-8069](https://www.cve.org/CVERecord?id=CVE-2024-8069) | [XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN](https://github.com/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN) | Citrix Virtual Apps and Desktops (XEN) Unauthenticated RCE | 2024-11-13T02:50:56Z |
 | [CVE-2024-8030](https://www.cve.org/CVERecord?id=CVE-2024-8030) | [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC) | CVE-2024-8030 &lt; GiveWP - Donation Plugin and Fundraising Platform Unauthenticated PHP Object Injection to Remote Code Execution [Exploit] | 2024-08-27T21:05:44Z |
 | [CVE-2024-7988](https://www.cve.org/CVERecord?id=CVE-2024-7988) | [hatvix1/CVE-2024-7988-Private-POC](https://github.com/hatvix1/CVE-2024-7988-Private-POC) | CVE-2024-7988-Private-POC | 2024-11-03T13:22:45Z |
@@ -2235,6 +2243,7 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [hopsypopsy8/CVE-2024-53677-Exploitation](https://github.com/hopsypopsy8/CVE-2024-53677-Exploitation) | Apache Struts CVE-2024-53677 Exploitation | 2025-02-13T07:26:08Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [shishirghimir/CVE-2024-53677-Exploit](https://github.com/shishirghimir/CVE-2024-53677-Exploit) | no description | 2025-02-24T12:28:28Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [r007sec/CVE-2024-53677](https://github.com/r007sec/CVE-2024-53677) | no description | 2025-06-03T12:55:55Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [BuludX/CVE-2024-53677](https://github.com/BuludX/CVE-2024-53677) | CVE-2024-53677 | 2025-05-20T08:37:46Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-53615](https://www.cve.org/CVERecord?id=CVE-2024-53615) | [beune/CVE-2024-53615](https://github.com/beune/CVE-2024-53615) | CVE-2024-53615 | 2024-11-04T18:34:58Z |
 | [CVE-2024-53591](https://www.cve.org/CVERecord?id=CVE-2024-53591) | [aljoharasubaie/CVE-2024-53591](https://github.com/aljoharasubaie/CVE-2024-53591) | no description | 2025-04-13T08:46:11Z |
@@ -8828,6 +8837,7 @@ Last generated: 2025-10-23 02:25:19.025079
 | [CVE-2019-11447](https://www.cve.org/CVERecord?id=CVE-2019-11447) | [0xkasra/CVE-2019-11447](https://github.com/0xkasra/CVE-2019-11447) | no description | 2022-04-14T01:45:04Z |
 | [CVE-2019-11447](https://www.cve.org/CVERecord?id=CVE-2019-11447) | [substing/CVE-2019-11447_reverse_shell_upload](https://github.com/substing/CVE-2019-11447_reverse_shell_upload) | no description | 2023-12-28T19:11:09Z |
 | [CVE-2019-11447](https://www.cve.org/CVERecord?id=CVE-2019-11447) | [CRFSlick/CVE-2019-11447-POC](https://github.com/CRFSlick/CVE-2019-11447-POC) | CuteNews 2.1.2 - CVE-2019-11447 Proof-Of-Concept | 2024-02-11T21:36:58Z |
+| [CVE-2019-11408](https://www.cve.org/CVERecord?id=CVE-2019-11408) | [HoseynHeydari/fusionpbx_rce_vulnerability](https://github.com/HoseynHeydari/fusionpbx_rce_vulnerability) | Chain CVE-2019-11408 – XSS in operator panel and CVE-2019-11409 – Command injection in operator panel. | 2023-11-25T17:04:39Z |
 | [CVE-2019-11395](https://www.cve.org/CVERecord?id=CVE-2019-11395) | [caioprince/CVE-2019-11395](https://github.com/caioprince/CVE-2019-11395) | A exploit for the CVE-2019-11395 vulnerability in the MailCarrier 2.51 email application, enabling remote code execution. | 2024-04-21T13:39:40Z |
 | [CVE-2019-11358](https://www.cve.org/CVERecord?id=CVE-2019-11358) | [Snorlyd/https-nj.gov---CVE-2019-11358](https://github.com/Snorlyd/https-nj.gov---CVE-2019-11358) | Vulnearability Report of the New Jersey official site | 2022-05-23T08:51:42Z |
 | [CVE-2019-11358](https://www.cve.org/CVERecord?id=CVE-2019-11358) | [isacaya/CVE-2019-11358](https://github.com/isacaya/CVE-2019-11358) | no description | 2023-08-05T14:44:42Z |
