@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-28 03:49:40.797025
+Last generated: 2025-10-29 02:44:14.233960
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -3167,6 +3167,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2024-35584](https://www.cve.org/CVERecord?id=CVE-2024-35584) | [whwhwh96/CVE-2024-35584](https://github.com/whwhwh96/CVE-2024-35584) | OpenSIS SQLi Injection | 2024-10-14T17:24:01Z |
 | [CVE-2024-35538](https://www.cve.org/CVERecord?id=CVE-2024-35538) | [cyberaz0r/Typecho-Multiple-Vulnerabilities](https://github.com/cyberaz0r/Typecho-Multiple-Vulnerabilities) | Exploits for Typecho CVE-2024-35538, CVE-2024-35539 and CVE-2024-35540 | 2024-08-18T17:09:05Z |
 | [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc) | CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection | 2024-05-27T15:36:24Z |
+| [CVE-2024-3552](https://www.cve.org/CVERecord?id=CVE-2024-3552) | [KiPhuong/cve-2024-3552](https://github.com/KiPhuong/cve-2024-3552) | no description | 2025-07-22T08:47:56Z |
 | [CVE-2024-35511](https://www.cve.org/CVERecord?id=CVE-2024-35511) | [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511) | Men Salon Management System Using PHP and MySQL | 2024-05-25T13:07:35Z |
 | [CVE-2024-35475](https://www.cve.org/CVERecord?id=CVE-2024-35475) | [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475) | no description | 2024-05-22T14:21:48Z |
 | [CVE-2024-35469](https://www.cve.org/CVERecord?id=CVE-2024-35469) | [dovankha/CVE-2024-35469](https://github.com/dovankha/CVE-2024-35469) | CVE-2024-35469 - SQL injection | 2024-05-11T07:27:31Z |
@@ -3443,6 +3444,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [ashutosh0408/CVE-2024-32002](https://github.com/ashutosh0408/CVE-2024-32002) | This repository contains a PoC for exploiting CVE-2024-32002, a vulnerability in Git that allows RCE during a git clone operation. By crafting repositories with submodules in a specific way, an attacker can exploit symlink handling on case-insensitive filesystems to write files into the .git/ directory, leading to the execution of malicious hooks. | 2025-03-06T09:40:43Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [O-Carneiro/cve_2024_32002_rce](https://github.com/O-Carneiro/cve_2024_32002_rce) | Repo tor showcase the exploit | 2025-06-23T05:50:54Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [O-Carneiro/cve_2024_32002_hook](https://github.com/O-Carneiro/cve_2024_32002_hook) | Repo to showcase the explotation of cve 2024 32002 | 2025-06-23T05:45:28Z |
+| [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [Dre4m017/fuzzy](https://github.com/Dre4m017/fuzzy) | cve-2024-32002 | 2025-07-22T01:35:49Z |
 | [CVE-2024-320002](https://www.cve.org/CVERecord?id=CVE-2024-320002) | [bonnettheo/hook](https://github.com/bonnettheo/hook) | submodule for CVE-2024-320002 | 2024-06-20T09:02:23Z |
 | [CVE-2024-31989](https://www.cve.org/CVERecord?id=CVE-2024-31989) | [vt0x78/CVE-2024-31989](https://github.com/vt0x78/CVE-2024-31989) | Exploit for CVE-2024-31989. | 2024-07-17T14:23:52Z |
 | [CVE-2024-31982](https://www.cve.org/CVERecord?id=CVE-2024-31982) | [k3lpi3b4nsh33/CVE-2024-31982](https://github.com/k3lpi3b4nsh33/CVE-2024-31982) | no description | 2024-06-22T08:47:20Z |
@@ -6203,6 +6205,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2023-30943](https://www.cve.org/CVERecord?id=CVE-2023-30943) | [lucas-cauhe/cargo-perm](https://github.com/lucas-cauhe/cargo-perm) | Cargo exploit from CVE-2023-38497 | 2023-08-04T16:36:10Z |
 | [CVE-2023-30943](https://www.cve.org/CVERecord?id=CVE-2023-30943) | [RubyCat1337/CVE-2023-30943](https://github.com/RubyCat1337/CVE-2023-30943) | CVE-2023-30943 (Moodle XSS) | 2024-03-21T08:08:52Z |
 | [CVE-2023-30861](https://www.cve.org/CVERecord?id=CVE-2023-30861) | [JawadPy/CVE-2023-30861-Exploit](https://github.com/JawadPy/CVE-2023-30861-Exploit) | Explaining how to exploit CVE-2023-30861 | 2023-10-13T08:27:03Z |
+| [CVE-2023-30861](https://www.cve.org/CVERecord?id=CVE-2023-30861) | [fromitive/cve-2023-30861-poc](https://github.com/fromitive/cve-2023-30861-poc) | Flask CVE-2023-30861 Poc 환경구축 | 2025-04-25T06:59:02Z |
 | [CVE-2023-30845](https://www.cve.org/CVERecord?id=CVE-2023-30845) | [himori123/-CVE-2023-30845](https://github.com/himori123/-CVE-2023-30845) | Explore CVE 2023-30845 automatically across multiple subdomains | 2023-09-22T01:14:20Z |
 | [CVE-2023-30800](https://www.cve.org/CVERecord?id=CVE-2023-30800) | [griffinsectio/CVE-2023-30800_PoC](https://github.com/griffinsectio/CVE-2023-30800_PoC) | Proof of concept for CVE-2023-30800 | 2024-07-17T06:24:41Z |
 | [CVE-2023-30800](https://www.cve.org/CVERecord?id=CVE-2023-30800) | [griffinsectio/CVE-2023-30800_PoC_go](https://github.com/griffinsectio/CVE-2023-30800_PoC_go) | no description | 2024-07-22T09:03:35Z |
@@ -6249,6 +6252,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [libasmon/Exploite-CVE-2023-30212-Vulnerability](https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability) | Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks | 2023-05-27T06:43:44Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [libas7994/Exploit-the-CVE-2023-30212-vulnerability](https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability) | Vulnerable Docker Environment CVE-2023-30212 | 2023-05-27T09:29:41Z |
 | [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [mallutrojan/CVE-2023-30212-Lab](https://github.com/mallutrojan/CVE-2023-30212-Lab) | GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting. | 2023-05-26T09:33:23Z |
+| [CVE-2023-30212](https://www.cve.org/CVERecord?id=CVE-2023-30212) | [sungmin20/cve-2023-30212](https://github.com/sungmin20/cve-2023-30212) | PoC for CVE-2023-30212 using Docker | 2025-04-11T12:27:55Z |
 | [CVE-2023-30190](https://www.cve.org/CVERecord?id=CVE-2023-30190) | [MojithaR/CVE-2023-30190-FOLLINA](https://github.com/MojithaR/CVE-2023-30190-FOLLINA) | no description | 2023-11-05T13:36:07Z |
 | [CVE-2023-30146](https://www.cve.org/CVERecord?id=CVE-2023-30146) | [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146) | Some Assmann manufactured IP-Cams leak the administrator password in their backup. | 2023-06-08T18:18:47Z |
 | [CVE-2023-3009](https://www.cve.org/CVERecord?id=CVE-2023-3009) | [mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009) | Stored XSS vulnerability in Teampass &lt; 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi | 2023-05-31T16:23:23Z |
@@ -7675,6 +7679,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [thomaspatzke/Log4Pot](https://github.com/thomaspatzke/Log4Pot) | A honeypot for the Log4Shell vulnerability (CVE-2021-44228). | 2021-12-15T22:30:34Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [claranet/ansible-role-log4shell](https://github.com/claranet/ansible-role-log4shell) | Find Log4Shell CVE-2021-44228 on your system | 2021-12-13T16:41:31Z |
 | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [ZacharyZcR/CVE-2021-44228](https://github.com/ZacharyZcR/CVE-2021-44228) | 调试环境 | 2025-01-20T08:04:01Z |
+| [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) | [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) | An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability. | 2021-12-15T12:07:05Z |
 | [CVE-2021-44186](https://www.cve.org/CVERecord?id=CVE-2021-44186) | [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186) | A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3. | 2023-02-08T07:30:52Z |
 | [CVE-2021-44103](https://www.cve.org/CVERecord?id=CVE-2021-44103) | [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103) | no description | 2022-10-16T16:02:47Z |
 | [CVE-2021-44026](https://www.cve.org/CVERecord?id=CVE-2021-44026) | [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026) | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | 2023-11-14T11:32:36Z |
@@ -7700,6 +7705,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp) | A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic. | 2021-12-07T15:11:34Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [hxlxmj/Grafxploit](https://github.com/hxlxmj/Grafxploit) | Automated Exploit Tool for Grafana CVE-2021-43798: Scanning common files that contain juicy informations and extracting SSH keys from compromised users. | 2024-07-22T14:28:08Z |
 | [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [0xSAZZAD/Grafana-CVE-2021-43798](https://github.com/0xSAZZAD/Grafana-CVE-2021-43798) | Python implementation of a tool for decrypting and encrypting sensitive data in Grafana, specifically addressing the vulnerabilities associated with CVE-2021-43798. Grafana encrypts all data source passwords using the AES algorithm with the secret_key found in the defaults.ini configuration file. | 2024-10-05T18:51:12Z |
+| [CVE-2021-43798](https://www.cve.org/CVERecord?id=CVE-2021-43798) | [davidrxchester/Grafana-8.3-Directory-Traversal](https://github.com/davidrxchester/Grafana-8.3-Directory-Traversal) | CVE-2021-43798 working exploit | 2025-01-26T18:32:08Z |
 | [CVE-2021-43657](https://www.cve.org/CVERecord?id=CVE-2021-43657) | [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657) | This is a reference/POC for CVE-2021-43657 | 2022-11-08T02:13:29Z |
 | [CVE-2021-43650](https://www.cve.org/CVERecord?id=CVE-2021-43650) | [OpenXP-Research/CVE-2021-43650](https://github.com/OpenXP-Research/CVE-2021-43650) | Webrun &lt;= 3.6.0.42 SQLi | 2024-09-19T14:10:00Z |
 | [CVE-2021-43617](https://www.cve.org/CVERecord?id=CVE-2021-43617) | [Sybelle03/CVE-2021-43617](https://github.com/Sybelle03/CVE-2021-43617) | This is a reproduction of PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF) vulnerability | 2023-06-08T08:05:36Z |
@@ -7848,6 +7854,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [Typical0day/CVE-2021-4034](https://github.com/Typical0day/CVE-2021-4034) | no description | 2024-07-04T02:33:57Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [zxybfq/CVE-2021-4034](https://github.com/zxybfq/CVE-2021-4034) | no description | 2024-08-27T02:39:10Z |
 | [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [EuJin03/CVE-2021-4034-PoC](https://github.com/EuJin03/CVE-2021-4034-PoC) | no description | 2024-10-04T12:33:59Z |
+| [CVE-2021-4034](https://www.cve.org/CVERecord?id=CVE-2021-4034) | [dh4r4/PwnKit-CVE-2021-4034-](https://github.com/dh4r4/PwnKit-CVE-2021-4034-) | A rewrite of the Polkit vulnerability. | 2025-01-27T22:13:42Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303) | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | 2022-11-24T20:00:16Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | 2021-12-13T03:57:50Z |
 | [CVE-2021-40303](https://www.cve.org/CVERecord?id=CVE-2021-40303) | [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution) | Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp; Remote Code Execution PoC (CVE-2021-41773 &amp; CVE-2021-42013) | 2022-11-22T14:09:18Z |
@@ -7874,6 +7881,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2021-3773](https://www.cve.org/CVERecord?id=CVE-2021-3773) | [d0rb/CVE-2021-3773](https://github.com/d0rb/CVE-2021-3773) | This script exploits the &quot;Port Shadow&quot; vulnerability (CVE-2021-3773) in OpenVPN servers using Netfilter for NAT. | 2024-07-18T06:43:12Z |
 | [CVE-2021-37580](https://www.cve.org/CVERecord?id=CVE-2021-37580) | [fengwenhua/CVE-2021-37580](https://github.com/fengwenhua/CVE-2021-37580) | CVE-2021-37580的poc | 2021-11-17T13:26:46Z |
 | [CVE-2021-37580](https://www.cve.org/CVERecord?id=CVE-2021-37580) | [CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-](https://github.com/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580-) | Apache ShenYu Admin JWT认证绕过漏洞(CVE-2021-37580) | 2023-10-10T08:41:54Z |
+| [CVE-2021-3754](https://www.cve.org/CVERecord?id=CVE-2021-3754) | [7Ragnarok7/CVE-2021-3754](https://github.com/7Ragnarok7/CVE-2021-3754) | Vulnerability details and exploit for CVE-2021-3754 | 2023-09-07T07:49:21Z |
 | [CVE-2021-36955](https://www.cve.org/CVERecord?id=CVE-2021-36955) | [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP) | CVE-2021-36955 | 2022-07-18T07:08:56Z |
 | [CVE-2021-36782](https://www.cve.org/CVERecord?id=CVE-2021-36782) | [fe-ax/tf-cve-2021-36782](https://github.com/fe-ax/tf-cve-2021-36782) | A Terraform module to launch Rancher 2.6.6 for blog article about CVE-2021-36782 | 2022-12-01T19:30:27Z |
 | [CVE-2021-36630](https://www.cve.org/CVERecord?id=CVE-2021-36630) | [lixiang957/CVE-2021-36630](https://github.com/lixiang957/CVE-2021-36630) | no description | 2023-01-15T09:55:38Z |
@@ -8983,6 +8991,7 @@ Last generated: 2025-10-28 03:49:40.797025
 | [CVE-2018-8097](https://www.cve.org/CVERecord?id=CVE-2018-8097) | [SilentVoid13/CVE-2018-8097](https://github.com/SilentVoid13/CVE-2018-8097) | CVE-2018-8097 PoC | 2023-01-19T13:31:12Z |
 | [CVE-2018-8045](https://www.cve.org/CVERecord?id=CVE-2018-8045) | [luckybool1020/CVE-2018-8045](https://github.com/luckybool1020/CVE-2018-8045) | Joomla内核SQL注入漏洞原理、docker及poc[基于pocsuite框架] | 2019-11-14T09:18:40Z |
 | [CVE-2018-8032](https://www.cve.org/CVERecord?id=CVE-2018-8032) | [cairuojin/CVE-2018-8032](https://github.com/cairuojin/CVE-2018-8032) | 从老外那里下载了该漏洞的修复工程，无奈依赖包实在是太多下不下来，选取其中axis工程打成jar包后发现已成功修复项目的漏洞，有需要的亲可以下载重新打jar包替换即可。  clone后用idea打axis这个jar包即可 | 2020-03-30T06:31:49Z |
+| [CVE-2018-7845](https://www.cve.org/CVERecord?id=CVE-2018-7845) | [yanissec/CVE-2018-7845](https://github.com/yanissec/CVE-2018-7845) | CVE-2018-7845 | 2023-10-23T07:42:06Z |
 | [CVE-2018-7844](https://www.cve.org/CVERecord?id=CVE-2018-7844) | [yanissec/CVE-2018-7844](https://github.com/yanissec/CVE-2018-7844) | CVE-2018-7844 | 2023-10-20T09:43:56Z |
 | [CVE-2018-7843](https://www.cve.org/CVERecord?id=CVE-2018-7843) | [yanissec/CVE-2018-7843](https://github.com/yanissec/CVE-2018-7843) | CVE-2018-7843 | 2023-10-18T09:58:32Z |
 | [CVE-2018-7691](https://www.cve.org/CVERecord?id=CVE-2018-7691) | [alt3kx/CVE-2018-7691](https://github.com/alt3kx/CVE-2018-7691) | The SSC REST API contains Insecure Direct Object Reference (IDOR) vulnerabilities  in Fortify Software Security Center (SSC) 17.10, 17.20 &amp; 18.10 | 2018-11-26T13:54:08Z |
