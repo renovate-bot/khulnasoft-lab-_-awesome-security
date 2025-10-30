@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-29 02:44:14.233960
+Last generated: 2025-10-30 02:41:20.766712
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -124,6 +124,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2025-6554](https://www.cve.org/CVERecord?id=CVE-2025-6554) | [ghostn4444/POC-CVE-2025-6554](https://github.com/ghostn4444/POC-CVE-2025-6554) | no description | 2025-07-09T04:20:12Z |
 | [CVE-2025-6554](https://www.cve.org/CVERecord?id=CVE-2025-6554) | [9Insomnie/CVE-2025-6554](https://github.com/9Insomnie/CVE-2025-6554) | CVE-2025-6554 漏洞概念验证 | 2025-07-10T03:56:55Z |
 | [CVE-2025-6554](https://www.cve.org/CVERecord?id=CVE-2025-6554) | [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) | no description | 2025-10-05T02:01:19Z |
+| [CVE-2025-6554](https://www.cve.org/CVERecord?id=CVE-2025-6554) | [jopraveen/CVE-2025-6554](https://github.com/jopraveen/CVE-2025-6554) | poc for CVE-2025-6554 | 2025-10-14T07:29:51Z |
 | [CVE-2025-6543](https://www.cve.org/CVERecord?id=CVE-2025-6543) | [grupooruss/Citrix-cve-2025-6543](https://github.com/grupooruss/Citrix-cve-2025-6543) | Script para determinar si Citrix es vulnerable al CVE-2025-6543 | 2025-06-26T15:05:43Z |
 | [CVE-2025-6543](https://www.cve.org/CVERecord?id=CVE-2025-6543) | [seabed-atavism/CVE-2025-6543](https://github.com/seabed-atavism/CVE-2025-6543) | Citrix Bleed 2 PoC | 2025-06-30T07:47:12Z |
 | [CVE-2025-6543](https://www.cve.org/CVERecord?id=CVE-2025-6543) | [abrewer251/CVE-2025-6543_CitrixNetScaler_PoC](https://github.com/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC) | Multi-host, multi-port scanner and auditor for CVE-2025-6543-affected NetScaler devices. Supports SNMP and SSH enumeration with optional CSV reporting and exploit stubs. | 2025-07-03T20:02:39Z |
@@ -264,6 +265,10 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2025-56379](https://www.cve.org/CVERecord?id=CVE-2025-56379) | [MoAlali/CVE-2025-56379](https://github.com/MoAlali/CVE-2025-56379) | A stored cross-site scripting (XSS) vulnerability in the blog post feature of ERPNEXT v15.67.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the content field. | 2025-10-01T18:48:11Z |
 | [CVE-2025-56311](https://www.cve.org/CVERecord?id=CVE-2025-56311) | [wrathfulDiety/CVE-2025-56311](https://github.com/wrathfulDiety/CVE-2025-56311) | CSRF vulnerability in FD602GW-DX-R410 router allows remote attackers to reboot the device via a crafted POST request to /boaform/admin/formReboot when an admin is authenticated. | 2025-07-11T19:52:02Z |
 | [CVE-2025-56243](https://www.cve.org/CVERecord?id=CVE-2025-56243) | [hafizgemilang/CVE-2025-56243](https://github.com/hafizgemilang/CVE-2025-56243) | no description | 2025-10-07T13:56:09Z |
+| [CVE-2025-56224](https://www.cve.org/CVERecord?id=CVE-2025-56224) | [saykino/CVE-2025-56224](https://github.com/saykino/CVE-2025-56224) | no description | 2025-10-14T11:06:55Z |
+| [CVE-2025-56221](https://www.cve.org/CVERecord?id=CVE-2025-56221) | [saykino/CVE-2025-56221](https://github.com/saykino/CVE-2025-56221) | no description | 2025-10-14T10:42:56Z |
+| [CVE-2025-56219](https://www.cve.org/CVERecord?id=CVE-2025-56219) | [saykino/CVE-2025-56219](https://github.com/saykino/CVE-2025-56219) | no description | 2025-10-14T10:20:36Z |
+| [CVE-2025-56218](https://www.cve.org/CVERecord?id=CVE-2025-56218) | [saykino/CVE-2025-56218](https://github.com/saykino/CVE-2025-56218) | no description | 2025-10-14T09:53:27Z |
 | [CVE-2025-56132](https://www.cve.org/CVERecord?id=CVE-2025-56132) | [fredericgoossens/CVE-2025-56132-Liquidfiles](https://github.com/fredericgoossens/CVE-2025-56132-Liquidfiles) | no description | 2025-10-05T13:15:29Z |
 | [CVE-2025-56019](https://www.cve.org/CVERecord?id=CVE-2025-56019) | [Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019](https://github.com/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019) | This report is for CVE-2025-56019 reserved for Easytouch+product for BLE authentication vulnerability assigned to Discoverer Yashodhan Vivek Mandke. Please download the report pdf in this repositoy | 2025-09-13T06:14:13Z |
 | [CVE-2025-55998](https://www.cve.org/CVERecord?id=CVE-2025-55998) | [Ocmenog/CVE-2025-55998](https://github.com/Ocmenog/CVE-2025-55998) | no description | 2025-09-03T17:41:30Z |
@@ -503,6 +508,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [MiclelsonCN/CVE-2025-49844_POC](https://github.com/MiclelsonCN/CVE-2025-49844_POC) | CVE-2025-49844 POC | 2025-10-09T13:21:44Z |
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844) | A powerful Redis exploitation tool that leverages CVE-2025-4984 | 2025-10-09T06:03:02Z |
 | [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [imbas007/CVE-2025-49844-Vulnerability-Scanner](https://github.com/imbas007/CVE-2025-49844-Vulnerability-Scanner) | no description | 2025-10-11T11:42:27Z |
+| [CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844) | [angelusrivera/CVE-2025-49844](https://github.com/angelusrivera/CVE-2025-49844) | PoC of RediShell | 2025-10-14T04:20:45Z |
 | [CVE-2025-49706](https://www.cve.org/CVERecord?id=CVE-2025-49706) | [AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation](https://github.com/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation) | A deep dive into CVE-2025-49706 — the SharePoint spoofing flaw now exploited in the wild for stealthy web shell deployment and privilege escalation. | 2025-07-20T13:55:28Z |
 | [CVE-2025-49667](https://www.cve.org/CVERecord?id=CVE-2025-49667) | [Yuri08loveElaina/CVE-2025-49667](https://github.com/Yuri08loveElaina/CVE-2025-49667) | Windows Win32 Kernel Subsystem | 2025-08-16T07:01:19Z |
 | [CVE-2025-49619](https://www.cve.org/CVERecord?id=CVE-2025-49619) | [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619) | This script exploits CVE-2025-49619 in Skyvern to execute a reverse shell command. | 2025-06-09T10:09:43Z |
@@ -779,6 +785,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2025-39913](https://www.cve.org/CVERecord?id=CVE-2025-39913) | [byteReaper77/CVE-2025-39913](https://github.com/byteReaper77/CVE-2025-39913) | UAF in linux kernel ≤ 6.12.38 (psock-&gt;cork) | 2025-10-13T15:02:53Z |
 | [CVE-2025-39866](https://www.cve.org/CVERecord?id=CVE-2025-39866) | [byteReaper77/CVE-2025-39866](https://github.com/byteReaper77/CVE-2025-39866) | Proof of concept for CVE-2025-39866 (UAF and race condition) | 2025-09-26T15:35:50Z |
 | [CVE-2025-3969](https://www.cve.org/CVERecord?id=CVE-2025-3969) | [Stuub/CVE-2025-3969-Exploit](https://github.com/Stuub/CVE-2025-3969-Exploit) | CVE-2025-3969: Exploit PoC (OS CMD injection, Web Shell, Interactive Shell) | 2025-05-05T09:39:12Z |
+| [CVE-2025-39682](https://www.cve.org/CVERecord?id=CVE-2025-39682) | [khoatran107/cve-2025-39682](https://github.com/khoatran107/cve-2025-39682) | A variant of CVE-2024-58239 | 2025-10-14T07:59:03Z |
 | [CVE-2025-39601](https://www.cve.org/CVERecord?id=CVE-2025-39601) | [Nxploited/CVE-2025-39601](https://github.com/Nxploited/CVE-2025-39601) | WordPress Custom CSS, JS &amp; PHP plugin &lt;= 2.4.1 - CSRF to RCE vulnerability | 2025-04-16T14:52:41Z |
 | [CVE-2025-39596](https://www.cve.org/CVERecord?id=CVE-2025-39596) | [Nxploited/CVE-2025-39596](https://github.com/Nxploited/CVE-2025-39596) | Quentn WP &lt;= 1.2.8 - Unauthenticated Privilege Escalation | 2025-09-27T07:27:24Z |
 | [CVE-2025-39538](https://www.cve.org/CVERecord?id=CVE-2025-39538) | [Nxploited/CVE-2025-39538](https://github.com/Nxploited/CVE-2025-39538) | WordPress WP-Advanced-Search &lt;= 3.3.9.3 - Arbitrary File Upload Vulnerability | 2025-04-30T17:28:33Z |
@@ -1747,6 +1754,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2025-11371](https://www.cve.org/CVERecord?id=CVE-2025-11371) | [rxerium/CVE-2025-11371](https://github.com/rxerium/CVE-2025-11371) | Detection for CVE-2025-11371 | 2025-10-10T10:26:57Z |
 | [CVE-2025-11171](https://www.cve.org/CVERecord?id=CVE-2025-11171) | [SnailSploit/CVE-2025-11171---GitHub-Security-Advisory](https://github.com/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory) | CVE-2025-11171 | 2025-10-13T07:41:35Z |
 | [CVE-2025-11077](https://www.cve.org/CVERecord?id=CVE-2025-11077) | [byteReaper77/CVE-2025-11077](https://github.com/byteReaper77/CVE-2025-11077) | Exploit blind SQL Injection in (Online Learning Management System) | 2025-09-29T14:32:29Z |
+| [CVE-2025-11001](https://www.cve.org/CVERecord?id=CVE-2025-11001) | [shalevo13/Se7enSlip](https://github.com/shalevo13/Se7enSlip) | A scanner and testter of the CVE-2025-11001 of 7-zip | 2025-10-14T09:25:13Z |
 | [CVE-2025-1097](https://www.cve.org/CVERecord?id=CVE-2025-1097) | [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) | This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). | 2025-03-26T18:52:20Z |
 | [CVE-2025-1097](https://www.cve.org/CVERecord?id=CVE-2025-1097) | [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC) | IngressNightmare-PoC： (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, CVE-2025-1974)  PoC ，One-click script 。 一键脚本 | 2025-03-30T08:32:56Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [soltanali0/CVE-2025-1094-Exploit](https://github.com/soltanali0/CVE-2025-1094-Exploit) | WebSocket and SQL Injection Exploit Script | 2025-02-27T11:08:10Z |
@@ -1755,6 +1763,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [B1ack4sh/Blackash-CVE-2025-1094](https://github.com/B1ack4sh/Blackash-CVE-2025-1094) | CVE-2025-1094 | 2025-06-23T18:01:15Z |
 | [CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094) | [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094) | It is an input sanitization flaw caused by an encoding mismatch, allowing crafted input to bypass filters. If a server is vulnerable, an attacker can inject malicious SQL that the backend executes. | 2025-06-18T15:18:33Z |
 | [CVE-2025-10874](https://www.cve.org/CVERecord?id=CVE-2025-10874) | [ryanmroth/Orbit-Fox_SSRF_CVE-2025-10874](https://github.com/ryanmroth/Orbit-Fox_SSRF_CVE-2025-10874) | Demonstrates SSRF with null byte injection bypass for CVE-2025-10874 | 2025-10-06T16:05:27Z |
+| [CVE-2025-10720](https://www.cve.org/CVERecord?id=CVE-2025-10720) | [lorenzocamilli/CVE-2025-10720-PoC](https://github.com/lorenzocamilli/CVE-2025-10720-PoC) | CVE-2025-10720 PoC | 2025-07-13T17:14:13Z |
 | [CVE-2025-10585](https://www.cve.org/CVERecord?id=CVE-2025-10585) | [AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day) | Google patched CVE-2025-10585, a Chrome V8 zero-day under active exploitation — here’s what it is, why it matters, and how to stay safe. | 2025-09-19T19:53:28Z |
 | [CVE-2025-1055](https://www.cve.org/CVERecord?id=CVE-2025-1055) | [diego-tella/CVE-2025-1055-poc](https://github.com/diego-tella/CVE-2025-1055-poc) | PoC for CVE-2025-1055 and CVE-2025-52915 using K7RKScan.sys | 2025-09-04T12:24:05Z |
 | [CVE-2025-10353](https://www.cve.org/CVERecord?id=CVE-2025-10353) | [ivansmc00/CVE-2025-10353-POC](https://github.com/ivansmc00/CVE-2025-10353-POC) | Exploit for CVE-2025-10353. Unauthenticated File Upload on Melis Platform Framework that leads to RCE | 2025-10-08T11:52:13Z |
@@ -1770,6 +1779,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2025-10035](https://www.cve.org/CVERecord?id=CVE-2025-10035) | [orange0Mint/CVE-2025-10035_GoAnywhere](https://github.com/orange0Mint/CVE-2025-10035_GoAnywhere) | CVE-2025-10035_GoAnywhere Get RCE | 2025-09-27T08:50:50Z |
 | [CVE-2025-0994](https://www.cve.org/CVERecord?id=CVE-2025-0994) | [rxerium/CVE-2025-0994](https://github.com/rxerium/CVE-2025-0994) | Cityworks deserialization of untrusted data vulnerability Detection | 2025-02-07T14:13:08Z |
 | [CVE-2025-0924](https://www.cve.org/CVERecord?id=CVE-2025-0924) | [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different) | no description | 2025-02-21T04:49:36Z |
+| [CVE-2025-0886](https://www.cve.org/CVERecord?id=CVE-2025-0886) | [JNDataRT/VirtualLockSensorLPE](https://github.com/JNDataRT/VirtualLockSensorLPE) | Local privilege escalation exploit for CVE-2025-0886. | 2025-10-14T10:23:29Z |
 | [CVE-2025-0868](https://www.cve.org/CVERecord?id=CVE-2025-0868) | [aidana-gift/CVE-2025-0868](https://github.com/aidana-gift/CVE-2025-0868) | no description | 2025-05-25T13:14:41Z |
 | [CVE-2025-0851](https://www.cve.org/CVERecord?id=CVE-2025-0851) | [skrkcb2/CVE-2025-0851](https://github.com/skrkcb2/CVE-2025-0851) | no description | 2025-02-17T09:33:28Z |
 | [CVE-2025-0411](https://www.cve.org/CVERecord?id=CVE-2025-0411) | [iSee857/CVE-2025-0411-PoC](https://github.com/iSee857/CVE-2025-0411-PoC) | 7-Zip Mark-of-the-Web绕过漏洞PoC(CVE-2025-0411) | 2025-01-27T07:32:09Z |
@@ -2702,6 +2712,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2024-45216](https://www.cve.org/CVERecord?id=CVE-2024-45216) | [congdong007/CVE-2024-45216-Poc](https://github.com/congdong007/CVE-2024-45216-Poc) | no description | 2024-12-02T04:09:04Z |
 | [CVE-2024-45216](https://www.cve.org/CVERecord?id=CVE-2024-45216) | [qhoko/CVE-2024-45216](https://github.com/qhoko/CVE-2024-45216) | no description | 2025-01-10T05:59:08Z |
 | [CVE-2024-45200](https://www.cve.org/CVERecord?id=CVE-2024-45200) | [latte-soft/kartlanpwn](https://github.com/latte-soft/kartlanpwn) | Information &amp; PoC for CVE-2024-45200, Mario Kart 8 Deluxe&#x27;s &quot;KartLANPwn&quot; buffer overflow vulnerability | 2024-09-13T00:41:32Z |
+| [CVE-2024-45195](https://www.cve.org/CVERecord?id=CVE-2024-45195) | [wyyazjjl/CVE-2024-45195](https://github.com/wyyazjjl/CVE-2024-45195) | no description | 2025-07-23T03:20:09Z |
 | [CVE-2024-45058](https://www.cve.org/CVERecord?id=CVE-2024-45058) | [0xbhsu/CVE-2024-45058](https://github.com/0xbhsu/CVE-2024-45058) | PoC for CVE-2024-45058 Broken Access Control, allowing any user with view permission in the user configuration section to become an administrator changing their own user type. | 2024-08-30T18:44:05Z |
 | [CVE-2024-44947](https://www.cve.org/CVERecord?id=CVE-2024-44947) | [Abdurahmon3236/CVE-2024-44947](https://github.com/Abdurahmon3236/CVE-2024-44947) | no description | 2024-09-03T18:37:40Z |
 | [CVE-2024-44946](https://www.cve.org/CVERecord?id=CVE-2024-44946) | [Abdurahmon3236/CVE-2024-44946](https://github.com/Abdurahmon3236/CVE-2024-44946) | no description | 2024-09-01T13:45:12Z |
@@ -2945,6 +2956,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit) | no description | 2024-07-06T17:06:25Z |
 | [CVE-2024-39943](https://www.cve.org/CVERecord?id=CVE-2024-39943) | [JenmrR/Node.js-CVE-2024-39943](https://github.com/JenmrR/Node.js-CVE-2024-39943) | no description | 2025-04-19T06:06:14Z |
 | [CVE-2024-39930](https://www.cve.org/CVERecord?id=CVE-2024-39930) | [theMcSam/CVE-2024-39930-PoC](https://github.com/theMcSam/CVE-2024-39930-PoC) | Exploit Code for CVE-2024-39930 gogs ssh server RCE | 2025-06-29T22:46:00Z |
+| [CVE-2024-39930](https://www.cve.org/CVERecord?id=CVE-2024-39930) | [alexander47777/-CVE-2024-39930](https://github.com/alexander47777/-CVE-2024-39930) | Gogs Under Attack: Unpacking the Critical SSH Vulnerability (CVE-2024–39930) | 2025-07-22T12:36:13Z |
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929) | Detection method for Exim vulnerability CVE-2024-39929 | 2024-07-12T18:01:30Z |
 | [CVE-2024-39929](https://www.cve.org/CVERecord?id=CVE-2024-39929) | [michael-david-fry/CVE-2024-39929](https://github.com/michael-david-fry/CVE-2024-39929) | POC to test CVE-2024-39929 against EXIM mail servers | 2024-07-29T15:09:53Z |
 | [CVE-2024-39924](https://www.cve.org/CVERecord?id=CVE-2024-39924) | [l4rm4nd/PoC-CVE-2024-39924](https://github.com/l4rm4nd/PoC-CVE-2024-39924) | PoC for CVE-2024-39924 | 2025-06-02T16:05:07Z |
@@ -8111,6 +8123,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC) | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | 2022-06-30T04:39:58Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [z3usx01/CVE-2021-23017-POC](https://github.com/z3usx01/CVE-2021-23017-POC) | The issue only affects nginx if the &quot;resolver&quot; directive is used in the configuration file. Further, the attack is only possible if an attacker is able to forge UDP packets from the DNS server. | 2024-12-08T09:47:52Z |
 | [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [6lj/EVIL-CVE-2021-23017-Update-2025](https://github.com/6lj/EVIL-CVE-2021-23017-Update-2025) | vulnerability in NGINX servers (versions 0.6.18–1.20.0). The scripts aim to cause a Denial of Service (DoS) by sending malicious DNS responses, with enhancements to bypass firewalls. | 2025-09-04T09:49:22Z |
+| [CVE-2021-23017](https://www.cve.org/CVERecord?id=CVE-2021-23017) | [lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14](https://github.com/lukwagoasuman/-home-lukewago-Downloads-CVE-2021-23017-Nginx-1.14) | no description | 2025-01-30T11:05:40Z |
 | [CVE-2021-22986](https://www.cve.org/CVERecord?id=CVE-2021-22986) | [amitlttwo/CVE-2021-22986](https://github.com/amitlttwo/CVE-2021-22986) | no description | 2023-02-07T11:19:20Z |
 | [CVE-2021-22986](https://www.cve.org/CVERecord?id=CVE-2021-22986) | [huydung26/CVE-2021-22986](https://github.com/huydung26/CVE-2021-22986) | Custom POC of CVE-2021-22986 by Al1ex@Heptagram | 2023-12-28T01:49:24Z |
 | [CVE-2021-22911](https://www.cve.org/CVERecord?id=CVE-2021-22911) | [overgrowncarrot1/CVE-2021-22911](https://github.com/overgrowncarrot1/CVE-2021-22911) | no description | 2023-06-19T23:56:09Z |
@@ -8477,6 +8490,7 @@ Last generated: 2025-10-29 02:44:14.233960
 | [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [arzuozkan/CVE-2020-0796](https://github.com/arzuozkan/CVE-2020-0796) | CVE-2020-0796 explanation and researching vulnerability for term porject CENG325 | 2022-06-07T17:16:16Z |
 | [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [Opensitoo/cve-2020-0796](https://github.com/Opensitoo/cve-2020-0796) | no description | 2021-10-04T22:16:37Z |
 | [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796) | no description | 2023-11-01T06:47:06Z |
+| [CVE-2020-0796](https://www.cve.org/CVERecord?id=CVE-2020-0796) | [hungdnvp/POC-CVE-2020-0796](https://github.com/hungdnvp/POC-CVE-2020-0796) | no description | 2024-02-23T08:41:29Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [Ridter/cve-2020-0688](https://github.com/Ridter/cve-2020-0688) | cve-2020-0688 | 2020-02-27T02:54:27Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [TheKickPuncher/CVE-2020-0688-Python3](https://github.com/TheKickPuncher/CVE-2020-0688-Python3) | Exploit updated to use Python 3. | 2022-10-19T10:36:10Z |
 | [CVE-2020-0688](https://www.cve.org/CVERecord?id=CVE-2020-0688) | [7heKnight/CVE-2020-0688](https://github.com/7heKnight/CVE-2020-0688) | CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability | 2022-05-12T03:17:35Z |
