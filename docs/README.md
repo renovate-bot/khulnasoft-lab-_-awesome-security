@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-10-30 02:41:20.766712
+Last generated: 2025-10-31 02:40:05.589344
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -149,6 +149,8 @@ Last generated: 2025-10-30 02:41:20.766712
 | [CVE-2025-61882](https://www.cve.org/CVERecord?id=CVE-2025-61882) | [rxerium/CVE-2025-61882-CVE-2025-61884](https://github.com/rxerium/CVE-2025-61882-CVE-2025-61884) | Detection for CVE-2025-61882 &amp; CVE-2025-61884 | 2025-10-05T18:35:23Z |
 | [CVE-2025-6169](https://www.cve.org/CVERecord?id=CVE-2025-6169) | [Yuri08loveElaina/CVE_2025_6169](https://github.com/Yuri08loveElaina/CVE_2025_6169) | The WIMP website co-construction management platform from HAMASTAR Technology has a SQL Injection vulnerability, allowing unauthenticated remote attackers to inject arbitrary SQL commands to read, modify, and delete database contents. | 2025-06-16T07:07:12Z |
 | [CVE-2025-61622](https://www.cve.org/CVERecord?id=CVE-2025-61622) | [fa1consec/cve_2025_61622_poc](https://github.com/fa1consec/cve_2025_61622_poc) | This PoC demonstrates the Remote Code Execution (RCE) vulnerability in  Apache Pyfory (versions 0.12.0-0.12.2 and legacy PyFury 0.1.0-0.10.3)  due to insecure pickle fallback deserialization (CVE-2025-61622). | 2025-10-03T12:44:16Z |
+| [CVE-2025-61456](https://www.cve.org/CVERecord?id=CVE-2025-61456) | [tansique-17/CVE-2025-61456](https://github.com/tansique-17/CVE-2025-61456) | Public Disclosure | 2025-10-14T17:13:51Z |
+| [CVE-2025-61455](https://www.cve.org/CVERecord?id=CVE-2025-61455) | [tansique-17/CVE-2025-61455](https://github.com/tansique-17/CVE-2025-61455) | Public Disclosure | 2025-10-14T17:02:59Z |
 | [CVE-2025-61319](https://www.cve.org/CVERecord?id=CVE-2025-61319) | [AmalJafarzade/CVE-2025-61319](https://github.com/AmalJafarzade/CVE-2025-61319) | Stored XSS in ReNgine &lt;= 2.2.0 — public disclosure | 2025-10-09T19:24:51Z |
 | [CVE-2025-61183](https://www.cve.org/CVERecord?id=CVE-2025-61183) | [thawphone/CVE-2025-61183](https://github.com/thawphone/CVE-2025-61183) | no description | 2025-10-08T08:47:41Z |
 | [CVE-2025-60880](https://www.cve.org/CVERecord?id=CVE-2025-60880) | [Shenal01/CVE-2025-60880](https://github.com/Shenal01/CVE-2025-60880) | CVE-2025-60880 - Stored Cross-Site Scripting (XSS) in Bagisto Admin Panel | 2025-10-10T05:03:04Z |
@@ -266,6 +268,7 @@ Last generated: 2025-10-30 02:41:20.766712
 | [CVE-2025-56311](https://www.cve.org/CVERecord?id=CVE-2025-56311) | [wrathfulDiety/CVE-2025-56311](https://github.com/wrathfulDiety/CVE-2025-56311) | CSRF vulnerability in FD602GW-DX-R410 router allows remote attackers to reboot the device via a crafted POST request to /boaform/admin/formReboot when an admin is authenticated. | 2025-07-11T19:52:02Z |
 | [CVE-2025-56243](https://www.cve.org/CVERecord?id=CVE-2025-56243) | [hafizgemilang/CVE-2025-56243](https://github.com/hafizgemilang/CVE-2025-56243) | no description | 2025-10-07T13:56:09Z |
 | [CVE-2025-56224](https://www.cve.org/CVERecord?id=CVE-2025-56224) | [saykino/CVE-2025-56224](https://github.com/saykino/CVE-2025-56224) | no description | 2025-10-14T11:06:55Z |
+| [CVE-2025-56223](https://www.cve.org/CVERecord?id=CVE-2025-56223) | [saykino/CVE-2025-56223](https://github.com/saykino/CVE-2025-56223) | no description | 2025-10-14T11:00:15Z |
 | [CVE-2025-56221](https://www.cve.org/CVERecord?id=CVE-2025-56221) | [saykino/CVE-2025-56221](https://github.com/saykino/CVE-2025-56221) | no description | 2025-10-14T10:42:56Z |
 | [CVE-2025-56219](https://www.cve.org/CVERecord?id=CVE-2025-56219) | [saykino/CVE-2025-56219](https://github.com/saykino/CVE-2025-56219) | no description | 2025-10-14T10:20:36Z |
 | [CVE-2025-56218](https://www.cve.org/CVERecord?id=CVE-2025-56218) | [saykino/CVE-2025-56218](https://github.com/saykino/CVE-2025-56218) | no description | 2025-10-14T09:53:27Z |
@@ -617,6 +620,8 @@ Last generated: 2025-10-30 02:41:20.766712
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [butyraldehyde/CVE-2025-48384-PoC](https://github.com/butyraldehyde/CVE-2025-48384-PoC) | Built to call on CVE-2025-48384-PoC-Part2 for RCE | 2025-08-28T18:54:58Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [s41r4j/CVE-2025-48384](https://github.com/s41r4j/CVE-2025-48384) | GIT vulnerability - Carriage Return and RCE on cloning | 2025-09-12T08:41:57Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [s41r4j/CVE-2025-48384-submodule](https://github.com/s41r4j/CVE-2025-48384-submodule) | CVE-2025-48384-submodule | 2025-09-13T05:07:14Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [mukesh-610/cve-2025-48384](https://github.com/mukesh-610/cve-2025-48384) | no description | 2025-10-14T11:47:08Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [mukesh-610/cve-2025-48384-exploit](https://github.com/mukesh-610/cve-2025-48384-exploit) | no description | 2025-10-14T11:40:41Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
 | [CVE-2025-47987](https://www.cve.org/CVERecord?id=CVE-2025-47987) | [Kryptoenix/CVE-2025-47987_PoC](https://github.com/Kryptoenix/CVE-2025-47987_PoC) | no description | 2025-08-22T09:42:02Z |
@@ -4592,6 +4597,7 @@ Last generated: 2025-10-30 02:41:20.766712
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086) | no description | 2024-07-04T10:51:35Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [matrixvk/CVE-2024-1086-aarch64](https://github.com/matrixvk/CVE-2024-1086-aarch64) | no description | 2024-10-21T10:45:49Z |
 | [CVE-2024-1086](https://www.cve.org/CVERecord?id=CVE-2024-1086) | [LLfam/CVE-2024-1086](https://github.com/LLfam/CVE-2024-1086) | no description | 2024-12-16T17:33:13Z |
+| [CVE-2024-10858](https://www.cve.org/CVERecord?id=CVE-2024-10858) | [iamarit/CVE-2024-10858](https://github.com/iamarit/CVE-2024-10858) | Vulnerable WordPress plugin ( Jetpack ) | 2025-07-23T16:18:49Z |
 | [CVE-2024-10793](https://www.cve.org/CVERecord?id=CVE-2024-10793) | [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793) | CVE-2024-10793 poc exploit | 2024-11-17T18:44:53Z |
 | [CVE-2024-10793](https://www.cve.org/CVERecord?id=CVE-2024-10793) | [MAHajian/CVE-2024-10793](https://github.com/MAHajian/CVE-2024-10793) | no description | 2024-12-19T15:50:53Z |
 | [CVE-2024-10728](https://www.cve.org/CVERecord?id=CVE-2024-10728) | [RandomRobbieBF/CVE-2024-10728](https://github.com/RandomRobbieBF/CVE-2024-10728) | PostX &lt;= 4.1.16 - Missing Authorization to Arbitrary Plugin Installation/Activation | 2024-11-16T10:51:56Z |
@@ -8031,6 +8037,7 @@ Last generated: 2025-10-30 02:41:20.766712
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [0x0d3ad/CVE-2021-3129](https://github.com/0x0d3ad/CVE-2021-3129) | CVE-2021-3129 (Laravel Ignition RCE Exploit) | 2024-09-29T05:09:41Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [GodOfServer/CVE-2021-3129](https://github.com/GodOfServer/CVE-2021-3129) | no description | 2024-10-31T11:30:23Z |
 | [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [Prabesh01/hoh4](https://github.com/Prabesh01/hoh4) | Modified version of laravel ignition RCE (CVE-2021-3129) exploit script for Hour of Hack Session-4 | 2024-12-04T17:04:03Z |
+| [CVE-2021-3129](https://www.cve.org/CVERecord?id=CVE-2021-3129) | [lukwagoasuman/CVE-2021-3129---Laravel-RCE](https://github.com/lukwagoasuman/CVE-2021-3129---Laravel-RCE) | ## About The script has been made for exploiting the Laravel RCE (CVE-2021-3129) vulnerability.&lt;br&gt; This script allows you to write/execute commands on a website running &lt;b&gt;Laravel &lt;= v8.4.2&lt;/b&gt;, that has &quot;APP_DEBUG&quot; set to &quot;true&quot; in its &quot;.env&quot; file. | 2025-01-30T11:21:44Z |
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [gabesolomon/CVE-2021-31233](https://github.com/gabesolomon/CVE-2021-31233) | SQL Injection vulnerability found in Fighting Cock Information System v1.0 allows a remote attacker to obtain sensitive information via the edit_breed.php parameter | 2023-05-29T14:38:58Z |
 | [CVE-2021-31233](https://www.cve.org/CVERecord?id=CVE-2021-31233) | [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot) | Dockerized honeypot for CVE-2021-44228. | 2021-12-15T21:09:00Z |
 | [CVE-2021-3122](https://www.cve.org/CVERecord?id=CVE-2021-3122) | [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details) | no description | 2021-02-07T16:05:49Z |
