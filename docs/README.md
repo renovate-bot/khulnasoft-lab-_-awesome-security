@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-11-08 02:48:21.616258
+Last generated: 2025-11-09 02:42:59.500269
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -176,6 +176,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2025-6085](https://www.cve.org/CVERecord?id=CVE-2025-6085) | [d0n601/CVE-2025-6085](https://github.com/d0n601/CVE-2025-6085) | Make Connector &lt;= 1.5.10 - Authenticated (Administrator+) Arbitrary File Upload | 2025-06-17T22:17:26Z |
 | [CVE-2025-6083](https://www.cve.org/CVERecord?id=CVE-2025-6083) | [Yuri08loveElaina/CVE_2025_6083](https://github.com/Yuri08loveElaina/CVE_2025_6083) | In ExtremeCloud Universal ZTNA, a syntax error in the &#x27;searchKeyword&#x27; condition caused queries to bypass the owner_id filter. This issue may allow users to search data across the entire table instead of being restricted to their specific owner_id. | 2025-06-15T09:42:47Z |
 | [CVE-2025-6082](https://www.cve.org/CVERecord?id=CVE-2025-6082) | [byteReaper77/CVE-2025-6082](https://github.com/byteReaper77/CVE-2025-6082) | Proof‑of‑Concept exploits the Full Path Disclosure bug in the  “Birth Chart Compatibility” WordPress plugin (&lt;=v2.0) | 2025-07-22T15:38:22Z |
+| [CVE-2025-60791](https://www.cve.org/CVERecord?id=CVE-2025-60791) | [Smarttfoxx/CVE-2025-60791](https://github.com/Smarttfoxx/CVE-2025-60791) | Easywork Enterprise 2.1.3.354 is vulnerable to Cleartext Storage of Sensitive Information in Memory. The application leaves valid device-bound license keys in process memory after a failed activation attempt. | 2025-10-22T20:31:23Z |
 | [CVE-2025-60787](https://www.cve.org/CVERecord?id=CVE-2025-60787) | [prabhatverma47/CVE-2025-60787](https://github.com/prabhatverma47/CVE-2025-60787) | CVE-2025-60787 Poc - RCE - MotionEye &lt;= 0.43.1b4 | 2025-10-03T15:20:43Z |
 | [CVE-2025-60752](https://www.cve.org/CVERecord?id=CVE-2025-60752) | [zer0matt/CVE-2025-60752](https://github.com/zer0matt/CVE-2025-60752) | PoC of CVE-2025-60752 | 2025-10-16T23:53:55Z |
 | [CVE-2025-60751](https://www.cve.org/CVERecord?id=CVE-2025-60751) | [zer0matt/CVE-2025-60751](https://github.com/zer0matt/CVE-2025-60751) | PoC of CVE-2025-60751 | 2025-10-16T23:39:06Z |
@@ -334,6 +335,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2025-55315](https://www.cve.org/CVERecord?id=CVE-2025-55315) | [RootAid/CVE-2025-55315](https://github.com/RootAid/CVE-2025-55315) | no description | 2025-10-17T13:50:15Z |
 | [CVE-2025-55315](https://www.cve.org/CVERecord?id=CVE-2025-55315) | [7huukdlnkjkjba/CVE-2025-55315-](https://github.com/7huukdlnkjkjba/CVE-2025-55315-) | 专业级HTTP请求走私漏洞利用与自动化渗透测试工具 | 2025-10-19T02:02:46Z |
 | [CVE-2025-55315](https://www.cve.org/CVERecord?id=CVE-2025-55315) | [sirredbeard/CVE-2025-55315-repro](https://github.com/sirredbeard/CVE-2025-55315-repro) | Tool that reproduces CVE-2025-55315 in ASP.NET Core. | 2025-10-16T17:14:56Z |
+| [CVE-2025-55315](https://www.cve.org/CVERecord?id=CVE-2025-55315) | [jlinebau/CVE-2025-55315-Scanner-Monitor](https://github.com/jlinebau/CVE-2025-55315-Scanner-Monitor) | Quick and Simple Scripts to Scan for Vulnerable Servers and Packet Level Monitors | 2025-10-24T14:19:43Z |
 | [CVE-2025-55287](https://www.cve.org/CVERecord?id=CVE-2025-55287) | [Eternalvalhalla/CVE-2025-55287-POC](https://github.com/Eternalvalhalla/CVE-2025-55287-POC) | Authenticated stored XSS priv esc PoC. Affects Genealogy versions prior to 4.4.0 | 2025-08-21T18:06:09Z |
 | [CVE-2025-55241](https://www.cve.org/CVERecord?id=CVE-2025-55241) | [Spanky-McSpank/CVE-2025-55241-Internal-Audit](https://github.com/Spanky-McSpank/CVE-2025-55241-Internal-Audit) | Audit Tool for CVE-2025-55241 - No Warranty Provided or Assumed. Analyze and Use at Own Risk | 2025-09-19T14:13:44Z |
 | [CVE-2025-55234](https://www.cve.org/CVERecord?id=CVE-2025-55234) | [mrk336/CVE-2025-55234](https://github.com/mrk336/CVE-2025-55234) | This vulnerability allows attackers to perform relay attacks against the SMB (Server Message Block) protocol. If successful, it can lead to Elevation of Privilege (EoP) essentially allowing unauthorized users to gain higher-level access on a system | 2025-09-13T02:39:10Z |
@@ -481,6 +483,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2025-52216](https://www.cve.org/CVERecord?id=CVE-2025-52216) | [Arbatinis1/coolermaster-masterctrl-vuln](https://github.com/Arbatinis1/coolermaster-masterctrl-vuln) | CVE-2025-52216 – Cooler Master MasterCTRL Silent Installation of Insecure Services | 2025-08-12T17:47:30Z |
 | [CVE-2025-52136](https://www.cve.org/CVERecord?id=CVE-2025-52136) | [f1r3K0/CVE-2025-52136](https://github.com/f1r3K0/CVE-2025-52136) | EMQX控制台不出网利用 | 2025-10-17T06:08:53Z |
 | [CVE-2025-52100](https://www.cve.org/CVERecord?id=CVE-2025-52100) | [changyaoyou/CVE-2025-52100](https://github.com/changyaoyou/CVE-2025-52100) | CVE-2025-52100 | 2025-08-29T04:32:32Z |
+| [CVE-2025-52099](https://www.cve.org/CVERecord?id=CVE-2025-52099) | [SCREAMBBY/CVE-2025-52099](https://github.com/SCREAMBBY/CVE-2025-52099) | an integer overflow in SQLite 3.50.0 | 2025-10-24T09:55:36Z |
 | [CVE-2025-52097](https://www.cve.org/CVERecord?id=CVE-2025-52097) | [rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097) | Public Disclosure of CVE-2025-52097 | 2025-07-11T19:18:29Z |
 | [CVE-2025-52078](https://www.cve.org/CVERecord?id=CVE-2025-52078) | [Yucaerin/CVE-2025-52078](https://github.com/Yucaerin/CVE-2025-52078) | CVE-2025-52078 - Unauthenticated Arbitrary File Upload - Writebot SaaS React Template | 2025-05-29T03:06:56Z |
 | [CVE-2025-52021](https://www.cve.org/CVERecord?id=CVE-2025-52021) | [hafizgemilang/CVE-2025-52021](https://github.com/hafizgemilang/CVE-2025-52021) | no description | 2025-10-07T14:23:32Z |
@@ -675,6 +678,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2025-48148](https://www.cve.org/CVERecord?id=CVE-2025-48148) | [Nxploited/CVE-2025-48148](https://github.com/Nxploited/CVE-2025-48148) | StoreKeeper for WooCommerce &lt;= 14.4.4 - Unauthenticated Arbitrary File Upload | 2025-10-23T13:07:53Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
 | [CVE-2025-47987](https://www.cve.org/CVERecord?id=CVE-2025-47987) | [Kryptoenix/CVE-2025-47987_PoC](https://github.com/Kryptoenix/CVE-2025-47987_PoC) | no description | 2025-08-22T09:42:02Z |
+| [CVE-2025-4796](https://www.cve.org/CVERecord?id=CVE-2025-4796) | [Nxploited/CVE-2025-4796](https://github.com/Nxploited/CVE-2025-4796) | Eventin &lt;= 4.0.34 - Authenticated (Contributor+) Privilege Escalation via User Email Change/Account Takeover | 2025-10-25T03:35:29Z |
 | [CVE-2025-47917](https://www.cve.org/CVERecord?id=CVE-2025-47917) | [byteReaper77/CVE-2025-47917](https://github.com/byteReaper77/CVE-2025-47917) | PoC exploit for CVE-2025-47917: Use-After-Free in mbedTLS leading to remote code execution. | 2025-07-22T00:34:25Z |
 | [CVE-2025-4784](https://www.cve.org/CVERecord?id=CVE-2025-4784) | [sahici/CVE-2025-4784](https://github.com/sahici/CVE-2025-4784) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-15T16:47:09Z |
 | [CVE-2025-47827](https://www.cve.org/CVERecord?id=CVE-2025-47827) | [Zedeldi/CVE-2025-47827](https://github.com/Zedeldi/CVE-2025-47827) | PoC and vulnerability report for CVE-2025-47827. | 2025-05-20T10:42:11Z |
@@ -950,6 +954,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [min8282/CVE-2025-3248](https://github.com/min8282/CVE-2025-3248) | CVE-2025-3248 | 2025-09-03T00:13:48Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [wand3rlust/CVE-2025-3248](https://github.com/wand3rlust/CVE-2025-3248) | PoC for achieving RCE in Langflow versions &lt;1.3.0 | 2025-09-17T10:30:09Z |
 | [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [Kiraly07/Demo_CVE-2025-3248](https://github.com/Kiraly07/Demo_CVE-2025-3248) | no description | 2025-10-01T04:53:30Z |
+| [CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248) | [bambooqj/cve-2025-3248](https://github.com/bambooqj/cve-2025-3248) | Langflow 在对用户提交的“验证代码”做 AST 解析和编译时，在未做鉴权与沙箱限制的情况下调用了 Python 的 compile()/exec()（以及在编译阶段会评估函数默认参数与装饰器），攻击者可把恶意载荷放在参数默认值或装饰器里，借此在服务器上下文中执行任意语句（反弹 shell、下载器、横向移动等） | 2025-10-24T13:08:17Z |
 | [CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463) | [4f-kira/CVE-2025-32463](https://github.com/4f-kira/CVE-2025-32463) | no description | 2025-07-01T13:29:02Z |
 | [CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463) | [neko205-mx/CVE-2025-32463_Exploit](https://github.com/neko205-mx/CVE-2025-32463_Exploit) | no description | 2025-07-02T08:53:44Z |
 | [CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463) | [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463) | Local Privilege Escalation to Root via Sudo chroot in Linux | 2025-07-02T07:20:20Z |
@@ -1812,6 +1817,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2025-1653](https://www.cve.org/CVERecord?id=CVE-2025-1653) | [realcodeb0ss/CVE-2025-1653-poc](https://github.com/realcodeb0ss/CVE-2025-1653-poc) | [WordPress uListing Plugin] &lt;= Privilege Escalation Explo1t | 2025-03-28T23:44:02Z |
 | [CVE-2025-1639](https://www.cve.org/CVERecord?id=CVE-2025-1639) | [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639) | Animation Addons for Elementor Pro &lt;= 1.6 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2025-03-13T10:48:05Z |
 | [CVE-2025-1562](https://www.cve.org/CVERecord?id=CVE-2025-1562) | [gmh5225/CVE-2025-1562](https://github.com/gmh5225/CVE-2025-1562) | no description | 2025-06-22T15:33:38Z |
+| [CVE-2025-1550](https://www.cve.org/CVERecord?id=CVE-2025-1550) | [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550) | no description | 2025-10-24T19:02:33Z |
 | [CVE-2025-1461](https://www.cve.org/CVERecord?id=CVE-2025-1461) | [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461) | no description | 2025-05-29T13:27:43Z |
 | [CVE-2025-1338](https://www.cve.org/CVERecord?id=CVE-2025-1338) | [jxcaxtc/CVE-2025-1338](https://github.com/jxcaxtc/CVE-2025-1338) | This repository contains a proof-of-concept exploit script for CVE-2025-1338 | 2025-10-04T23:51:36Z |
 | [CVE-2025-1337](https://www.cve.org/CVERecord?id=CVE-2025-1337) | [ada-z3r0/CVE-2025-1337-PoC](https://github.com/ada-z3r0/CVE-2025-1337-PoC) | no description | 2025-08-22T02:34:37Z |
@@ -5285,6 +5291,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [cuanh2333/CVE-2023-46604](https://github.com/cuanh2333/CVE-2023-46604) | no description | 2024-10-16T03:31:13Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [tomasmussi/activemq-cve-2023-46604](https://github.com/tomasmussi/activemq-cve-2023-46604) | Repository to exploit CVE-2023-46604 reported for ActiveMQ | 2023-12-30T20:02:19Z |
 | [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [skrkcb2/CVE-2023-46604](https://github.com/skrkcb2/CVE-2023-46604) | no description | 2025-02-27T02:49:18Z |
+| [CVE-2023-46604](https://www.cve.org/CVERecord?id=CVE-2023-46604) | [CCIEVoice2009/CVE-2023-46604](https://github.com/CCIEVoice2009/CVE-2023-46604) | no description | 2025-05-04T14:42:01Z |
 | [CVE-2023-46501](https://www.cve.org/CVERecord?id=CVE-2023-46501) | [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501) | BoltWire v6.03 vulnerable to &quot;Improper Access Control&quot; | 2023-10-31T12:40:14Z |
 | [CVE-2023-46480](https://www.cve.org/CVERecord?id=CVE-2023-46480) | [shahzaibak96/CVE-2023-46480](https://github.com/shahzaibak96/CVE-2023-46480) | OwnCast SSRF | 2023-10-28T09:36:31Z |
 | [CVE-2023-46478](https://www.cve.org/CVERecord?id=CVE-2023-46478) | [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478) | no description | 2023-10-30T11:28:43Z |
@@ -7460,6 +7467,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2022-24181](https://www.cve.org/CVERecord?id=CVE-2022-24181) | [cyberhawk000/CVE-2022-24181](https://github.com/cyberhawk000/CVE-2022-24181) | XSS via Host Header injection and Steal  Password Reset Token of another user | 2022-03-22T08:06:53Z |
 | [CVE-2022-2414](https://www.cve.org/CVERecord?id=CVE-2022-2414) | [satyasai1460/CVE-2022-2414](https://github.com/satyasai1460/CVE-2022-2414) | CVE-2022-2414 POC | 2023-10-05T07:55:01Z |
 | [CVE-2022-2414](https://www.cve.org/CVERecord?id=CVE-2022-2414) | [geniuszly/CVE-2022-2414](https://github.com/geniuszly/CVE-2022-2414) | is a PoC script for demonstrating an XML External Entity (XXE) vulnerability exploitation | 2024-10-07T15:36:39Z |
+| [CVE-2022-2414](https://www.cve.org/CVERecord?id=CVE-2022-2414) | [amitlttwo/CVE-2022-2414-Proof-Of-Concept](https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept) | A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests. | 2022-12-06T14:37:08Z |
 | [CVE-2022-24124](https://www.cve.org/CVERecord?id=CVE-2022-24124) | [b1gdog/CVE-2022-24124](https://github.com/b1gdog/CVE-2022-24124) | CVE-2022-24124 exploit | 2022-08-31T16:23:16Z |
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [wshepherd0010/CVE-2022-24112-Lab](https://github.com/wshepherd0010/CVE-2022-24112-Lab) | no description | 2023-03-25T16:58:36Z |
 | [CVE-2022-24112](https://www.cve.org/CVERecord?id=CVE-2022-24112) | [btar1gan/exploit_CVE-2022-24112](https://github.com/btar1gan/exploit_CVE-2022-24112) | New exploit for Apache APISIX v2.12.1 - Remote code execution (RCE) | 2024-06-03T17:33:59Z |
@@ -8782,6 +8790,7 @@ Last generated: 2025-11-08 02:48:21.616258
 | [CVE-2019-6339](https://www.cve.org/CVERecord?id=CVE-2019-6339) | [Vulnmachines/drupal-cve-2019-6339](https://github.com/Vulnmachines/drupal-cve-2019-6339) | Drupal remote code execution vulnerabilty | 2021-10-19T06:59:29Z |
 | [CVE-2019-6329](https://www.cve.org/CVERecord?id=CVE-2019-6329) | [ManhNDd/CVE-2019-6329](https://github.com/ManhNDd/CVE-2019-6329) | Local Privilege Escalation in HP Support Assistant | 2019-10-13T09:20:16Z |
 | [CVE-2019-6329](https://www.cve.org/CVERecord?id=CVE-2019-6329) | [xtafnull/CMS-made-simple-sqli-python3](https://github.com/xtafnull/CMS-made-simple-sqli-python3) | CMS Made Simple &lt; 2.2.10 - SQL Injection (rewritten for python3),  CVE-2019-905 | 2022-05-04T09:26:45Z |
+| [CVE-2019-6250](https://www.cve.org/CVERecord?id=CVE-2019-6250) | [AkashicYiTai/CVE-2019-6250-libzmq](https://github.com/AkashicYiTai/CVE-2019-6250-libzmq) | no description | 2024-06-20T10:56:43Z |
 | [CVE-2019-6249](https://www.cve.org/CVERecord?id=CVE-2019-6249) | [AlphabugX/CVE-2019-6249_Hucart-cms](https://github.com/AlphabugX/CVE-2019-6249_Hucart-cms) | CVE-2019-6249 Hucart cms 复现环境 | 2019-02-21T08:03:43Z |
 | [CVE-2019-5822](https://www.cve.org/CVERecord?id=CVE-2019-5822) | [Silence-Rain/14-828_Exploitation_of_CVE-2019-5822](https://github.com/Silence-Rain/14-828_Exploitation_of_CVE-2019-5822) | no description | 2020-05-06T09:05:23Z |
 | [CVE-2019-5822](https://www.cve.org/CVERecord?id=CVE-2019-5822) | [jlcarruda/node-poc-http-smuggling](https://github.com/jlcarruda/node-poc-http-smuggling) | PoC of Backend HTTP Socket Poisoning, via HTTP Smuggling, presented in CVE-2019-15605 | 2020-05-04T23:11:28Z |
@@ -11098,3 +11107,4 @@ Last generated: 2025-11-08 02:48:21.616258
 | CVE NOT FOUND | [AliAmouz/CVE2025-24893](https://github.com/AliAmouz/CVE2025-24893) | no description | 2025-09-24T10:03:08Z |
 | CVE NOT FOUND | [Tamilselvan-S-Cyber-Security/CVE-2025-Xss](https://github.com/Tamilselvan-S-Cyber-Security/CVE-2025-Xss) | no description | 2025-09-28T01:08:25Z |
 | CVE NOT FOUND | [samueloph/generate_cve_stats_debian_2024](https://github.com/samueloph/generate_cve_stats_debian_2024) | no description | 2025-07-14T16:40:31Z |
+| CVE NOT FOUND | [Smarttfoxx/CVE-2025--](https://github.com/Smarttfoxx/CVE-2025--) | no description | 2025-10-25T05:04:42Z |
