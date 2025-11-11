@@ -2,13 +2,14 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-11-10 02:47:56.592626
+Last generated: 2025-11-11 05:58:17.908183
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
 | [CVE-2025-9998](https://www.cve.org/CVERecord?id=CVE-2025-9998) | [balajigund/Research-on-CVE-2025-9998](https://github.com/balajigund/Research-on-CVE-2025-9998) | vulnerability in CVE 2025-9998 and solution for those vulnerability with help artificial intelligence | 2025-09-25T18:52:59Z |
 | [CVE-2025-9983](https://www.cve.org/CVERecord?id=CVE-2025-9983) | [sohaibeb/CVE-2025-9983](https://github.com/sohaibeb/CVE-2025-9983) | CVE-2025-9983 POC Exploit | 2025-10-25T22:22:36Z |
+| [CVE-2025-9967](https://www.cve.org/CVERecord?id=CVE-2025-9967) | [glitchhawks/CVE-2025-9967](https://github.com/glitchhawks/CVE-2025-9967) | no description | 2025-10-26T12:21:44Z |
 | [CVE-2025-9784](https://www.cve.org/CVERecord?id=CVE-2025-9784) | [drackyjr/CVE-2025-9784](https://github.com/drackyjr/CVE-2025-9784) | no description | 2025-09-02T17:21:52Z |
 | [CVE-2025-9776](https://www.cve.org/CVERecord?id=CVE-2025-9776) | [SnailSploit/CVE-2025-9776](https://github.com/SnailSploit/CVE-2025-9776) | CVE-2025-9776 — CatFolders WordPress Plugin: Authenticated SQL Injection via CSV Import - POC + Walkthrough | 2025-09-13T06:24:29Z |
 | [CVE-2025-9744](https://www.cve.org/CVERecord?id=CVE-2025-9744) | [godfatherofexps/CVE-2025-9744-PoC](https://github.com/godfatherofexps/CVE-2025-9744-PoC) | CVE-2025-9744 PoC. | 2025-10-20T20:48:01Z |
@@ -75,6 +76,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [Shinkirou789/Cve-2025-8088-WinRar-vulnerability](https://github.com/Shinkirou789/Cve-2025-8088-WinRar-vulnerability) | no description | 2025-09-17T07:56:18Z |
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [lucyna77/winrar-exploit](https://github.com/lucyna77/winrar-exploit) | CVE-2025-8088 exploit C++ impl | 2025-09-25T05:44:47Z |
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [Fathi-MO/POC-CVE-2025-8088](https://github.com/Fathi-MO/POC-CVE-2025-8088) | no description | 2025-09-29T10:18:31Z |
+| [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [papcaii2004/CVE-2025-8088-WinRAR-builder](https://github.com/papcaii2004/CVE-2025-8088-WinRAR-builder) | A POC exploit for WinRAR vulnerability (CVE-2025-8088) affecting versions 7.12 and lower | 2025-10-21T04:55:23Z |
 | [CVE-2025-8081](https://www.cve.org/CVERecord?id=CVE-2025-8081) | [LyesH4ck/CVE-2025-8081-Elementor](https://github.com/LyesH4ck/CVE-2025-8081-Elementor) | PoC for CVE-2025-8081 - Elementor Arbitrary File Read Vulnerability | 2025-10-17T12:54:59Z |
 | [CVE-2025-8067](https://www.cve.org/CVERecord?id=CVE-2025-8067) | [born0monday/CVE-2025-8067](https://github.com/born0monday/CVE-2025-8067) | Proof of Concept for CVE-2025-8067 | 2025-09-04T12:57:30Z |
 | [CVE-2025-8061](https://www.cve.org/CVERecord?id=CVE-2025-8061) | [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061) | PoC for popping a system shell against the LnvMSRIO.sys driver | 2025-10-06T09:33:59Z |
@@ -141,6 +143,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2025-62518](https://www.cve.org/CVERecord?id=CVE-2025-62518) | [edera-dev/cve-tarmageddon](https://github.com/edera-dev/cve-tarmageddon) | CVE-2025-62518: TARmageddon | 2025-08-21T16:03:36Z |
 | [CVE-2025-62506](https://www.cve.org/CVERecord?id=CVE-2025-62506) | [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506) | Exploit for CVE-2025-62506 | 2025-10-23T12:18:17Z |
 | [CVE-2025-62410](https://www.cve.org/CVERecord?id=CVE-2025-62410) | [SubZeroHackerz/CVE-2025-62410](https://github.com/SubZeroHackerz/CVE-2025-62410) | no description | 2025-10-16T10:38:59Z |
+| [CVE-2025-62376](https://www.cve.org/CVERecord?id=CVE-2025-62376) | [ghostroots/CVE-2025-62376](https://github.com/ghostroots/CVE-2025-62376) | no description | 2025-10-26T12:25:49Z |
 | [CVE-2025-6220](https://www.cve.org/CVERecord?id=CVE-2025-6220) | [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220) | Ultimate Addons for Contact Form 7 &lt;= 3.5.12 - Authenticated (Administrator+) Arbitrary File Upload via &#x27;save_options&#x27; | 2025-06-17T22:34:49Z |
 | [CVE-2025-6218](https://www.cve.org/CVERecord?id=CVE-2025-6218) | [speinador/CVE-2025-6218_WinRAR](https://github.com/speinador/CVE-2025-6218_WinRAR) | no description | 2025-06-27T00:11:03Z |
 | [CVE-2025-6218](https://www.cve.org/CVERecord?id=CVE-2025-6218) | [ignis-sec/CVE-2025-6218](https://github.com/ignis-sec/CVE-2025-6218) | A simple proof of concept for WinRAR Path Traversal - RCE - CVE-2025-6218 | 2025-06-29T19:06:53Z |
@@ -296,6 +299,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2025-56708](https://www.cve.org/CVERecord?id=CVE-2025-56708) | [xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709](https://github.com/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709) | CVE-2025-56708&amp;CVE-2025-56709漏洞详解 | 2025-09-28T12:02:27Z |
 | [CVE-2025-56608](https://www.cve.org/CVERecord?id=CVE-2025-56608) | [anonaninda/Aninda-security-advisories](https://github.com/anonaninda/Aninda-security-advisories) | Security advisories published by Aninda , including CVE-2025-56608 and future findings. | 2025-09-02T19:46:39Z |
 | [CVE-2025-56605](https://www.cve.org/CVERecord?id=CVE-2025-56605) | [Userr404/CVE-2025-56605](https://github.com/Userr404/CVE-2025-56605) | XSS (Cross-Site Scripting Vulnerability) | 2025-09-10T02:43:16Z |
+| [CVE-2025-56521](https://www.cve.org/CVERecord?id=CVE-2025-56521) | [Dong-hui-li/CVE-2025-56521andCVE-2025-56522](https://github.com/Dong-hui-li/CVE-2025-56521andCVE-2025-56522) | desciption | 2025-10-27T02:57:42Z |
 | [CVE-2025-56515](https://www.cve.org/CVERecord?id=CVE-2025-56515) | [Kov404/CVE-2025-56515](https://github.com/Kov404/CVE-2025-56515) | Cross-Site Scripting (XSS) Vulnerability in Fiora Chat Application | 2025-09-30T17:54:59Z |
 | [CVE-2025-56514](https://www.cve.org/CVERecord?id=CVE-2025-56514) | [Kov404/CVE-2025-56514](https://github.com/Kov404/CVE-2025-56514) | Cross Site Scripting (XSS) Vulnerability in Fiora Chat Application | 2025-09-30T17:29:15Z |
 | [CVE-2025-56503](https://www.cve.org/CVERecord?id=CVE-2025-56503) | [secxplorers/CVE-2025-56503](https://github.com/secxplorers/CVE-2025-56503) | CVE-2025-56503 : Sublime Text 4 4200 | 2025-10-15T08:30:14Z |
@@ -453,6 +457,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2025-53640](https://www.cve.org/CVERecord?id=CVE-2025-53640) | [rafaelcorvino1/CVE-2025-53640](https://github.com/rafaelcorvino1/CVE-2025-53640) | Broken Object Level Authorization (BOLA) in CERN&#x27;s Indico leads to authenticated user enumeration. | 2025-07-19T12:57:38Z |
 | [CVE-2025-53632](https://www.cve.org/CVERecord?id=CVE-2025-53632) | [pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632) | An exploit of CVE-2025-53632 to confirm exploitability | 2025-08-22T12:37:59Z |
 | [CVE-2025-53547](https://www.cve.org/CVERecord?id=CVE-2025-53547) | [DVKunion/CVE-2025-53547-POC](https://github.com/DVKunion/CVE-2025-53547-POC) | CVE-2025-53547 one of poc code | 2025-07-09T09:03:47Z |
+| [CVE-2025-53533](https://www.cve.org/CVERecord?id=CVE-2025-53533) | [moezbouzayani9/Pi-hole-XSS-CVE-2025-53533](https://github.com/moezbouzayani9/Pi-hole-XSS-CVE-2025-53533) | Cross-Site-Scripting XSS in Pi-hole-CVE-2025-53533 exploit (PoC) | 2025-10-26T12:05:42Z |
 | [CVE-2025-5349](https://www.cve.org/CVERecord?id=CVE-2025-5349) | [olimpiofreitas/CVE-2025-5349-Scanner](https://github.com/olimpiofreitas/CVE-2025-5349-Scanner) | no description | 2025-07-15T15:02:10Z |
 | [CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367) | [kevinbackhouse/DjVuLibre-poc-CVE-2025-53367](https://github.com/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367) | no description | 2025-07-18T13:36:24Z |
 | [CVE-2025-5329](https://www.cve.org/CVERecord?id=CVE-2025-5329) | [sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-30T09:41:09Z |
@@ -570,6 +575,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2025-49619](https://www.cve.org/CVERecord?id=CVE-2025-49619) | [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619) | This script exploits CVE-2025-49619 in Skyvern to execute a reverse shell command. | 2025-06-09T10:09:43Z |
 | [CVE-2025-49596](https://www.cve.org/CVERecord?id=CVE-2025-49596) | [ashiqrehan-21/MCP-Inspector-CVE-2025-49596](https://github.com/ashiqrehan-21/MCP-Inspector-CVE-2025-49596) | MCP-Inspector-vulncheck is a Python script that checks if an MCP Inspector server is vulnerable to CVE-2025-49596. It tests whether the /sse endpoint responds to unauthenticated requests, indicating a potential security flaw. The script is simple to use and provides clear output on whether the target server is likely vulnerable or patched. | 2025-07-03T16:12:27Z |
 | [CVE-2025-49553](https://www.cve.org/CVERecord?id=CVE-2025-49553) | [silentexploitexe/CVE-2025-49553](https://github.com/silentexploitexe/CVE-2025-49553) | no description | 2025-10-16T18:19:52Z |
+| [CVE-2025-49553](https://www.cve.org/CVERecord?id=CVE-2025-49553) | [glitchhawks/CVE-2025-49553](https://github.com/glitchhawks/CVE-2025-49553) | no description | 2025-10-26T12:23:30Z |
 | [CVE-2025-49493](https://www.cve.org/CVERecord?id=CVE-2025-49493) | [MuhammadWaseem29/CVE-2025-49493-Poc](https://github.com/MuhammadWaseem29/CVE-2025-49493-Poc) | no description | 2025-07-01T20:54:16Z |
 | [CVE-2025-49493](https://www.cve.org/CVERecord?id=CVE-2025-49493) | [B1ack4sh/Blackash-CVE-2025-49493](https://github.com/B1ack4sh/Blackash-CVE-2025-49493) | CVE-2025-49493 | 2025-07-05T13:32:26Z |
 | [CVE-2025-49493](https://www.cve.org/CVERecord?id=CVE-2025-49493) | [SystemVll/CVE-2025-49493](https://github.com/SystemVll/CVE-2025-49493) | This is a Python-based exploit for **CVE-2025-49493**, which affects Akamai CloudTest versions before 60 2025.06.02 (12988). The vulnerability allows for XML External Entity (XXE) injection through the SOAP service endpoint. | 2025-07-14T02:05:27Z |
@@ -1747,6 +1753,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2025-22235](https://www.cve.org/CVERecord?id=CVE-2025-22235) | [idealzh/cve-2025-22235-demo](https://github.com/idealzh/cve-2025-22235-demo) | no description | 2025-08-21T07:01:36Z |
 | [CVE-2025-22226](https://www.cve.org/CVERecord?id=CVE-2025-22226) | [bronsoneaver/vme-escape](https://github.com/bronsoneaver/vme-escape) | (including : CVE-2025-22226, CVE-2025-22225, CVE-2025-22224) | 2025-03-25T12:53:53Z |
 | [CVE-2025-22223](https://www.cve.org/CVERecord?id=CVE-2025-22223) | [1ucky7/cve-2025-22223-demo-1.0.0](https://github.com/1ucky7/cve-2025-22223-demo-1.0.0) | cve-2025-22223 漏洞复现 | 2025-04-03T07:30:31Z |
+| [CVE-2025-22167](https://www.cve.org/CVERecord?id=CVE-2025-22167) | [issamjr/CVE-2025-22167](https://github.com/issamjr/CVE-2025-22167) | CVE-2025-22167 scanner script | 2025-10-27T02:23:18Z |
 | [CVE-2025-22131](https://www.cve.org/CVERecord?id=CVE-2025-22131) | [s0ck37/CVE-2025-22131-POC](https://github.com/s0ck37/CVE-2025-22131-POC) | POC for the vuln CVE-2025-22131 | 2025-09-05T05:59:17Z |
 | [CVE-2025-22131](https://www.cve.org/CVERecord?id=CVE-2025-22131) | [ZzN1NJ4/CVE-2025-22131-PoC](https://github.com/ZzN1NJ4/CVE-2025-22131-PoC) | PoC for CVE-2025-22131 | 2025-09-03T06:26:03Z |
 | [CVE-2025-22056](https://www.cve.org/CVERecord?id=CVE-2025-22056) | [henrymartin262/CVE-2025-22056-exploit](https://github.com/henrymartin262/CVE-2025-22056-exploit) | no description | 2025-06-04T07:36:46Z |
@@ -1836,6 +1843,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2025-1302](https://www.cve.org/CVERecord?id=CVE-2025-1302) | [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302) | JSONPath-plus Remote Code Execution | 2025-02-25T08:36:28Z |
 | [CVE-2025-1302](https://www.cve.org/CVERecord?id=CVE-2025-1302) | [abrewer251/CVE-2025-1302_jsonpath-plus_RCE](https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE) | PoC exploit and vulnerable server demo for CVE-2025-1302 in jsonpath-plus. | 2025-07-24T17:45:36Z |
 | [CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219) | [ediop3SquadALT/ediop3PHP](https://github.com/ediop3SquadALT/ediop3PHP) | A PHP CVE-2025-1219 SCANNER. In bash no root. | 2025-04-02T17:50:33Z |
+| [CVE-2025-11832](https://www.cve.org/CVERecord?id=CVE-2025-11832) | [blackhatlegend/CVE-2025-11832](https://github.com/blackhatlegend/CVE-2025-11832) | no description | 2025-10-26T12:18:53Z |
 | [CVE-2025-11579](https://www.cve.org/CVERecord?id=CVE-2025-11579) | [shinigami-777/PoC_CVE-2025-11579](https://github.com/shinigami-777/PoC_CVE-2025-11579) | Proof of Concept for CVE-2025-11579 | 2025-10-19T16:07:29Z |
 | [CVE-2025-11554](https://www.cve.org/CVERecord?id=CVE-2025-11554) | [m3m0o/portabilis-ieducar-user-type-privilege-escalation](https://github.com/m3m0o/portabilis-ieducar-user-type-privilege-escalation) | Proof of concept for exploitation of the vulnerability described in CVE-2025-11554, which concerns the possibility of a privilege escalation through arbitrary requests to user types change endpoint in the i-Educar software. | 2025-10-10T23:01:07Z |
 | [CVE-2025-11449](https://www.cve.org/CVERecord?id=CVE-2025-11449) | [DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script](https://github.com/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script) | This script automatically detects and remediates **CVE-2025-11449** and **CVE-2025-11450** security vulnerabilities in ServiceNow UI Macros. These critical vulnerabilities could allow arbitrary code execution in users&#x27; browsers through specially crafted links if user-controlled `sysparm_` parameters are not properly sanitized. | 2025-10-10T08:58:54Z |
@@ -6788,6 +6796,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [C1ph3rX13/CVE-2023-22518](https://github.com/C1ph3rX13/CVE-2023-22518) | Confluence CVE-2023-22518 | 2023-11-28T03:33:16Z |
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [bibo318/CVE-2023-22518](https://github.com/bibo318/CVE-2023-22518) | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | 2024-01-23T13:38:40Z |
 | [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [Lilly-dox/Exploit-CVE-2023-22518](https://github.com/Lilly-dox/Exploit-CVE-2023-22518) | no description | 2024-03-21T07:55:00Z |
+| [CVE-2023-22518](https://www.cve.org/CVERecord?id=CVE-2023-22518) | [ductink98lhp/analyze-Exploit-CVE-2023-22518-Confluence](https://github.com/ductink98lhp/analyze-Exploit-CVE-2023-22518-Confluence) | no description | 2025-05-05T02:12:05Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan) | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | 2023-10-06T20:29:44Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [j3seer/CVE-2023-22515-POC](https://github.com/j3seer/CVE-2023-22515-POC) | Poc for CVE-2023-22515 | 2023-10-10T18:45:10Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515) | Confluence Data Center &amp; Server 权限提升漏洞 Exploit | 2023-10-13T05:18:54Z |
@@ -9149,6 +9158,7 @@ Last generated: 2025-11-10 02:47:56.592626
 | [CVE-2018-8097](https://www.cve.org/CVERecord?id=CVE-2018-8097) | [SilentVoid13/CVE-2018-8097](https://github.com/SilentVoid13/CVE-2018-8097) | CVE-2018-8097 PoC | 2023-01-19T13:31:12Z |
 | [CVE-2018-8045](https://www.cve.org/CVERecord?id=CVE-2018-8045) | [luckybool1020/CVE-2018-8045](https://github.com/luckybool1020/CVE-2018-8045) | Joomla内核SQL注入漏洞原理、docker及poc[基于pocsuite框架] | 2019-11-14T09:18:40Z |
 | [CVE-2018-8032](https://www.cve.org/CVERecord?id=CVE-2018-8032) | [cairuojin/CVE-2018-8032](https://github.com/cairuojin/CVE-2018-8032) | 从老外那里下载了该漏洞的修复工程，无奈依赖包实在是太多下不下来，选取其中axis工程打成jar包后发现已成功修复项目的漏洞，有需要的亲可以下载重新打jar包替换即可。  clone后用idea打axis这个jar包即可 | 2020-03-30T06:31:49Z |
+| [CVE-2018-7848](https://www.cve.org/CVERecord?id=CVE-2018-7848) | [yanissec/CVE-2018-7848](https://github.com/yanissec/CVE-2018-7848) | CVE-2018-7848 | 2023-10-25T02:13:21Z |
 | [CVE-2018-7846](https://www.cve.org/CVERecord?id=CVE-2018-7846) | [yanissec/CVE-2018-7846](https://github.com/yanissec/CVE-2018-7846) | CVE-2018-7846 | 2023-10-24T02:20:41Z |
 | [CVE-2018-7845](https://www.cve.org/CVERecord?id=CVE-2018-7845) | [yanissec/CVE-2018-7845](https://github.com/yanissec/CVE-2018-7845) | CVE-2018-7845 | 2023-10-23T07:42:06Z |
 | [CVE-2018-7844](https://www.cve.org/CVERecord?id=CVE-2018-7844) | [yanissec/CVE-2018-7844](https://github.com/yanissec/CVE-2018-7844) | CVE-2018-7844 | 2023-10-20T09:43:56Z |
@@ -11120,3 +11130,4 @@ Last generated: 2025-11-10 02:47:56.592626
 | CVE NOT FOUND | [Tamilselvan-S-Cyber-Security/CVE-2025-Xss](https://github.com/Tamilselvan-S-Cyber-Security/CVE-2025-Xss) | no description | 2025-09-28T01:08:25Z |
 | CVE NOT FOUND | [samueloph/generate_cve_stats_debian_2024](https://github.com/samueloph/generate_cve_stats_debian_2024) | no description | 2025-07-14T16:40:31Z |
 | CVE NOT FOUND | [Smarttfoxx/CVE-2025--](https://github.com/Smarttfoxx/CVE-2025--) | no description | 2025-10-25T05:04:42Z |
+| CVE NOT FOUND | [geo-chen/iOS](https://github.com/geo-chen/iOS) | CVE-2022–22659 | 2025-02-22T06:07:34Z |
