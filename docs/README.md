@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-11-15 02:38:17.803153
+Last generated: 2025-11-16 02:51:31.656484
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -105,6 +105,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2025-7558](https://www.cve.org/CVERecord?id=CVE-2025-7558) | [rundas-r00t/CVE-2025-7558-PoC](https://github.com/rundas-r00t/CVE-2025-7558-PoC) | sql injection PoC for CVE-2025-7558. authored by i-Corner | 2025-10-03T15:16:45Z |
 | [CVE-2025-7461](https://www.cve.org/CVERecord?id=CVE-2025-7461) | [bx33661/CVE-2025-7461](https://github.com/bx33661/CVE-2025-7461) | no description | 2025-07-12T08:17:49Z |
 | [CVE-2025-7441](https://www.cve.org/CVERecord?id=CVE-2025-7441) | [Nxploited/CVE-2025-7441](https://github.com/Nxploited/CVE-2025-7441) | StoryChief &lt;= 1.0.42 - Unauthenticated Arbitrary File Upload | 2025-10-07T12:12:29Z |
+| [CVE-2025-7441](https://www.cve.org/CVERecord?id=CVE-2025-7441) | [Pwdnx1337/CVE-2025-7441](https://github.com/Pwdnx1337/CVE-2025-7441) | StoryChief &lt;= 1.0.42 - Unauthenticated Arbitrary File Upload | 2025-10-14T17:40:14Z |
 | [CVE-2025-7404](https://www.cve.org/CVERecord?id=CVE-2025-7404) | [mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection](https://github.com/mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection) | CVE-2025-7404 exploit. | 2025-07-27T03:21:03Z |
 | [CVE-2025-7401](https://www.cve.org/CVERecord?id=CVE-2025-7401) | [Nxploited/CVE-2025-7401](https://github.com/Nxploited/CVE-2025-7401) | Premium Age Verification / Restriction for WordPress &lt;= 3.0.2 - Unauthenticated Arbitrary File Read and Write | 2025-10-07T20:41:25Z |
 | [CVE-2025-7340](https://www.cve.org/CVERecord?id=CVE-2025-7340) | [Nxploited/CVE-2025-7340](https://github.com/Nxploited/CVE-2025-7340) | HT Contact Form Widget For Elementor Page Builder &amp; Gutenberg Blocks &amp; Form Builder. &lt;= 2.2.1 - Unauthenticated Arbitrary File Upload | 2025-07-14T23:27:47Z |
@@ -139,6 +140,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2025-6543](https://www.cve.org/CVERecord?id=CVE-2025-6543) | [abrewer251/CVE-2025-6543_CitrixNetScaler_PoC](https://github.com/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC) | Multi-host, multi-port scanner and auditor for CVE-2025-6543-affected NetScaler devices. Supports SNMP and SSH enumeration with optional CSV reporting and exploit stubs. | 2025-07-03T20:02:39Z |
 | [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514) | Documentation for CVE-2025-6514. MCP-Remote RCE. | 2025-07-11T15:46:24Z |
 | [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514) | mcp-remote exposed to OS command injection | 2025-10-26T08:57:42Z |
+| [CVE-2025-64095](https://www.cve.org/CVERecord?id=CVE-2025-64095) | [h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload](https://github.com/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload) | POC of DNN Insufficient Access Control - Image Upload allows for Site Content Overwrite | 2025-10-31T14:06:07Z |
 | [CVE-2025-6384](https://www.cve.org/CVERecord?id=CVE-2025-6384) | [mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384) | CVE-2025-6384: Groovy Sandbox Bypass 2 in CrafterCMS | 2025-08-08T20:25:47Z |
 | [CVE-2025-6384](https://www.cve.org/CVERecord?id=CVE-2025-6384) | [maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384) | PoC exploit for an authenticated RCE in CrafterCMS via Groovy sandbox bypass (CVE-2025-6384) | 2025-09-26T02:08:30Z |
 | [CVE-2025-6335](https://www.cve.org/CVERecord?id=CVE-2025-6335) | [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335) | cve报告 | 2025-06-13T13:14:02Z |
@@ -251,6 +253,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [fsanzmoya/wsus_CVE-2025-59287](https://github.com/fsanzmoya/wsus_CVE-2025-59287) | Verificacion de vulnerabilidad en WSUS | 2025-10-29T07:08:37Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [esteban11121/WSUS-RCE-Mitigation-59287](https://github.com/esteban11121/WSUS-RCE-Mitigation-59287) | Guía de respuesta rápida y script de auditoría para CVE-2025-59287 (RCE crítica en WSUS). | 2025-10-28T19:56:15Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [0x7556/CVE-2025-59287](https://github.com/0x7556/CVE-2025-59287) | CVE-2025-59287  注入WolfShell内存马 | 2025-10-30T13:38:46Z |
+| [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [0xBruno/WSUSploit.NET](https://github.com/0xBruno/WSUSploit.NET) | PoC for CVE-2025-59287 | 2025-10-26T01:39:27Z |
 | [CVE-2025-59230](https://www.cve.org/CVERecord?id=CVE-2025-59230) | [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230) | no description | 2025-10-20T15:16:06Z |
 | [CVE-2025-58789](https://www.cve.org/CVERecord?id=CVE-2025-58789) | [quetuan03/CVE-2025-58789](https://github.com/quetuan03/CVE-2025-58789) | WordPress WP Full Stripe Free Plugin &lt;= 8.2.5 is vulnerable to SQL Injection | 2025-10-01T09:22:40Z |
 | [CVE-2025-58788](https://www.cve.org/CVERecord?id=CVE-2025-58788) | [quetuan03/CVE-2025-58788](https://github.com/quetuan03/CVE-2025-58788) | WordPress License Manager for WooCommerce Plugin &lt;= 3.0.12 is vulnerable to SQL Injection | 2025-10-01T08:43:20Z |
@@ -361,6 +364,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2025-55763](https://www.cve.org/CVERecord?id=CVE-2025-55763) | [krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763) | Heap overflow PoC for CivetWeb CVE-2025-55763 | 2025-08-29T09:46:07Z |
 | [CVE-2025-55752](https://www.cve.org/CVERecord?id=CVE-2025-55752) | [TAM-K592/CVE-2025-55752](https://github.com/TAM-K592/CVE-2025-55752) | CVE-2025-55752, Apache Tomcat that allows directory traversal via URL rewrite, and under certain conditions, leads to remote code execution (RCE) if HTTP PUT is enabled. | 2025-10-28T17:49:27Z |
 | [CVE-2025-55752](https://www.cve.org/CVERecord?id=CVE-2025-55752) | [B1ack4sh/Blackash-CVE-2025-55752](https://github.com/B1ack4sh/Blackash-CVE-2025-55752) | CVE-2025-55752 | 2025-10-30T13:33:39Z |
+| [CVE-2025-55752](https://www.cve.org/CVERecord?id=CVE-2025-55752) | [masahiro331/CVE-2025-55752](https://github.com/masahiro331/CVE-2025-55752) | no description | 2025-10-29T08:27:13Z |
 | [CVE-2025-55746](https://www.cve.org/CVERecord?id=CVE-2025-55746) | [r4bbit-r4/directus-preso](https://github.com/r4bbit-r4/directus-preso) | Presentation about CVE-2025-55746 | 2025-09-02T20:19:01Z |
 | [CVE-2025-55668](https://www.cve.org/CVERecord?id=CVE-2025-55668) | [gregk4sec/CVE-2025-55668](https://github.com/gregk4sec/CVE-2025-55668) | Apache Tomcat - Session fixation via rewrite valve | 2025-08-13T15:08:59Z |
 | [CVE-2025-55616](https://www.cve.org/CVERecord?id=CVE-2025-55616) | [livepwn/CVE-2025-55616](https://github.com/livepwn/CVE-2025-55616) | no description | 2025-10-05T16:37:04Z |
@@ -886,6 +890,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2025-4102025](https://www.cve.org/CVERecord?id=CVE-2025-4102025) | [ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025) | no description | 2025-04-10T23:16:19Z |
 | [CVE-2025-4094](https://www.cve.org/CVERecord?id=CVE-2025-4094) | [starawneh/CVE-2025-4094](https://github.com/starawneh/CVE-2025-4094) | CVE-2025-4094 – WordPress Digits Plugin &lt; 8.4.6.1 - OTP Authentication Bypass | 2025-05-15T04:27:04Z |
 | [CVE-2025-4094](https://www.cve.org/CVERecord?id=CVE-2025-4094) | [POCPioneer/CVE-2025-4094-POC](https://github.com/POCPioneer/CVE-2025-4094-POC) | WordPress Plugin Digits &lt; 8.4.6.1 - OTP Auth Bypass via Bruteforce (CVE-2025-4094) | 2025-05-15T13:13:03Z |
+| [CVE-2025-40778](https://www.cve.org/CVERecord?id=CVE-2025-40778) | [nehkark/CVE-2025-40778](https://github.com/nehkark/CVE-2025-40778) | POC CVE-2025-40778: Cache Poisoning BIND 9 👾 | 2025-10-29T16:05:25Z |
 | [CVE-2025-40775](https://www.cve.org/CVERecord?id=CVE-2025-40775) | [AlexSvobo/nhi-zero-trust-bypass](https://github.com/AlexSvobo/nhi-zero-trust-bypass) | Demonstrates a real-world zero-trust bypass by exploiting BIND CVE-2025-40775 to disrupt DNS, break secret rotation, and expose static credentials in a cloud-native lab. | 2025-05-23T00:41:43Z |
 | [CVE-2025-40766](https://www.cve.org/CVERecord?id=CVE-2025-40766) | [FurkanKAYAPINAR/ecs_checker](https://github.com/FurkanKAYAPINAR/ecs_checker) | EDNS Client Subnet (ECS) Remote Detection Tool - CVE-2025-40766 | 2025-07-30T07:30:26Z |
 | [CVE-2025-40677](https://www.cve.org/CVERecord?id=CVE-2025-40677) | [PeterGabaldon/CVE-2025-40677](https://github.com/PeterGabaldon/CVE-2025-40677) | Summar Employee Portal Prior to 3.98.0 Authenticated SQL Injection - CVE-2025-40677 | 2025-09-22T08:02:53Z |
@@ -1587,6 +1592,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2025-2502](https://www.cve.org/CVERecord?id=CVE-2025-2502) | [IHK-ONE/CVE-2025-2502](https://github.com/IHK-ONE/CVE-2025-2502) | CVE-2025-2502 / CNVD-2025-16450 联想电脑管家权限提升漏洞 | 2025-09-05T09:16:14Z |
 | [CVE-2025-25014](https://www.cve.org/CVERecord?id=CVE-2025-25014) | [davidxbors/CVE-2025-25014](https://github.com/davidxbors/CVE-2025-25014) | no description | 2025-05-24T14:40:13Z |
 | [CVE-2025-25014](https://www.cve.org/CVERecord?id=CVE-2025-25014) | [B1ack4sh/Blackash-CVE-2025-25014](https://github.com/B1ack4sh/Blackash-CVE-2025-25014) | CVE-2025-25014 | 2025-07-21T22:58:42Z |
+| [CVE-2025-24990](https://www.cve.org/CVERecord?id=CVE-2025-24990) | [moiz-2x/CVE-2025-24990_POC](https://github.com/moiz-2x/CVE-2025-24990_POC) | Proof of Concept CVE-2025-24990 (Agere Systems&#x27;s driver) | 2025-10-16T04:44:08Z |
 | [CVE-2025-24985](https://www.cve.org/CVERecord?id=CVE-2025-24985) | [airbus-cert/cve-2025-24985](https://github.com/airbus-cert/cve-2025-24985) | Detection of malicious VHD files for CVE-2025-24985 | 2025-04-02T15:30:25Z |
 | [CVE-2025-24971](https://www.cve.org/CVERecord?id=CVE-2025-24971) | [be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971) | CVE-2025-24971 exploit | 2025-02-20T16:59:27Z |
 | [CVE-2025-24963](https://www.cve.org/CVERecord?id=CVE-2025-24963) | [0xdeviner/CVE-2025-24963](https://github.com/0xdeviner/CVE-2025-24963) | no description | 2025-04-23T08:01:49Z |
@@ -1933,6 +1939,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2025-10035](https://www.cve.org/CVERecord?id=CVE-2025-10035) | [rxerium/CVE-2025-10035](https://github.com/rxerium/CVE-2025-10035) | Detection for CVE-2025-10035 | 2025-09-20T07:35:13Z |
 | [CVE-2025-10035](https://www.cve.org/CVERecord?id=CVE-2025-10035) | [ThemeHackers/CVE-2025-10035](https://github.com/ThemeHackers/CVE-2025-10035) | A deserialization vulnerability in the License Servlet of Fortra&#x27;s GoAnywhere MFT allows an actor with a validly forged license response signature to deserialize an arbitrary actor-controlled object, possibly leading to command injection. | 2025-09-21T07:08:08Z |
 | [CVE-2025-10035](https://www.cve.org/CVERecord?id=CVE-2025-10035) | [orange0Mint/CVE-2025-10035_GoAnywhere](https://github.com/orange0Mint/CVE-2025-10035_GoAnywhere) | CVE-2025-10035_GoAnywhere Get RCE | 2025-09-27T08:50:50Z |
+| [CVE-2025-10035](https://www.cve.org/CVERecord?id=CVE-2025-10035) | [B1ack4sh/Blackash-CVE-2025-10035](https://github.com/B1ack4sh/Blackash-CVE-2025-10035) | CVE-2025-10035 | 2025-10-30T17:44:25Z |
 | [CVE-2025-0994](https://www.cve.org/CVERecord?id=CVE-2025-0994) | [rxerium/CVE-2025-0994](https://github.com/rxerium/CVE-2025-0994) | Cityworks deserialization of untrusted data vulnerability Detection | 2025-02-07T14:13:08Z |
 | [CVE-2025-0924](https://www.cve.org/CVERecord?id=CVE-2025-0924) | [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different) | no description | 2025-02-21T04:49:36Z |
 | [CVE-2025-0886](https://www.cve.org/CVERecord?id=CVE-2025-0886) | [JNDataRT/VirtualLockSensorLPE](https://github.com/JNDataRT/VirtualLockSensorLPE) | Local privilege escalation exploit for CVE-2025-0886. | 2025-10-14T10:23:29Z |
@@ -3981,6 +3988,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2024-27954](https://www.cve.org/CVERecord?id=CVE-2024-27954) | [r0otk3r/CVE-2024-27954](https://github.com/r0otk3r/CVE-2024-27954) | no description | 2025-07-10T16:57:11Z |
 | [CVE-2024-27876](https://www.cve.org/CVERecord?id=CVE-2024-27876) | [0xilis/CVE-2024-27876](https://github.com/0xilis/CVE-2024-27876) | libAppleArchive exploit maker, read the writeup here https://snoolie.gay/blog/CVE-2024-27876 | 2025-04-23T21:42:32Z |
 | [CVE-2024-27821](https://www.cve.org/CVERecord?id=CVE-2024-27821) | [0xilis/CVE-2024-27821](https://github.com/0xilis/CVE-2024-27821) | Writeup and PoC of CVE-2024-27821, for education purposes. | 2024-11-17T20:56:41Z |
+| [CVE-2024-2782](https://www.cve.org/CVERecord?id=CVE-2024-2782) | [whale93/CVE-2024-2782-PoC](https://github.com/whale93/CVE-2024-2782-PoC) | CVE-2024-2782 Proof-of-Concept | 2025-08-03T06:12:26Z |
 | [CVE-2024-27815](https://www.cve.org/CVERecord?id=CVE-2024-27815) | [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815) | macOS/ XNU kernel buffer overflow. Introduced in macOS 14.0 (xnu-10002.1.13), fixed in macOS 14.5 (xnu-10063.121.3) | 2024-06-19T22:03:02Z |
 | [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804) | POC for CVE-2024-27804 | 2024-05-14T14:17:06Z |
 | [CVE-2024-27804](https://www.cve.org/CVERecord?id=CVE-2024-27804) | [a0zhar/QuarkPoC](https://github.com/a0zhar/QuarkPoC) | iOS Application w/Implementation of CVE-2024-27804 | 2025-08-01T14:20:18Z |
@@ -8803,6 +8811,7 @@ Last generated: 2025-11-15 02:38:17.803153
 | [CVE-2019-9766](https://www.cve.org/CVERecord?id=CVE-2019-9766) | [freeFV/ApacheSolrRCE](https://github.com/freeFV/ApacheSolrRCE) | ApacheSolrRCE（CVE-2019-0193）一键写shell，原理是通过代码执行的java文件流写的马。 | 2022-09-13T08:38:30Z |
 | [CVE-2019-9670](https://www.cve.org/CVERecord?id=CVE-2019-9670) | [Phuong39/zaber](https://github.com/Phuong39/zaber) | 🕵️ Yet another CVE-2019-9670 exploit, but in Golang. | 2022-08-15T05:51:12Z |
 | [CVE-2019-9670](https://www.cve.org/CVERecord?id=CVE-2019-9670) | [OracleNep/CVE-2019-9670-DtdFilegeneration](https://github.com/OracleNep/CVE-2019-9670-DtdFilegeneration) | no description | 2024-05-05T01:09:02Z |
+| [CVE-2019-9670](https://www.cve.org/CVERecord?id=CVE-2019-9670) | [Cappricio-Securities/CVE-2019-9670](https://github.com/Cappricio-Securities/CVE-2019-9670) | mailboxd component in Synacor Zimbra Collaboration Suite 8.7.x before 8.7.11p10 has an XML External Entity injection (XXE) vulnerability, as demonstrated by Autodiscover/Autodiscover.xml. | 2024-04-24T12:32:18Z |
 | [CVE-2019-9465](https://www.cve.org/CVERecord?id=CVE-2019-9465) | [MichaelsPlayground/CVE-2019-9465](https://github.com/MichaelsPlayground/CVE-2019-9465) | no description | 2022-01-08T22:25:43Z |
 | [CVE-2019-9465](https://www.cve.org/CVERecord?id=CVE-2019-9465) | [reconmap/vulnerability-data-static-site](https://github.com/reconmap/vulnerability-data-static-site) | Directory of all CVEs from 2019 to 2021. | 2020-09-25T18:29:45Z |
 | [CVE-2019-9367](https://www.cve.org/CVERecord?id=CVE-2019-9367) | [Nivaskumark/CVE-2019-9367_system_bt](https://github.com/Nivaskumark/CVE-2019-9367_system_bt) | no description | 2021-12-03T11:34:45Z |
@@ -11199,3 +11208,4 @@ Last generated: 2025-11-15 02:38:17.803153
 | CVE NOT FOUND | [Smarttfoxx/CVE-2025--](https://github.com/Smarttfoxx/CVE-2025--) | no description | 2025-10-25T05:04:42Z |
 | CVE NOT FOUND | [geo-chen/iOS](https://github.com/geo-chen/iOS) | CVE-2022–22659 | 2025-02-22T06:07:34Z |
 | CVE NOT FOUND | [coramarcet/WordPressCVEExploitProject](https://github.com/coramarcet/WordPressCVEExploitProject) | Exploit of WordPress plugins “Likes and Dislikes Plugin” SQL injection vulnerability (CVE 2025-5287) and &quot;EasyTimer&quot; remote code execution vulnerability (CVE 2025-9519) | 2025-10-28T19:50:59Z |
+| CVE NOT FOUND | [jiangjialiang1019/cveDataMappingYear_2025](https://github.com/jiangjialiang1019/cveDataMappingYear_2025) | no description | 2025-10-31T07:57:00Z |
