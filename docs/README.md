@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-11-17 04:23:12.788403
+Last generated: 2025-11-18 02:41:28.654582
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -259,6 +259,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [esteban11121/WSUS-RCE-Mitigation-59287](https://github.com/esteban11121/WSUS-RCE-Mitigation-59287) | Guía de respuesta rápida y script de auditoría para CVE-2025-59287 (RCE crítica en WSUS). | 2025-10-28T19:56:15Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [0x7556/CVE-2025-59287](https://github.com/0x7556/CVE-2025-59287) | CVE-2025-59287  注入WolfShell内存马 | 2025-10-30T13:38:46Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [0xBruno/WSUSploit.NET](https://github.com/0xBruno/WSUSploit.NET) | PoC for CVE-2025-59287 | 2025-10-26T01:39:27Z |
+| [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [dexterm300/cve-2025-59287-exploit-poc](https://github.com/dexterm300/cve-2025-59287-exploit-poc) | Exploitation proof-of-concept for CVE-2025-59287 - a critical vulnerability in the Windows Server Update Service (WSUS) caused by the deserialization of untrusted data. This flaw allows an unauthorized attacker to execute arbitrary code over a network, posing a significant security risk. | 2025-11-03T10:51:07Z |
 | [CVE-2025-59230](https://www.cve.org/CVERecord?id=CVE-2025-59230) | [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230) | no description | 2025-10-20T15:16:06Z |
 | [CVE-2025-58789](https://www.cve.org/CVERecord?id=CVE-2025-58789) | [quetuan03/CVE-2025-58789](https://github.com/quetuan03/CVE-2025-58789) | WordPress WP Full Stripe Free Plugin &lt;= 8.2.5 is vulnerable to SQL Injection | 2025-10-01T09:22:40Z |
 | [CVE-2025-58788](https://www.cve.org/CVERecord?id=CVE-2025-58788) | [quetuan03/CVE-2025-58788](https://github.com/quetuan03/CVE-2025-58788) | WordPress License Manager for WooCommerce Plugin &lt;= 3.0.12 is vulnerable to SQL Injection | 2025-10-01T08:43:20Z |
@@ -600,6 +601,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2025-50340](https://www.cve.org/CVERecord?id=CVE-2025-50340) | [millad7/SOGo_web_mail-vulnerability-CVE-2025-50340](https://github.com/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340) | Insecure Direct Object Reference (IDOR vulnerability) in SOGo Webmail Allows a user to send emails on behalf of  another user. | 2025-07-31T08:04:53Z |
 | [CVE-2025-50286](https://www.cve.org/CVERecord?id=CVE-2025-50286) | [binneko/CVE-2025-50286](https://github.com/binneko/CVE-2025-50286) | no description | 2025-08-05T01:46:20Z |
 | [CVE-2025-5025](https://www.cve.org/CVERecord?id=CVE-2025-5025) | [KiPhuong/cve-2025-5025](https://github.com/KiPhuong/cve-2025-5025) | no description | 2025-07-22T02:52:06Z |
+| [CVE-2025-50168](https://www.cve.org/CVERecord?id=CVE-2025-50168) | [D4m0n/CVE-2025-50168-pwn2own-berlin-2025](https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025) | CVE-2025-50168 Exploit PoC — Pwn2Own Berlin 2025 - LPE(Windows 11) winning bug. | 2025-11-01T13:02:31Z |
 | [CVE-2025-50165](https://www.cve.org/CVERecord?id=CVE-2025-50165) | [allinsthon/CVE-2025-50165](https://github.com/allinsthon/CVE-2025-50165) | no description | 2025-08-16T20:20:41Z |
 | [CVE-2025-50154](https://www.cve.org/CVERecord?id=CVE-2025-50154) | [zenzue/CVE-2025-50154](https://github.com/zenzue/CVE-2025-50154) | no description | 2025-08-13T05:40:53Z |
 | [CVE-2025-50154](https://www.cve.org/CVERecord?id=CVE-2025-50154) | [Ash1996x/CVE-2025-50154-Aggressor-Script](https://github.com/Ash1996x/CVE-2025-50154-Aggressor-Script) | no description | 2025-08-16T02:12:24Z |
@@ -734,6 +736,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [s41r4j/CVE-2025-48384-submodule](https://github.com/s41r4j/CVE-2025-48384-submodule) | CVE-2025-48384-submodule | 2025-09-13T05:07:14Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [mukesh-610/cve-2025-48384](https://github.com/mukesh-610/cve-2025-48384) | no description | 2025-10-14T11:47:08Z |
 | [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [mukesh-610/cve-2025-48384-exploit](https://github.com/mukesh-610/cve-2025-48384-exploit) | no description | 2025-10-14T11:40:41Z |
+| [CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384) | [MarcoTondolo/cve-2025-48384-poc](https://github.com/MarcoTondolo/cve-2025-48384-poc) | no description | 2025-10-31T11:48:10Z |
 | [CVE-2025-4822](https://www.cve.org/CVERecord?id=CVE-2025-4822) | [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822) | USOM Tarafından resmi yayın beklenmektedir. | 2025-05-16T13:18:32Z |
 | [CVE-2025-48148](https://www.cve.org/CVERecord?id=CVE-2025-48148) | [Nxploited/CVE-2025-48148](https://github.com/Nxploited/CVE-2025-48148) | StoreKeeper for WooCommerce &lt;= 14.4.4 - Unauthenticated Arbitrary File Upload | 2025-10-23T13:07:53Z |
 | [CVE-2025-48129](https://www.cve.org/CVERecord?id=CVE-2025-48129) | [Nxploited/CVE-2025-48129](https://github.com/Nxploited/CVE-2025-48129) | WordPress Spreadsheet Price Changer for WooCommerce and WP E-commerce – Light Plugin &lt;= 2.4.37 is vulnerable to Privilege Escalation | 2025-06-09T01:31:11Z |
@@ -1591,6 +1594,9 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2025-25257](https://www.cve.org/CVERecord?id=CVE-2025-25257) | [silentexploitexe/CVE-2025-25257](https://github.com/silentexploitexe/CVE-2025-25257) | no description | 2025-10-18T23:30:37Z |
 | [CVE-2025-25256](https://www.cve.org/CVERecord?id=CVE-2025-25256) | [watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256](https://github.com/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256) | no description | 2025-08-15T14:31:00Z |
 | [CVE-2025-25256](https://www.cve.org/CVERecord?id=CVE-2025-25256) | [JMS-Security/CVE-2025-25256-PoC](https://github.com/JMS-Security/CVE-2025-25256-PoC) | CVE-2025-25256: Fortinet FortiSIEM OS Command Injection CVE PoC (Proof of Concept) | 2025-08-21T09:09:49Z |
+| [CVE-2025-25254](https://www.cve.org/CVERecord?id=CVE-2025-25254) | [JackMicalli/CVE-2025-25254](https://github.com/JackMicalli/CVE-2025-25254) | no description | 2025-11-03T09:01:48Z |
+| [CVE-2025-25253](https://www.cve.org/CVERecord?id=CVE-2025-25253) | [onelittlectfer/CVE-2025-25253](https://github.com/onelittlectfer/CVE-2025-25253) | no description | 2025-11-03T09:00:23Z |
+| [CVE-2025-25252](https://www.cve.org/CVERecord?id=CVE-2025-25252) | [iptables6cv/CVE-2025-25252-POC](https://github.com/iptables6cv/CVE-2025-25252-POC) | CVE-2025-25252-POC | 2025-11-03T08:47:26Z |
 | [CVE-2025-25231](https://www.cve.org/CVERecord?id=CVE-2025-25231) | [ashkan-pu/CVE-CVE-2025-25231](https://github.com/ashkan-pu/CVE-CVE-2025-25231) | no description | 2025-08-12T09:05:59Z |
 | [CVE-2025-25198](https://www.cve.org/CVERecord?id=CVE-2025-25198) | [enzocipher/CVE-2025-25198](https://github.com/enzocipher/CVE-2025-25198) | Captures password reset tokens from Mailcow Host header injection attacks. | 2025-10-14T05:07:26Z |
 | [CVE-2025-25198](https://www.cve.org/CVERecord?id=CVE-2025-25198) | [Groppoxx/CVE-2025-25198-PoC](https://github.com/Groppoxx/CVE-2025-25198-PoC) | PoC for CVE-2025-25198: automated Host header poisoning test for Mailcow - HTTPS listener, automatic cookie/CSRF handling, captures first reset link. | 2025-10-14T03:14:09Z |
@@ -1908,6 +1914,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2025-1304](https://www.cve.org/CVERecord?id=CVE-2025-1304) | [Nxploited/CVE-2025-1304](https://github.com/Nxploited/CVE-2025-1304) | WordPress NewsBlogger Theme &lt;= 0.2.5.1 is vulnerable to Arbitrary File Upload | 2025-05-02T11:30:50Z |
 | [CVE-2025-1302](https://www.cve.org/CVERecord?id=CVE-2025-1302) | [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302) | JSONPath-plus Remote Code Execution | 2025-02-25T08:36:28Z |
 | [CVE-2025-1302](https://www.cve.org/CVERecord?id=CVE-2025-1302) | [abrewer251/CVE-2025-1302_jsonpath-plus_RCE](https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE) | PoC exploit and vulnerable server demo for CVE-2025-1302 in jsonpath-plus. | 2025-07-24T17:45:36Z |
+| [CVE-2025-12428](https://www.cve.org/CVERecord?id=CVE-2025-12428) | [dexterm300/cve-2025-12428-exploit-poc](https://github.com/dexterm300/cve-2025-12428-exploit-poc) | Exploitation proof-of-concept against CVE-2025-12428 for Chromium V8 JavaScript issues like type confusion | 2025-11-03T10:41:18Z |
 | [CVE-2025-12399](https://www.cve.org/CVERecord?id=CVE-2025-12399) | [d0n601/CVE-2025-12399](https://github.com/d0n601/CVE-2025-12399) | Alex Reservations: Smart Restaurant Booking &lt;= 2.2.3 - Authenticated (Admin+) Arbitrary File Upload | 2025-10-28T21:17:58Z |
 | [CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219) | [ediop3SquadALT/ediop3PHP](https://github.com/ediop3SquadALT/ediop3PHP) | A PHP CVE-2025-1219 SCANNER. In bash no root. | 2025-04-02T17:50:33Z |
 | [CVE-2025-11832](https://www.cve.org/CVERecord?id=CVE-2025-11832) | [blackhatlegend/CVE-2025-11832](https://github.com/blackhatlegend/CVE-2025-11832) | no description | 2025-10-26T12:18:53Z |
@@ -5622,6 +5629,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [SwiftSecur/teamcity-exploit-cve-2023-42793](https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793) | teamcity-exploit-cve-2023-42793 | 2024-09-20T12:15:25Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [becrevex/CVE-2023-42793](https://github.com/becrevex/CVE-2023-42793) | TeamCity server scanner to detect CVE-2023-42793 | 2024-10-08T06:33:06Z |
 | [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [jakehomb/cve-2023-42793](https://github.com/jakehomb/cve-2023-42793) | no description | 2025-04-14T05:33:46Z |
+| [CVE-2023-42793](https://www.cve.org/CVERecord?id=CVE-2023-42793) | [syaifulandy/Nuclei-Template-CVE-2023-42793.yaml](https://github.com/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml) | Windows &amp; linux support | 2025-05-11T16:59:22Z |
 | [CVE-2023-42791](https://www.cve.org/CVERecord?id=CVE-2023-42791) | [synacktiv/CVE-2023-42791_CVE-2024-23666](https://github.com/synacktiv/CVE-2023-42791_CVE-2024-23666) | Exploitations scripts for CVE-2023-42791 and CVE-2024-23666. | 2025-02-12T12:41:19Z |
 | [CVE-2023-4279](https://www.cve.org/CVERecord?id=CVE-2023-4279) | [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279) | Repository for CVE-2023-4279 vulnerability. | 2023-09-24T08:26:37Z |
 | [CVE-2023-42789](https://www.cve.org/CVERecord?id=CVE-2023-42789) | [jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) | Check CVE-2023-42789 | 2024-03-28T08:59:12Z |
@@ -7462,6 +7470,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [skitkat/CVE-2022-30190-POC](https://github.com/skitkat/CVE-2022-30190-POC) | For learning purpose did a complete analysis on CVE-2022-30190 &quot;Follina&quot; POC | 2024-06-14T16:36:39Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [ethicalblue/Follina-CVE-2022-30190-Sample](https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample) | Educational exploit for CVE-2022-30190 | 2024-07-20T17:50:48Z |
 | [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [Potato-9257/CVE-2022-30190_page](https://github.com/Potato-9257/CVE-2022-30190_page) | PoC of CVE-2022-30190 | 2025-02-07T00:35:46Z |
+| [CVE-2022-30190](https://www.cve.org/CVERecord?id=CVE-2022-30190) | [yeep1115/ICT287_CVE-2022-30190_Exploit](https://github.com/yeep1115/ICT287_CVE-2022-30190_Exploit) | Project on CVE-2022-30190 exploitation and mitigation strategies | 2025-03-02T09:25:27Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [fortra/CVE-2022-30136](https://github.com/fortra/CVE-2022-30136) | Windows Network File System Remote exploit for CVE-2022-30136 | 2023-03-15T10:59:08Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [VEEXH/CVE-2022-30136](https://github.com/VEEXH/CVE-2022-30136) | Windows Network File System Remote exploit (DoS) PoC | 2023-06-23T17:13:22Z |
 | [CVE-2022-30136](https://www.cve.org/CVERecord?id=CVE-2022-30136) | [Halcy0nic/CVEs-for-picoc-3.2.2](https://github.com/Halcy0nic/CVEs-for-picoc-3.2.2) | Reproduction files for CVE-2022-44312 through CVE-2022-44321 | 2023-06-23T00:16:52Z |
@@ -8684,6 +8693,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2020-12800](https://www.cve.org/CVERecord?id=CVE-2020-12800) | [amartinsec/CVE-2020-12800](https://github.com/amartinsec/CVE-2020-12800) | POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload | 2020-05-15T01:50:36Z |
 | [CVE-2020-12717](https://www.cve.org/CVERecord?id=CVE-2020-12717) | [wabzqem/covidsafe-CVE-2020-12717-exploit](https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit) | Code for exploit for CVE-2020-12717 | 2020-05-11T13:09:52Z |
 | [CVE-2020-12696](https://www.cve.org/CVERecord?id=CVE-2020-12696) | [g-rubert/CVE-2020-12696](https://github.com/g-rubert/CVE-2020-12696) | Stored Cross Site Scripting - Iframe Plugin - WordPress | 2020-05-07T15:16:39Z |
+| [CVE-2020-12641](https://www.cve.org/CVERecord?id=CVE-2020-12641) | [mbadanoiu/CVE-2020-12641](https://github.com/mbadanoiu/CVE-2020-12641) | CVE-2020-12641: Command Injection via “_im_convert_path” Parameter in Roundcube Webmail | 2024-04-08T19:48:16Z |
 | [CVE-2020-12124](https://www.cve.org/CVERecord?id=CVE-2020-12124) | [db44k/CVE-2020-12124](https://github.com/db44k/CVE-2020-12124) | An implementation of a proof-of-concept for CVE-2020-12124 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12124) | 2023-10-09T14:07:00Z |
 | [CVE-2020-12124](https://www.cve.org/CVERecord?id=CVE-2020-12124) | [Scorpion-Security-Labs/CVE-2020-12124](https://github.com/Scorpion-Security-Labs/CVE-2020-12124) | An implementation of a proof-of-concept for CVE-2020-12124 | 2023-12-18T18:09:55Z |
 | [CVE-2020-12077](https://www.cve.org/CVERecord?id=CVE-2020-12077) | [RandomRobbieBF/CVE-2020-12077](https://github.com/RandomRobbieBF/CVE-2020-12077) | MapPress Maps Pro &lt; 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions | 2023-09-11T12:43:47Z |
@@ -9147,6 +9157,7 @@ Last generated: 2025-11-17 04:23:12.788403
 | [CVE-2019-12725](https://www.cve.org/CVERecord?id=CVE-2019-12725) | [MzzdToT/CVE-2019-12725](https://github.com/MzzdToT/CVE-2019-12725) | ZeroShell命令执行漏洞批量扫描poc+exp | 2021-06-29T06:24:22Z |
 | [CVE-2019-12725](https://www.cve.org/CVERecord?id=CVE-2019-12725) | [gougou123-hash/CVE-2019-12725](https://github.com/gougou123-hash/CVE-2019-12725) | ZeroShell命令执行漏洞批量扫描poc+exp | 2021-08-10T04:39:39Z |
 | [CVE-2019-12725](https://www.cve.org/CVERecord?id=CVE-2019-12725) | [h3v0x/CVE-2019-12725-Command-Injection](https://github.com/h3v0x/CVE-2019-12725-Command-Injection) | ZeroShell 3.9.0 Remote Command Injection | 2021-06-13T23:57:37Z |
+| [CVE-2019-12616](https://www.cve.org/CVERecord?id=CVE-2019-12616) | [Cappricio-Securities/CVE-2019-12616](https://github.com/Cappricio-Securities/CVE-2019-12616) | phpMyAdmin &lt;4.9.0 - Cross-Site Request Forgery | 2024-06-02T15:50:16Z |
 | [CVE-2019-1253](https://www.cve.org/CVERecord?id=CVE-2019-1253) | [padovah4ck/CVE-2019-1253](https://github.com/padovah4ck/CVE-2019-1253) | Poc for CVE-2019-1253 | 2019-09-11T20:40:15Z |
 | [CVE-2019-12384](https://www.cve.org/CVERecord?id=CVE-2019-12384) | [MagicZer0/Jackson_RCE-CVE-2019-12384](https://github.com/MagicZer0/Jackson_RCE-CVE-2019-12384) | CVE-2019-12384 漏洞测试环境 | 2019-07-26T03:24:38Z |
 | [CVE-2019-12086](https://www.cve.org/CVERecord?id=CVE-2019-12086) | [Al1ex/CVE-2019-12086](https://github.com/Al1ex/CVE-2019-12086) | jackson unserialize | 2020-05-22T17:10:10Z |
