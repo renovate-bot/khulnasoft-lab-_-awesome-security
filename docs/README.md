@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-11-22 02:25:31.183501
+Last generated: 2025-11-23 02:56:51.326593
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -153,6 +153,7 @@ Last generated: 2025-11-22 02:25:31.183501
 | [CVE-2025-6384](https://www.cve.org/CVERecord?id=CVE-2025-6384) | [mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384) | CVE-2025-6384: Groovy Sandbox Bypass 2 in CrafterCMS | 2025-08-08T20:25:47Z |
 | [CVE-2025-6384](https://www.cve.org/CVERecord?id=CVE-2025-6384) | [maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384) | PoC exploit for an authenticated RCE in CrafterCMS via Groovy sandbox bypass (CVE-2025-6384) | 2025-09-26T02:08:30Z |
 | [CVE-2025-63589](https://www.cve.org/CVERecord?id=CVE-2025-63589) | [cybercrewinc/CVE-2025-63589](https://github.com/cybercrewinc/CVE-2025-63589) | no description | 2025-11-05T14:06:23Z |
+| [CVE-2025-63588](https://www.cve.org/CVERecord?id=CVE-2025-63588) | [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588) | no description | 2025-11-05T14:07:18Z |
 | [CVE-2025-63585](https://www.cve.org/CVERecord?id=CVE-2025-63585) | [Kgan0509/CVE-2025-63585](https://github.com/Kgan0509/CVE-2025-63585) | no description | 2025-11-07T03:22:55Z |
 | [CVE-2025-63441](https://www.cve.org/CVERecord?id=CVE-2025-63441) | [Kgan0509/CVE-2025-63441](https://github.com/Kgan0509/CVE-2025-63441) | no description | 2025-11-07T03:27:20Z |
 | [CVE-2025-63353](https://www.cve.org/CVERecord?id=CVE-2025-63353) | [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353) | A vulnerability in fiberhome GPON ONU HG6145F1 RP4423 allows the  device&#x27;s factory default Wi-Fi password (WPA/WPA2 pre-shared key) to be  predicted from the SSID | 2025-11-04T18:54:13Z |
@@ -180,6 +181,7 @@ Last generated: 2025-11-22 02:25:31.183501
 | [CVE-2025-61984](https://www.cve.org/CVERecord?id=CVE-2025-61984) | [ThanhCT-CyX/Test-CVE-2025-61984](https://github.com/ThanhCT-CyX/Test-CVE-2025-61984) | no description | 2025-10-13T01:42:25Z |
 | [CVE-2025-61984](https://www.cve.org/CVERecord?id=CVE-2025-61984) | [flyskyfire/cve-2025-61984-poc](https://github.com/flyskyfire/cve-2025-61984-poc) | PoC for CVE-2025-61984 | 2025-10-24T01:31:48Z |
 | [CVE-2025-61932](https://www.cve.org/CVERecord?id=CVE-2025-61932) | [allinsthon/CVE-2025-61932](https://github.com/allinsthon/CVE-2025-61932) | no description | 2025-10-23T17:31:50Z |
+| [CVE-2025-61922](https://www.cve.org/CVERecord?id=CVE-2025-61922) | [captaincookie34/Vulnerability-Playground-CVE-2025-61922](https://github.com/captaincookie34/Vulnerability-Playground-CVE-2025-61922) | no description | 2025-11-08T15:19:51Z |
 | [CVE-2025-61884](https://www.cve.org/CVERecord?id=CVE-2025-61884) | [B1ack4sh/Blackash-CVE-2025-61884](https://github.com/B1ack4sh/Blackash-CVE-2025-61884) | CVE-2025-61884 | 2025-10-13T10:04:08Z |
 | [CVE-2025-61884](https://www.cve.org/CVERecord?id=CVE-2025-61884) | [AshrafZaryouh/CVE-2025-61884-At-a-Glance](https://github.com/AshrafZaryouh/CVE-2025-61884-At-a-Glance) | 🚨 CVE-2025-61884 — High-Risk Oracle EBS Configurator Info Disclosure | 2025-10-27T15:53:34Z |
 | [CVE-2025-61882](https://www.cve.org/CVERecord?id=CVE-2025-61882) | [Sachinart/CVE-2025-61882](https://github.com/Sachinart/CVE-2025-61882) | Exploit for CVE-2025-61882 (do not use without any written permission). | 2025-10-06T22:02:07Z |
@@ -726,6 +728,7 @@ Last generated: 2025-11-22 02:25:31.183501
 | [CVE-2025-4866](https://www.cve.org/CVERecord?id=CVE-2025-4866) | [bloodcode-spasov/ble-cve2025-attack-new-version](https://github.com/bloodcode-spasov/ble-cve2025-attack-new-version) | # android-ble-cve-2025-4866  🔐 **PoC za CVE-2025-4866 — Android BLE ranjivost (javna verzija)**   📡 Iskorišćavanje slabosti u BLE autorizaciji na Android uređajima (public PoC only).   👨💻 Razvijeno od strane BloodCode Labs — 2025. | 2025-07-08T14:22:25Z |
 | [CVE-2025-48593](https://www.cve.org/CVERecord?id=CVE-2025-48593) | [B1ack4sh/Blackash-CVE-2025-48593](https://github.com/B1ack4sh/Blackash-CVE-2025-48593) | CVE-2025-48593 | 2025-11-04T12:12:57Z |
 | [CVE-2025-48593](https://www.cve.org/CVERecord?id=CVE-2025-48593) | [skolepc/CVE-2025-48593](https://github.com/skolepc/CVE-2025-48593) | CVE-2025-48593! | 2025-11-06T16:10:12Z |
+| [CVE-2025-48593](https://www.cve.org/CVERecord?id=CVE-2025-48593) | [logesh-GIT001/CVE-2025-48593](https://github.com/logesh-GIT001/CVE-2025-48593) | &quot;A single malicious packet can own your device.&quot; — Android Security Team, Nov 2025 | 2025-11-08T15:55:25Z |
 | [CVE-2025-48561](https://www.cve.org/CVERecord?id=CVE-2025-48561) | [demining/Pixnapping-Attack-on-Android](https://github.com/demining/Pixnapping-Attack-on-Android) | Pixnapping Attack: Compromising private keys and seed phrases through vulnerability CVE-2025-48561 represents a new critical threat to the Bitcoin network and Android infrastructure | 2025-10-27T12:06:20Z |
 | [CVE-2025-48543](https://www.cve.org/CVERecord?id=CVE-2025-48543) | [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543) | PoC exploit for CVE-2025-48543 in C++ | 2025-09-14T17:08:48Z |
 | [CVE-2025-48466](https://www.cve.org/CVERecord?id=CVE-2025-48466) | [shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466) | Modbus Packet Injection on Advantech WISE 4060LAN / IoT Gateway for door control | 2025-06-17T14:06:57Z |
