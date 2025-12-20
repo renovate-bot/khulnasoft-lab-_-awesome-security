@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-12-19 02:55:28.692190
+Last generated: 2025-12-20 02:43:03.996421
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -662,8 +662,11 @@ Last generated: 2025-12-19 02:55:28.692190
 | [CVE-2025-55188](https://www.cve.org/CVERecord?id=CVE-2025-55188) | [san8383/CVE-2025-55188-7z-POC](https://github.com/san8383/CVE-2025-55188-7z-POC) | no description | 2025-08-11T17:07:27Z |
 | [CVE-2025-55188](https://www.cve.org/CVERecord?id=CVE-2025-55188) | [lunbun/CVE-2025-55188](https://github.com/lunbun/CVE-2025-55188) | Proof-of-concept of CVE-2025-55188: 7-Zip arbitrary file write | 2025-08-28T03:33:32Z |
 | [CVE-2025-55184](https://www.cve.org/CVERecord?id=CVE-2025-55184) | [hans362/CVE-2025-55184-poc](https://github.com/hans362/CVE-2025-55184-poc) | no description | 2025-12-12T01:14:13Z |
+| [CVE-2025-55184](https://www.cve.org/CVERecord?id=CVE-2025-55184) | [ejpir/CVE-2025-55184](https://github.com/ejpir/CVE-2025-55184) | no description | 2025-12-12T01:18:05Z |
+| [CVE-2025-55184](https://www.cve.org/CVERecord?id=CVE-2025-55184) | [BakhodiribnYashinibnMansur/CVE-2025-55184](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55184) | no description | 2025-12-12T11:37:17Z |
 | [CVE-2025-55183](https://www.cve.org/CVERecord?id=CVE-2025-55183) | [williavs/nextjs-security-update](https://github.com/williavs/nextjs-security-update) | Batch upgrade all your Next.js apps to patched versions - fight back against CVE-2025-55183/55184/67779 | 2025-12-12T04:17:08Z |
 | [CVE-2025-55183](https://www.cve.org/CVERecord?id=CVE-2025-55183) | [kimtruth/CVE-2025-55183-poc](https://github.com/kimtruth/CVE-2025-55183-poc) | PoC for CVE-2025-55183 | 2025-12-12T02:00:01Z |
+| [CVE-2025-55183](https://www.cve.org/CVERecord?id=CVE-2025-55183) | [X-Cotang/CVE-2025-55183_POC](https://github.com/X-Cotang/CVE-2025-55183_POC) | CVE-2025-55183 POC | 2025-12-12T08:50:07Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [joshterrill/CVE-2025-55182-realistic-poc](https://github.com/joshterrill/CVE-2025-55182-realistic-poc) | a realistic POC demonstrating the missing `hasOwnProperty` check in react-server-dom-webpack@19.0.0 | 2025-12-04T03:28:30Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [carlosaruy/CVE-2025-55182](https://github.com/carlosaruy/CVE-2025-55182) | a critical Remote Code Execution (RCE) vulnerability in React Server Components (RSC). It also includes a realistic &quot;Lab Environment&quot; to safely test and understand the vulnerability. | 2025-12-04T12:02:35Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [ducducuc111/CVE-2025-55182-poc](https://github.com/ducducuc111/CVE-2025-55182-poc) | no description | 2025-12-04T02:35:50Z |
@@ -942,6 +945,15 @@ Last generated: 2025-12-19 02:55:28.692190
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [anuththara2007-W/CVE-2025-55182-Exploit-extension](https://github.com/anuththara2007-W/CVE-2025-55182-Exploit-extension) | A Chrome extension for detecting React2Shell vulnerabilities (CVE-2025-55182 &amp; CVE-2025-66478) in web applications | 2025-12-11T16:31:36Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [trilogy-group/react2shell-scan](https://github.com/trilogy-group/react2shell-scan) | React2Shell (CVE-2025-55182) scanner | 2025-12-11T14:57:52Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [Tiger-Foxx/exploit-react-CVE-2025-55182](https://github.com/Tiger-Foxx/exploit-react-CVE-2025-55182) | This tool is a Proof of Concept (PoC) intended for security research and educational purposes only. Using this tool on systems without explicit permission is illegal and punishable by law. The author (Tiger-Foxx) assumes no responsibility for misuse. | 2025-12-11T08:46:27Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [ryanhafid/PoC_CVE-2025-55182](https://github.com/ryanhafid/PoC_CVE-2025-55182) | no description | 2025-12-12T13:22:54Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [andrei2308/react2shell](https://github.com/andrei2308/react2shell) | CVE-2025-55182 | 2025-12-11T19:26:14Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [caohungphu/react2shell](https://github.com/caohungphu/react2shell) | POC React2Shell - CVE-2025-55182 - CVE-2025-55184 | 2025-12-12T11:54:26Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [xalgord/React2Shell](https://github.com/xalgord/React2Shell) | Advanced Exploitation Toolkit for Next.js Server Actions (CVE-2025-55182) | 2025-12-12T11:31:45Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [byte16384/CVE-2025-55182](https://github.com/byte16384/CVE-2025-55182) | proof | 2025-12-09T11:42:13Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [BakhodiribnYashinibnMansur/CVE-2025-55182](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55182) | no description | 2025-12-10T08:27:47Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [IrsyadSEC/CVE-2025-55182-MassPayloadAttack](https://github.com/IrsyadSEC/CVE-2025-55182-MassPayloadAttack) | CVE-2025-55182 payload | 2025-12-12T02:13:20Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [oguri-souhei/CVE-2025-55182](https://github.com/oguri-souhei/CVE-2025-55182) | CVE-2025-55182 の検証用 | 2025-12-12T10:49:09Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [W41T3D3V1L/COMPLETE-CVE-2025-55182](https://github.com/W41T3D3V1L/COMPLETE-CVE-2025-55182) | no description | 2025-12-12T08:43:39Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988) | A PDF generator for CVE-2025-54988 | 2025-09-04T02:19:13Z |
 | [CVE-2025-54962](https://www.cve.org/CVERecord?id=CVE-2025-54962) | [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962) | Authenticated users can upload arbitrary files (e.g. .html, .svg) as profile images in OpenPLC Runtime. These files are publicly accessible without authentication, allowing stored XSS or malicious content delivery . | 2025-07-29T16:16:57Z |
 | [CVE-2025-54957](https://www.cve.org/CVERecord?id=CVE-2025-54957) | [AlphabugX/CVE-2025-54957](https://github.com/AlphabugX/CVE-2025-54957) | CVE-2025-54957 | 2025-10-30T07:21:54Z |
@@ -2366,6 +2378,7 @@ Last generated: 2025-12-19 02:55:28.692190
 | [CVE-2025-24587](https://www.cve.org/CVERecord?id=CVE-2025-24587) | [DoTTak/CVE-2025-24587](https://github.com/DoTTak/CVE-2025-24587) | PoC of CVE-2025-24587 | 2025-01-31T00:54:20Z |
 | [CVE-2025-24514](https://www.cve.org/CVERecord?id=CVE-2025-24514) | [KimJuhyeong95/cve-2025-24514](https://github.com/KimJuhyeong95/cve-2025-24514) | no description | 2025-06-11T20:04:09Z |
 | [CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367) | [TheCyberGeek/CVE-2025-24367-Cacti-PoC](https://github.com/TheCyberGeek/CVE-2025-24367-Cacti-PoC) | Proof of Concept for CVE-2025-24367 | 2025-10-30T19:41:59Z |
+| [CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367) | [r0tn3x/CVE-2025-24367](https://github.com/r0tn3x/CVE-2025-24367) | CVE-2025-24367 - Cacti Authenticated Graph Template RCE | 2025-12-12T09:36:51Z |
 | [CVE-2025-24354](https://www.cve.org/CVERecord?id=CVE-2025-24354) | [Admin9961/CVE-2025-24354-PoC](https://github.com/Admin9961/CVE-2025-24354-PoC) | SSRF in ImgProxy (only for educational purpose) | 2025-08-08T15:47:52Z |
 | [CVE-2025-24271](https://www.cve.org/CVERecord?id=CVE-2025-24271) | [moften/CVE-2025-24271](https://github.com/moften/CVE-2025-24271) | Vulnerabilidad en AirPlay expone información sensible en dispositivos Apple | 2025-04-30T19:59:56Z |
 | [CVE-2025-24252](https://www.cve.org/CVERecord?id=CVE-2025-24252) | [apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC) | poc for CVE-2025-24252 &amp; CVE-2025-24132 | 2025-05-06T14:18:09Z |
@@ -2583,6 +2596,7 @@ Last generated: 2025-12-19 02:55:28.692190
 | [CVE-2025-1461](https://www.cve.org/CVERecord?id=CVE-2025-1461) | [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461) | no description | 2025-05-29T13:27:43Z |
 | [CVE-2025-13796](https://www.cve.org/CVERecord?id=CVE-2025-13796) | [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC) | deco-cx apps Parameter analyticsScript.ts AnalyticsScript server-side request forgery | 2025-12-01T00:13:18Z |
 | [CVE-2025-13780](https://www.cve.org/CVERecord?id=CVE-2025-13780) | [zeropwn/pgadmin4-9.10-CVE-2025-13780](https://github.com/zeropwn/pgadmin4-9.10-CVE-2025-13780) | Proof of concept for CVE-2025-13780 | 2025-12-12T00:01:31Z |
+| [CVE-2025-13780](https://www.cve.org/CVERecord?id=CVE-2025-13780) | [meenakshisl/PoC-CVE-2025-13780](https://github.com/meenakshisl/PoC-CVE-2025-13780) | PoC for CVE-2025-13780 | 2025-12-12T09:29:23Z |
 | [CVE-2025-13615](https://www.cve.org/CVERecord?id=CVE-2025-13615) | [blossombutt4063/CVE-2025-13615](https://github.com/blossombutt4063/CVE-2025-13615) | no description | 2025-12-01T07:22:37Z |
 | [CVE-2025-13597](https://www.cve.org/CVERecord?id=CVE-2025-13597) | [d0n601/CVE-2025-13597](https://github.com/d0n601/CVE-2025-13597) | AI Feeds &lt;= 1.0.11 - Unauthenticated Arbitrary File Upload | 2025-11-25T17:43:47Z |
 | [CVE-2025-13595](https://www.cve.org/CVERecord?id=CVE-2025-13595) | [d0n601/CVE-2025-13595](https://github.com/d0n601/CVE-2025-13595) | CIBELES AI &lt;= 1.10.8 - Unauthenticated Arbitrary File Upload | 2025-11-25T17:40:22Z |
@@ -4535,6 +4549,7 @@ Last generated: 2025-12-19 02:55:28.692190
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Ikram124/CVE-2024-3094-analysis](https://github.com/Ikram124/CVE-2024-3094-analysis) | Security analysis project: Real-world CVE breakdown | 2025-06-27T17:14:33Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Dermot-lab/TryHack](https://github.com/Dermot-lab/TryHack) | CVE-2024-3094 | 2025-06-21T20:19:43Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [24Owais/threat-intel-cve-2024-3094](https://github.com/24Owais/threat-intel-cve-2024-3094) | Threat intelligence report analyzing the xz-utils backdoor vulnerability (CVE-2024-3094) | 2025-06-19T13:31:56Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [ykhurshudyan-blip/CVE-2024-3094](https://github.com/ykhurshudyan-blip/CVE-2024-3094) | no description | 2025-09-03T20:39:41Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30875](https://www.cve.org/CVERecord?id=CVE-2024-30875) | [Ant1sec-ops/CVE-2024-30875](https://github.com/Ant1sec-ops/CVE-2024-30875) | Reflected Cross Site Scripting - RXSS | 2024-09-03T07:11:08Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
@@ -7450,6 +7465,7 @@ Last generated: 2025-12-19 02:55:28.692190
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [btar1gan/exploit_CVE-2023-27163](https://github.com/btar1gan/exploit_CVE-2023-27163) | no description | 2024-09-22T03:33:18Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [G4sp4rCS/htb-sau-automated](https://github.com/G4sp4rCS/htb-sau-automated) | SSRF CVE-2023-27163 + maltrail vuln RCE | 2025-04-02T12:36:28Z |
 | [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [lukehebe/CVE-2023-27163](https://github.com/lukehebe/CVE-2023-27163) | CVE-2023-27163 Request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request. This POC utilizes the SSRF to perfrom RCE. | 2025-04-17T16:54:34Z |
+| [CVE-2023-27163](https://www.cve.org/CVERecord?id=CVE-2023-27163) | [J0ey17/Exploit_CVE-2023-27163](https://github.com/J0ey17/Exploit_CVE-2023-27163) | Proof of Concept exploit for Server Side Request Forgery vulnerability in Requests Basket v1.2.1 and before. | 2025-06-03T13:17:06Z |
 | [CVE-2023-27100](https://www.cve.org/CVERecord?id=CVE-2023-27100) | [fabdotnet/CVE-2023-27100](https://github.com/fabdotnet/CVE-2023-27100) | no description | 2024-05-20T13:35:39Z |
 | [CVE-2023-27034](https://www.cve.org/CVERecord?id=CVE-2023-27034) | [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit) | Mass Exploit - CVE-2023-27034 | 2023-09-05T04:43:06Z |
 | [CVE-2023-26976](https://www.cve.org/CVERecord?id=CVE-2023-26976) | [FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow) | no description | 2023-04-11T11:02:48Z |
