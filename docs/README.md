@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2025-12-28 03:05:07.326119
+Last generated: 2025-12-29 03:08:17.141173
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -170,6 +170,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2025-66516](https://www.cve.org/CVERecord?id=CVE-2025-66516) | [Ashwesker/Blackash-CVE-2025-66516](https://github.com/Ashwesker/Blackash-CVE-2025-66516) | CVE-2025-66516 | 2025-12-08T10:50:08Z |
 | [CVE-2025-66516](https://www.cve.org/CVERecord?id=CVE-2025-66516) | [chasingimpact/CVE-2025-66516-Writeup-POC](https://github.com/chasingimpact/CVE-2025-66516-Writeup-POC) | CVE-2025-66516 working exploit, scanner, explanation. | 2025-12-12T04:28:19Z |
 | [CVE-2025-66516](https://www.cve.org/CVERecord?id=CVE-2025-66516) | [sid6224/CVE-2025-66516-POC](https://github.com/sid6224/CVE-2025-66516-POC) | A POC for the CVE-2025-66516 Apache Tika Vulnerability for educational purposes only | 2025-12-17T07:35:58Z |
+| [CVE-2025-66516](https://www.cve.org/CVERecord?id=CVE-2025-66516) | [intSheep/Tika-CVE-2025-66516-Lab](https://github.com/intSheep/Tika-CVE-2025-66516-Lab) | no description | 2025-12-19T07:26:42Z |
 | [CVE-2025-66478](https://www.cve.org/CVERecord?id=CVE-2025-66478) | [abtonc/next-cve-2025-66478](https://github.com/abtonc/next-cve-2025-66478) | no description | 2025-12-03T18:38:53Z |
 | [CVE-2025-66478](https://www.cve.org/CVERecord?id=CVE-2025-66478) | [wangxso/CVE-2025-66478-POC](https://github.com/wangxso/CVE-2025-66478-POC) | CVE-2025-66478 Proof of Concept | 2025-12-04T07:44:47Z |
 | [CVE-2025-66478](https://www.cve.org/CVERecord?id=CVE-2025-66478) | [mattcbarrett/check-cve-2025-66478](https://github.com/mattcbarrett/check-cve-2025-66478) | Checks if your NextJS server is vulnerable to CVE-2025-66478 | 2025-12-04T20:50:51Z |
@@ -287,6 +288,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2025-65271](https://www.cve.org/CVERecord?id=CVE-2025-65271) | [1337Skid/CVE-2025-65271](https://github.com/1337Skid/CVE-2025-65271) | PoC for CVE-2025-65271 - Found by me | 2025-12-07T11:50:55Z |
 | [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514) | Documentation for CVE-2025-6514. MCP-Remote RCE. | 2025-07-11T15:46:24Z |
 | [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514) | mcp-remote exposed to OS command injection | 2025-10-26T08:57:42Z |
+| [CVE-2025-65099](https://www.cve.org/CVERecord?id=CVE-2025-65099) | [b-faller/cve-2025-65099](https://github.com/b-faller/cve-2025-65099) | no description | 2025-06-29T20:46:18Z |
 | [CVE-2025-65018](https://www.cve.org/CVERecord?id=CVE-2025-65018) | [Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-](https://github.com/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-) | no description | 2025-11-23T18:34:22Z |
 | [CVE-2025-65018](https://www.cve.org/CVERecord?id=CVE-2025-65018) | [bohemian-miser/CVE-2025-65018_Exploit_Challenge](https://github.com/bohemian-miser/CVE-2025-65018_Exploit_Challenge) | no description | 2025-12-09T02:22:18Z |
 | [CVE-2025-64720](https://www.cve.org/CVERecord?id=CVE-2025-64720) | [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC) | no description | 2025-11-25T16:53:04Z |
@@ -365,6 +367,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2025-63406](https://www.cve.org/CVERecord?id=CVE-2025-63406) | [WinDyAlphA/CVE-2025-63406-PoC](https://github.com/WinDyAlphA/CVE-2025-63406-PoC) | Small PoC to automate exploitation of CVE-2025-63406. | 2025-11-18T19:54:25Z |
 | [CVE-2025-63406](https://www.cve.org/CVERecord?id=CVE-2025-63406) | [richard-natan/PoC-CVE-2025-63406](https://github.com/richard-natan/PoC-CVE-2025-63406) | no description | 2025-11-21T19:53:01Z |
 | [CVE-2025-63353](https://www.cve.org/CVERecord?id=CVE-2025-63353) | [hanianis/CVE-2025-63353](https://github.com/hanianis/CVE-2025-63353) | A vulnerability in fiberhome GPON ONU HG6145F1 RP4423 allows the  device&#x27;s factory default Wi-Fi password (WPA/WPA2 pre-shared key) to be  predicted from the SSID | 2025-11-04T18:54:13Z |
+| [CVE-2025-63353](https://www.cve.org/CVERecord?id=CVE-2025-63353) | [0xA1M/CVE-2025-63353](https://github.com/0xA1M/CVE-2025-63353) | This is a Proof-Of-Concept of CVE-2025-63353 | 2025-12-18T18:50:40Z |
 | [CVE-2025-6335](https://www.cve.org/CVERecord?id=CVE-2025-6335) | [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335) | cve报告 | 2025-06-13T13:14:02Z |
 | [CVE-2025-63334](https://www.cve.org/CVERecord?id=CVE-2025-63334) | [B1ack4sh/Blackash-CVE-2025-63334](https://github.com/B1ack4sh/Blackash-CVE-2025-63334) | CVE-2025-63334 | 2025-11-06T09:25:04Z |
 | [CVE-2025-63307](https://www.cve.org/CVERecord?id=CVE-2025-63307) | [Theethat-Thamwasin/CVE-2025-63307](https://github.com/Theethat-Thamwasin/CVE-2025-63307) | An authenticated Stored Cross-site Scripting (XSS) vulnerability in laravel-file-manager v3.3.1 and below allows attackers with access to the file manager interface to inject and persist arbitrary JavaScript code in uploaded or created files. | 2025-10-25T15:34:17Z |
@@ -1046,7 +1049,11 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak) | React2Shell Exploitation Tool (CVE-2025-55182) | 2025-12-16T09:25:32Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [degenwithheart/React2Shell-Vulnerability-Verification-Script](https://github.com/degenwithheart/React2Shell-Vulnerability-Verification-Script) | React2Shell Vulnerability Verification Script (React2Shell also known as CVE-2025-55182). | 2025-12-18T18:32:42Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182](https://github.com/Nkwenti-Severian-Ndongtsop/POC_react2shell_CVE-2025-55182) | no description | 2025-12-11T20:01:26Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) | no description | 2025-12-19T04:07:53Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC) | React2Shell (CVE-2025-66478): A Python-based Proof of Concept for Critical Remote Code Execution (RCE) in Next.js Server Components. Features an interactive CLI, custom payload injection, and cleaner output formatting. For educational research only. | 2025-12-18T19:35:02Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [rashedhasan090/cve-2025-55182-mitigator](https://github.com/rashedhasan090/cve-2025-55182-mitigator) | no description | 2025-12-18T18:58:06Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988) | A PDF generator for CVE-2025-54988 | 2025-09-04T02:19:13Z |
+| [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject) | Creating a vulnerable instance to test against | 2025-12-17T20:23:16Z |
 | [CVE-2025-54962](https://www.cve.org/CVERecord?id=CVE-2025-54962) | [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962) | Authenticated users can upload arbitrary files (e.g. .html, .svg) as profile images in OpenPLC Runtime. These files are publicly accessible without authentication, allowing stored XSS or malicious content delivery . | 2025-07-29T16:16:57Z |
 | [CVE-2025-54957](https://www.cve.org/CVERecord?id=CVE-2025-54957) | [AlphabugX/CVE-2025-54957](https://github.com/AlphabugX/CVE-2025-54957) | CVE-2025-54957 | 2025-10-30T07:21:54Z |
 | [CVE-2025-54918](https://www.cve.org/CVERecord?id=CVE-2025-54918) | [mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps](https://github.com/mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps) | Simulated exploitation and mitigation of CVE-2025-54918 (Windows NTLM flaw). Includes detection scripts, Ansible patching, and CI/CD hardening. Demonstrates privilege escalation from low-level access to SYSTEM in hybrid cloud environments. | 2025-09-17T02:54:44Z |
@@ -4681,6 +4688,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [Dermot-lab/TryHack](https://github.com/Dermot-lab/TryHack) | CVE-2024-3094 | 2025-06-21T20:19:43Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [24Owais/threat-intel-cve-2024-3094](https://github.com/24Owais/threat-intel-cve-2024-3094) | Threat intelligence report analyzing the xz-utils backdoor vulnerability (CVE-2024-3094) | 2025-06-19T13:31:56Z |
 | [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [ykhurshudyan-blip/CVE-2024-3094](https://github.com/ykhurshudyan-blip/CVE-2024-3094) | no description | 2025-09-03T20:39:41Z |
+| [CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094) | [mrk336/CVE-2024-3094](https://github.com/mrk336/CVE-2024-3094) | CVE-2024-3094 exposed a backdoor in the XZ compression library, allowing remote SSH access by bypassing authentication. It’s a major supply chain attack affecting Linux systems, highlighting risks in trusted open-source components. | 2025-09-12T03:35:44Z |
 | [CVE-2024-30896](https://www.cve.org/CVERecord?id=CVE-2024-30896) | [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896) | no description | 2024-03-22T16:50:40Z |
 | [CVE-2024-30875](https://www.cve.org/CVERecord?id=CVE-2024-30875) | [Ant1sec-ops/CVE-2024-30875](https://github.com/Ant1sec-ops/CVE-2024-30875) | Reflected Cross Site Scripting - RXSS | 2024-09-03T07:11:08Z |
 | [CVE-2024-30851](https://www.cve.org/CVERecord?id=CVE-2024-30851) | [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc) | Jasmin ransomware web panel path traversal PoC | 2024-04-04T22:59:55Z |
@@ -5520,6 +5528,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [lightr3d/CVE-2024-21006_jar](https://github.com/lightr3d/CVE-2024-21006_jar) | CVE-2024-21006 exp | 2024-07-02T06:25:14Z |
 | [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [dadvlingd/CVE-2024-21006](https://github.com/dadvlingd/CVE-2024-21006) | no description | 2024-07-25T00:32:00Z |
 | [CVE-2024-21006](https://www.cve.org/CVERecord?id=CVE-2024-21006) | [d3fudd/CVE-2024-21006_POC](https://github.com/d3fudd/CVE-2024-21006_POC) | no description | 2025-06-06T23:44:05Z |
+| [CVE-2024-209321](https://www.cve.org/CVERecord?id=CVE-2024-209321) | [nullcult/CVE_2024_209321](https://github.com/nullcult/CVE_2024_209321) | no description | 2025-09-12T21:52:28Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [GlassyAmadeus/CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) | The Poc for CVE-2024-20931 | 2024-02-02T01:58:49Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [dinosn/CVE-2024-20931](https://github.com/dinosn/CVE-2024-20931) | CVE-2024-20931, this is the bypass of the patch of CVE-2023-21839 | 2024-02-06T15:09:33Z |
 | [CVE-2024-20931](https://www.cve.org/CVERecord?id=CVE-2024-20931) | [ATonysan/CVE-2024-20931_weblogic](https://github.com/ATonysan/CVE-2024-20931_weblogic) | no description | 2024-02-06T09:21:08Z |
@@ -7654,6 +7663,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [m-lito13/SealSecurity_Exam](https://github.com/m-lito13/SealSecurity_Exam) | Fix prototype pollution vulnerability (CVE-2023-26136) for tough-cookie package | 2024-09-02T18:50:53Z |
 | [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [morrisel/CVE-2023-26136](https://github.com/morrisel/CVE-2023-26136) | This repository contains a solution for the CVE-2023-26136 vulnerability. | 2025-02-07T20:05:21Z |
 | [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [dani33339/Tough-Cookie-v2.5.0-Patched](https://github.com/dani33339/Tough-Cookie-v2.5.0-Patched) | CVE-2023-26136 vulnerability research | 2025-02-04T10:58:02Z |
+| [CVE-2023-26136](https://www.cve.org/CVERecord?id=CVE-2023-26136) | [uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix](https://github.com/uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix) | ecurity patch for CVE-2023-26136 in tough-cookie 2.5.0 - Prototype pollution vulnerability fix with backward compatibility | 2025-06-18T07:27:26Z |
 | [CVE-2023-26067](https://www.cve.org/CVERecord?id=CVE-2023-26067) | [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067) | Lexmark CVE-2023-26067 | 2023-08-07T20:55:15Z |
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049) | no description | 2023-11-01T09:55:19Z |
 | [CVE-2023-26049](https://www.cve.org/CVERecord?id=CVE-2023-26049) | [hshivhare67/Jetty_v9.4.31_CVE-2023-26049](https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2023-26049) | no description | 2023-11-27T07:25:34Z |
@@ -8948,6 +8958,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2021-42560](https://www.cve.org/CVERecord?id=CVE-2021-42560) | [mbadanoiu/CVE-2021-42560](https://github.com/mbadanoiu/CVE-2021-42560) | CVE-2021-42560: Unsafe XML Parsing in MITRE Caldera | 2024-06-09T21:33:07Z |
 | [CVE-2021-42559](https://www.cve.org/CVERecord?id=CVE-2021-42559) | [mbadanoiu/CVE-2021-42559](https://github.com/mbadanoiu/CVE-2021-42559) | CVE-2021-42559: Command Injection via Configurations in MITRE Caldera | 2024-06-09T21:07:16Z |
 | [CVE-2021-42558](https://www.cve.org/CVERecord?id=CVE-2021-42558) | [mbadanoiu/CVE-2021-42558](https://github.com/mbadanoiu/CVE-2021-42558) | CVE-2021-42558: Multiple Cross-Site Scripting in MITRE Caldera | 2024-06-09T20:20:46Z |
+| [CVE-2021-42362](https://www.cve.org/CVERecord?id=CVE-2021-42362) | [samiba6/CVE-2021-42362](https://github.com/samiba6/CVE-2021-42362) | The WordPress Popular Posts WordPress plugin is vulnerable to arbitrary file uploads due to insufficient input file type validation found in the ~/src/Image.php file which makes it possible for attackers with contributor level access and above to upload malicious files that can be used to obtain remote code execution, | 2025-04-14T20:59:58Z |
 | [CVE-2021-42342](https://www.cve.org/CVERecord?id=CVE-2021-42342) | [ijh4723/-zeroboo-Gohead-CVE-2021-42342-1](https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1) | no description | 2023-10-29T05:50:47Z |
 | [CVE-2021-42327](https://www.cve.org/CVERecord?id=CVE-2021-42327) | [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327) | kernel exploit POC for vulnerability i found in amd gpu driver | 2021-10-28T21:10:29Z |
 | [CVE-2021-42260](https://www.cve.org/CVERecord?id=CVE-2021-42260) | [vm2mv/tinyxml](https://github.com/vm2mv/tinyxml) | TinyXML 2.6.2 with fixes for CVE-2021-42260 and CVE-2023-34194 | 2024-12-04T07:24:59Z |
@@ -10141,6 +10152,7 @@ Last generated: 2025-12-28 03:05:07.326119
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [olingo99/CVE-2019-15107](https://github.com/olingo99/CVE-2019-15107) | no description | 2023-11-09T12:14:11Z |
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [0x4r2/Webmin-CVE-2019-15107](https://github.com/0x4r2/Webmin-CVE-2019-15107) | RCE for Webmin CVE-2019-15107 | 2023-12-12T19:53:50Z |
 | [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [aamfrk/Webmin-CVE-2019-15107](https://github.com/aamfrk/Webmin-CVE-2019-15107) | Exploit for Webmin servers, versions 1.890 through 1.920 | 2023-11-09T12:19:09Z |
+| [CVE-2019-15107](https://www.cve.org/CVERecord?id=CVE-2019-15107) | [NasrallahBaadi/CVE-2019-15107](https://github.com/NasrallahBaadi/CVE-2019-15107) | CVE-2019-15107 Webmin unauthenticated RCE | 2024-08-29T13:58:36Z |
 | [CVE-2019-15043](https://www.cve.org/CVERecord?id=CVE-2019-15043) | [h0ffayyy/CVE-2019-15043](https://github.com/h0ffayyy/CVE-2019-15043) | POC scanner for the Grafana vulnerability CVE-2019-15043 | 2020-08-01T21:31:46Z |
 | [CVE-2019-14974](https://www.cve.org/CVERecord?id=CVE-2019-14974) | [conan-sudo/CVE-2019-14974-bypass](https://github.com/conan-sudo/CVE-2019-14974-bypass) | no description | 2024-06-06T16:11:05Z |
 | [CVE-2019-14678](https://www.cve.org/CVERecord?id=CVE-2019-14678) | [mbadanoiu/CVE-2019-14678](https://github.com/mbadanoiu/CVE-2019-14678) | CVE-2019-14678: XML External Entity in SAS XML Mapper | 2024-03-12T15:49:09Z |
