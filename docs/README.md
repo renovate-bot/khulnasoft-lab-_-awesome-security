@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-01-04 03:11:45.892247
+Last generated: 2026-01-05 03:26:58.781526
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Last generated: 2026-01-04 03:11:45.892247
 | [CVE-2025-9074](https://www.cve.org/CVERecord?id=CVE-2025-9074) | [3rendil/CVE-2025-9074-POC](https://github.com/3rendil/CVE-2025-9074-POC) | Proof-of-Concept exploit for CVE-2025-9074 | 2025-12-10T18:06:02Z |
 | [CVE-2025-9074](https://www.cve.org/CVERecord?id=CVE-2025-9074) | [fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER](https://github.com/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER) | The Ultimate DAEMON_KILLER. Control is an illusion.  This Exploit forces CVE-2025-9074 to break the Docker cage. Advanced Container Escape &amp; Root Escalation toolkit. Verify the vulnerability, take the host, destroy the logs. &gt; We Are Fsociety_ | 2025-12-14T21:01:03Z |
 | [CVE-2025-9074](https://www.cve.org/CVERecord?id=CVE-2025-9074) | [zaydbf/CVE-2025-9074-Poc](https://github.com/zaydbf/CVE-2025-9074-Poc) | no description | 2025-12-22T12:54:46Z |
+| [CVE-2025-9074](https://www.cve.org/CVERecord?id=CVE-2025-9074) | [Shaoshi17/CVE-2025-9074-Docker-Exploit](https://github.com/Shaoshi17/CVE-2025-9074-Docker-Exploit) | 一个功能强大的 Docker 远程 API 漏洞利用工具，用于 CVE-2025-9074 漏洞的安全研究和测试。 | 2025-12-26T09:45:22Z |
 | [CVE-2025-8971](https://www.cve.org/CVERecord?id=CVE-2025-8971) | [byteReaper77/CVE-2025-8971](https://github.com/byteReaper77/CVE-2025-8971) | Sql injection in itsourcecode Online Tour and Travel Management System 1.0. | 2025-08-15T14:51:51Z |
 | [CVE-2025-8943](https://www.cve.org/CVERecord?id=CVE-2025-8943) | [Ashwesker/Blackash-CVE-2025-8943](https://github.com/Ashwesker/Blackash-CVE-2025-8943) | CVE-2025-8943 | 2025-11-23T18:01:22Z |
 | [CVE-2025-8924](https://www.cve.org/CVERecord?id=CVE-2025-8924) | [encrypter15/CVE-2025-8924](https://github.com/encrypter15/CVE-2025-8924) | no description | 2025-12-08T00:16:08Z |
@@ -174,6 +175,8 @@ Last generated: 2026-01-04 03:11:45.892247
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [intelligent-ears/CVE-2025-68613](https://github.com/intelligent-ears/CVE-2025-68613) | no description | 2025-12-24T13:19:53Z |
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [AbdulRKB/n8n-RCE](https://github.com/AbdulRKB/n8n-RCE) | Remote Code Execution via n8n Workflows (Based on CVE-2025-68613) | 2025-12-25T12:11:37Z |
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [Ashwesker/Ashwesker-CVE-2025-68613](https://github.com/Ashwesker/Ashwesker-CVE-2025-68613) | CVE-2025-68613 | 2025-12-22T12:20:56Z |
+| [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613) | no description | 2025-12-26T08:52:35Z |
+| [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [releaseown/analysis-and-poc-n8n-CVE-2025-68613](https://github.com/releaseown/analysis-and-poc-n8n-CVE-2025-68613) | Technical study of the CVE-2025-68613 vulnerability in n8n, covering affected versions, laboratory exploration scenario, offensive and defensive analysis, and mitigation strategies. | 2025-12-25T23:00:36Z |
 | [CVE-2025-6860](https://www.cve.org/CVERecord?id=CVE-2025-6860) | [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860) | A proof‑of‑concept command‑line tool in C for detecting the SQL injection vulnerability . | 2025-06-29T22:25:42Z |
 | [CVE-2025-68461](https://www.cve.org/CVERecord?id=CVE-2025-68461) | [rxerium/CVE-2025-68461](https://github.com/rxerium/CVE-2025-68461) | Detection for CVE-2025-68461 | 2025-12-19T11:19:16Z |
 | [CVE-2025-68461](https://www.cve.org/CVERecord?id=CVE-2025-68461) | [gotr00t0day/CVE-2025-68461](https://github.com/gotr00t0day/CVE-2025-68461) | A C++ security scanner tool to detect Cross-Site Scripting (XSS) vulnerabilities in Roundcube Webmail installations. | 2025-12-22T17:32:53Z |
@@ -584,6 +587,7 @@ Last generated: 2026-01-04 03:11:45.892247
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [Twodimensionalitylevelcrossing817/CVE-2025-59287](https://github.com/Twodimensionalitylevelcrossing817/CVE-2025-59287) | no description | 2025-11-15T00:21:16Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [M507/CVE-2025-59287-PoC](https://github.com/M507/CVE-2025-59287-PoC) | Unauthenticated RCE PoC in Microsoft Windows Server Update Service (WSUS) - CVE-2025-59287 &amp; CVE-2023-35317 | 2025-11-16T08:10:33Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [Adel-kaka-dz/cve-2025-59287](https://github.com/Adel-kaka-dz/cve-2025-59287) | no description | 2025-11-21T01:36:23Z |
+| [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [gud425/gud425.github.io](https://github.com/gud425/gud425.github.io) | CVE-2025-59287 | 2025-12-26T07:22:27Z |
 | [CVE-2025-59230](https://www.cve.org/CVERecord?id=CVE-2025-59230) | [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230) | no description | 2025-10-20T15:16:06Z |
 | [CVE-2025-59118](https://www.cve.org/CVERecord?id=CVE-2025-59118) | [B1ack4sh/Blackash-CVE-2025-59118](https://github.com/B1ack4sh/Blackash-CVE-2025-59118) | CVE-2025-59118 | 2025-11-13T10:33:29Z |
 | [CVE-2025-58789](https://www.cve.org/CVERecord?id=CVE-2025-58789) | [quetuan03/CVE-2025-58789](https://github.com/quetuan03/CVE-2025-58789) | WordPress WP Full Stripe Free Plugin &lt;= 8.2.5 is vulnerable to SQL Injection | 2025-10-01T09:22:40Z |
@@ -1119,6 +1123,9 @@ Last generated: 2026-01-04 03:11:45.892247
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [guiimoraes/react2shell-evolved](https://github.com/guiimoraes/react2shell-evolved) | A evolved version of assetnote CVE-2025-55182 scanner | 2025-12-24T21:06:38Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [bigbluewhale111/CVE-2025-55182-LAB](https://github.com/bigbluewhale111/CVE-2025-55182-LAB) | This is a lab for reproducing CVE-2025-55182. | 2025-12-24T15:57:13Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [rix4uni/CVE-2025-55182](https://github.com/rix4uni/CVE-2025-55182) | A command-line tool for detecting CVE-2025-55182 and CVE-2025-66478 in Next.js applications using React Server Components. | 2025-12-10T11:45:46Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [thqxploit666/CVE-2025-55182](https://github.com/thqxploit666/CVE-2025-55182) | no description | 2025-12-26T10:02:00Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182) | 試してみるよん | 2025-12-16T04:58:47Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [Jakelife/HACKVISER-CVE-2025-55182-LAB](https://github.com/Jakelife/HACKVISER-CVE-2025-55182-LAB) | no description | 2025-12-25T21:20:22Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988) | A PDF generator for CVE-2025-54988 | 2025-09-04T02:19:13Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject) | Creating a vulnerable instance to test against | 2025-12-17T20:23:16Z |
 | [CVE-2025-54962](https://www.cve.org/CVERecord?id=CVE-2025-54962) | [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962) | Authenticated users can upload arbitrary files (e.g. .html, .svg) as profile images in OpenPLC Runtime. These files are publicly accessible without authentication, allowing stored XSS or malicious content delivery . | 2025-07-29T16:16:57Z |
@@ -2797,6 +2804,7 @@ Last generated: 2026-01-04 03:11:45.892247
 | [CVE-2025-1639](https://www.cve.org/CVERecord?id=CVE-2025-1639) | [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639) | Animation Addons for Elementor Pro &lt;= 1.6 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2025-03-13T10:48:05Z |
 | [CVE-2025-1562](https://www.cve.org/CVERecord?id=CVE-2025-1562) | [gmh5225/CVE-2025-1562](https://github.com/gmh5225/CVE-2025-1562) | no description | 2025-06-22T15:33:38Z |
 | [CVE-2025-1550](https://www.cve.org/CVERecord?id=CVE-2025-1550) | [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550) | no description | 2025-10-24T19:02:33Z |
+| [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [ProbiusOfficial/CVE-2025-14847](https://github.com/ProbiusOfficial/CVE-2025-14847) | poc for CVE-2025-14847 | 2025-12-26T07:38:32Z |
 | [CVE-2025-14765](https://www.cve.org/CVERecord?id=CVE-2025-14765) | [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766) | no description | 2025-12-25T10:39:50Z |
 | [CVE-2025-14733](https://www.cve.org/CVERecord?id=CVE-2025-14733) | [Ashwesker/Ashwesker-CVE-2025-14733](https://github.com/Ashwesker/Ashwesker-CVE-2025-14733) | CVE-2025-14733 | 2025-12-19T11:13:44Z |
 | [CVE-2025-14733](https://www.cve.org/CVERecord?id=CVE-2025-14733) | [machevalia/CVE-2025-14733](https://github.com/machevalia/CVE-2025-14733) | no description | 2025-12-23T13:25:00Z |
@@ -3312,6 +3320,7 @@ Last generated: 2026-01-04 03:11:45.892247
 | [CVE-2024-57376](https://www.cve.org/CVERecord?id=CVE-2024-57376) | [DelspoN/CVE-2024-57376](https://github.com/DelspoN/CVE-2024-57376) | CVE-2024-57376 exploit | 2025-05-08T00:35:08Z |
 | [CVE-2024-57373](https://www.cve.org/CVERecord?id=CVE-2024-57373) | [cypherdavy/CVE-2024-57373](https://github.com/cypherdavy/CVE-2024-57373) | CSRF vulnerability in LifestyleStore v1.0, enabling unauthorized actions on behalf of users, risking data and account security | 2025-01-26T11:01:03Z |
 | [CVE-2024-5737](https://www.cve.org/CVERecord?id=CVE-2024-5737) | [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737) | AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection | 2024-06-28T10:27:35Z |
+| [CVE-2024-57366](https://www.cve.org/CVERecord?id=CVE-2024-57366) | [h4ckusaur/CVE-2024-57366](https://github.com/h4ckusaur/CVE-2024-57366) | Productized exploit for CVE-2024-57366 on WAVLINK WL-WN586X3-A routers (UNPATCHED AS OF THIS RELEASE!) | 2025-09-19T19:16:12Z |
 | [CVE-2024-5736](https://www.cve.org/CVERecord?id=CVE-2024-5736) | [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736) | AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery | 2024-06-28T10:27:08Z |
 | [CVE-2024-5735](https://www.cve.org/CVERecord?id=CVE-2024-5735) | [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735) | AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure | 2024-06-28T10:15:17Z |
 | [CVE-2024-57241](https://www.cve.org/CVERecord?id=CVE-2024-57241) | [woshidaheike/CVE-2024-57241](https://github.com/woshidaheike/CVE-2024-57241) | dedecms-url 重定向 | 2024-12-13T04:33:03Z |
@@ -7836,6 +7845,7 @@ Last generated: 2026-01-04 03:11:45.892247
 | [CVE-2023-24317](https://www.cve.org/CVERecord?id=CVE-2023-24317) | [prasad-1808/tool-29489](https://github.com/prasad-1808/tool-29489) | This Tool is used to check for CVE-2023-29489 Vulnerability in the provided URL with the set of payloads available | 2024-01-21T19:23:47Z |
 | [CVE-2023-24278](https://www.cve.org/CVERecord?id=CVE-2023-24278) | [NeCr00/CVE-2023-24278](https://github.com/NeCr00/CVE-2023-24278) | It was  discovered two reflected cross site scripting (XSS) vulnerabilities in the Squidex open source headless CMS software. The Reflected Cross Site Scripting vulnerabilities affect all versions of Squidex prior to 7.4.0 and affect both authenticated and unauthenticated victim users. | 2024-12-23T13:10:47Z |
 | [CVE-2023-24249](https://www.cve.org/CVERecord?id=CVE-2023-24249) | [IDUZZEL/CVE-2023-24249-Exploit](https://github.com/IDUZZEL/CVE-2023-24249-Exploit) | Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection. | 2024-08-07T04:36:44Z |
+| [CVE-2023-24249](https://www.cve.org/CVERecord?id=CVE-2023-24249) | [ldb33/CVE-2023-24249-PoC](https://github.com/ldb33/CVE-2023-24249-PoC) | Proof of concept for HTB easy machine Usage | 2025-06-21T17:02:39Z |
 | [CVE-2023-24203](https://www.cve.org/CVERecord?id=CVE-2023-24203) | [momo1239/CVE-2023-24203-and-CVE-2023-24204](https://github.com/momo1239/CVE-2023-24203-and-CVE-2023-24204) | no description | 2024-05-14T03:53:03Z |
 | [CVE-2023-24100](https://www.cve.org/CVERecord?id=CVE-2023-24100) | [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100) | nuclei templates CVE RCE CNVD IoT | 2023-12-05T05:00:27Z |
 | [CVE-2023-24078](https://www.cve.org/CVERecord?id=CVE-2023-24078) | [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078) | CVE-2023-24078 for FuguHub / BarracudaDrive | 2023-06-17T03:39:35Z |
@@ -12424,3 +12434,4 @@ Last generated: 2026-01-04 03:11:45.892247
 | CVE NOT FOUND | [MIFT-D3v/scanner_fortinet-cve-2025](https://github.com/MIFT-D3v/scanner_fortinet-cve-2025) | scanner para detectar vulnerabilidades en fortinet | 2025-12-18T17:47:23Z |
 | CVE NOT FOUND | [firdavsxy-png/ninja-forms-cve-2025](https://github.com/firdavsxy-png/ninja-forms-cve-2025) | ninja-forms-object-injection | 2025-12-18T15:01:24Z |
 | CVE NOT FOUND | [joelindra/HTMLawedChecker](https://github.com/joelindra/HTMLawedChecker) | Automated CVE 2022 35914 Checker | 2024-05-27T04:25:12Z |
+| CVE NOT FOUND | [SITESDOWN-net/2025-Top-5-CVE-POCs](https://github.com/SITESDOWN-net/2025-Top-5-CVE-POCs) | This repository is POCs for the top 2025 CVEs.  Impacting React, Fortinet, GoAnywhere, Oracle and Sharepoint. | 2025-12-26T02:38:13Z |
