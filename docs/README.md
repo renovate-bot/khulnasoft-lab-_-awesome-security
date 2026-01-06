@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-01-05 03:26:58.781526
+Last generated: 2026-01-06 03:03:10.870360
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -177,6 +177,11 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [Ashwesker/Ashwesker-CVE-2025-68613](https://github.com/Ashwesker/Ashwesker-CVE-2025-68613) | CVE-2025-68613 | 2025-12-22T12:20:56Z |
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613) | no description | 2025-12-26T08:52:35Z |
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [releaseown/analysis-and-poc-n8n-CVE-2025-68613](https://github.com/releaseown/analysis-and-poc-n8n-CVE-2025-68613) | Technical study of the CVE-2025-68613 vulnerability in n8n, covering affected versions, laboratory exploration scenario, offensive and defensive analysis, and mitigation strategies. | 2025-12-25T23:00:36Z |
+| [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [LingerANR/n8n-CVE-2025-68613](https://github.com/LingerANR/n8n-CVE-2025-68613) | This laboratory provides a controlled environment to analyze and reproduce CVE-2025-68613 in a vulnerable n8n instance. | 2025-12-26T22:59:47Z |
+| [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC) | Public PoC + Scanner and research for CVE-2025-68613: Critical RCE in n8n Workflow Automation via Expression Injection (CVSS 10.0). Includes detection tools, full exploit, and remediation guidance. | 2025-12-22T18:41:05Z |
+| [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [Ak-cybe/CVE-2025-68613-n8n-rce-analysis](https://github.com/Ak-cybe/CVE-2025-68613-n8n-rce-analysis) | CVE-2025-68613 (n8n) Critical RCE analysis + defensive recommendations (patch validation, detection ideas, and hardening tips) | 2025-12-26T19:40:46Z |
+| [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe](https://github.com/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe) | The minor methodology for room: https://tryhackme.com/room/n8ncve202568613 | 2025-12-26T17:40:42Z |
+| [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [Khin-96/n8n-cve-2025-68613-thm](https://github.com/Khin-96/n8n-cve-2025-68613-thm) | no description | 2025-12-26T15:40:47Z |
 | [CVE-2025-6860](https://www.cve.org/CVERecord?id=CVE-2025-6860) | [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860) | A proof‑of‑concept command‑line tool in C for detecting the SQL injection vulnerability . | 2025-06-29T22:25:42Z |
 | [CVE-2025-68461](https://www.cve.org/CVERecord?id=CVE-2025-68461) | [rxerium/CVE-2025-68461](https://github.com/rxerium/CVE-2025-68461) | Detection for CVE-2025-68461 | 2025-12-19T11:19:16Z |
 | [CVE-2025-68461](https://www.cve.org/CVERecord?id=CVE-2025-68461) | [gotr00t0day/CVE-2025-68461](https://github.com/gotr00t0day/CVE-2025-68461) | A C++ security scanner tool to detect Cross-Site Scripting (XSS) vulnerabilities in Roundcube Webmail installations. | 2025-12-22T17:32:53Z |
@@ -1126,6 +1131,9 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [thqxploit666/CVE-2025-55182](https://github.com/thqxploit666/CVE-2025-55182) | no description | 2025-12-26T10:02:00Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182) | 試してみるよん | 2025-12-16T04:58:47Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [Jakelife/HACKVISER-CVE-2025-55182-LAB](https://github.com/Jakelife/HACKVISER-CVE-2025-55182-LAB) | no description | 2025-12-25T21:20:22Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-](https://github.com/kanyokoo/React-Server-Components-Remote-Code-Execution-CVE-2025-55182-) | script to help solve the lab on hackviser covering (CVE-2025-55182) | 2025-12-26T22:58:53Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [0xROI/CVE-2025-55182](https://github.com/0xROI/CVE-2025-55182) | Exploitation script for CVE-2025-55182. This is modified only for my personal use. If you are facing any problem fix it yourself. | 2025-12-26T18:14:00Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [itsismarcos/Bot-exploit-CVE-2025-55182](https://github.com/itsismarcos/Bot-exploit-CVE-2025-55182) | Mass Bot Exploit | 2025-12-26T14:19:35Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988) | A PDF generator for CVE-2025-54988 | 2025-09-04T02:19:13Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject) | Creating a vulnerable instance to test against | 2025-12-17T20:23:16Z |
 | [CVE-2025-54962](https://www.cve.org/CVERecord?id=CVE-2025-54962) | [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962) | Authenticated users can upload arbitrary files (e.g. .html, .svg) as profile images in OpenPLC Runtime. These files are publicly accessible without authentication, allowing stored XSS or malicious content delivery . | 2025-07-29T16:16:57Z |
@@ -1156,6 +1164,7 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2025-54352](https://www.cve.org/CVERecord?id=CVE-2025-54352) | [yohannslm/CVE-2025-54352](https://github.com/yohannslm/CVE-2025-54352) | CVE-2025-54352 PoC | 2025-07-28T13:22:02Z |
 | [CVE-2025-54352](https://www.cve.org/CVERecord?id=CVE-2025-54352) | [limmmw/CVE-2025-54352](https://github.com/limmmw/CVE-2025-54352) | no description | 2025-10-08T04:00:38Z |
 | [CVE-2025-54352](https://www.cve.org/CVERecord?id=CVE-2025-54352) | [crypcky/XML-RPC-Pingback-Vulnerability](https://github.com/crypcky/XML-RPC-Pingback-Vulnerability) | This is my own written POC on the xmlrpc-pingback vulnerabiity found on wordpress. CVE-2025-54352. This vulnerability affects wordpress 3.5 all through 6.8.2 | 2025-12-16T06:39:05Z |
+| [CVE-2025-54322](https://www.cve.org/CVERecord?id=CVE-2025-54322) | [Sachinart/CVE-2025-54322](https://github.com/Sachinart/CVE-2025-54322) | CVE-2025-54322 - XSpeeder SXZOS Pre-Auth RCE 0day Finder Quick | 2025-12-26T20:54:08Z |
 | [CVE-2025-54321](https://www.cve.org/CVERecord?id=CVE-2025-54321) | [saykino/CVE-2025-54321](https://github.com/saykino/CVE-2025-54321) | no description | 2025-11-16T07:54:53Z |
 | [CVE-2025-54320](https://www.cve.org/CVERecord?id=CVE-2025-54320) | [saykino/CVE-2025-54320](https://github.com/saykino/CVE-2025-54320) | no description | 2025-11-16T08:11:50Z |
 | [CVE-2025-54313](https://www.cve.org/CVERecord?id=CVE-2025-54313) | [ShinP451/scavenger_scanner](https://github.com/ShinP451/scavenger_scanner) | Detect CVE-2025-54313 eslint-config-prettier supply chain attack IOCs on Windows | 2025-07-26T22:45:15Z |
@@ -2805,6 +2814,7 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2025-1562](https://www.cve.org/CVERecord?id=CVE-2025-1562) | [gmh5225/CVE-2025-1562](https://github.com/gmh5225/CVE-2025-1562) | no description | 2025-06-22T15:33:38Z |
 | [CVE-2025-1550](https://www.cve.org/CVERecord?id=CVE-2025-1550) | [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550) | no description | 2025-10-24T19:02:33Z |
 | [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [ProbiusOfficial/CVE-2025-14847](https://github.com/ProbiusOfficial/CVE-2025-14847) | poc for CVE-2025-14847 | 2025-12-26T07:38:32Z |
+| [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [onewinner/CVE-2025-14847](https://github.com/onewinner/CVE-2025-14847) | MongoDB 内存泄露漏洞 (CVE-2025-14847) 检测工具 | 2025-12-26T06:13:31Z |
 | [CVE-2025-14765](https://www.cve.org/CVERecord?id=CVE-2025-14765) | [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766) | no description | 2025-12-25T10:39:50Z |
 | [CVE-2025-14733](https://www.cve.org/CVERecord?id=CVE-2025-14733) | [Ashwesker/Ashwesker-CVE-2025-14733](https://github.com/Ashwesker/Ashwesker-CVE-2025-14733) | CVE-2025-14733 | 2025-12-19T11:13:44Z |
 | [CVE-2025-14733](https://www.cve.org/CVERecord?id=CVE-2025-14733) | [machevalia/CVE-2025-14733](https://github.com/machevalia/CVE-2025-14733) | no description | 2025-12-23T13:25:00Z |
@@ -4599,6 +4609,7 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2024-32019](https://www.cve.org/CVERecord?id=CVE-2024-32019) | [AzureADTrent/CVE-2024-32019-POC](https://github.com/AzureADTrent/CVE-2024-32019-POC) | POC for netdata ndsudo vulnerability - CVE-2024-32019 | 2025-08-03T04:41:54Z |
 | [CVE-2024-32019](https://www.cve.org/CVERecord?id=CVE-2024-32019) | [sPhyos/cve-2024-32019-PoC](https://github.com/sPhyos/cve-2024-32019-PoC) | no description | 2025-08-16T11:18:13Z |
 | [CVE-2024-32019](https://www.cve.org/CVERecord?id=CVE-2024-32019) | [T1erno/CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC](https://github.com/T1erno/CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC) | Netdata ndsudo Privilege Escalation PoC | 2025-09-11T00:25:36Z |
+| [CVE-2024-32019](https://www.cve.org/CVERecord?id=CVE-2024-32019) | [x0da6h/POC-for-CVE-2024-32019](https://github.com/x0da6h/POC-for-CVE-2024-32019) | no description | 2025-08-25T02:46:19Z |
 | [CVE-2024-32004](https://www.cve.org/CVERecord?id=CVE-2024-32004) | [10cks/CVE-2024-32004-POC](https://github.com/10cks/CVE-2024-32004-POC) | no description | 2024-05-20T14:59:16Z |
 | [CVE-2024-32004](https://www.cve.org/CVERecord?id=CVE-2024-32004) | [Wadewfsssss/CVE-2024-32004](https://github.com/Wadewfsssss/CVE-2024-32004) | no description | 2024-05-19T13:57:46Z |
 | [CVE-2024-32002](https://www.cve.org/CVERecord?id=CVE-2024-32002) | [10cks/CVE-2024-32002-POC](https://github.com/10cks/CVE-2024-32002-POC) | no description | 2024-05-19T05:05:07Z |
@@ -6401,6 +6412,7 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2023-46818](https://www.cve.org/CVERecord?id=CVE-2023-46818) | [blindma1den/CVE-2023-46818-Exploit](https://github.com/blindma1den/CVE-2023-46818-Exploit) | This is my own exploit for CVE-2023-46818 happy hacking! | 2025-04-13T14:55:44Z |
 | [CVE-2023-46818](https://www.cve.org/CVERecord?id=CVE-2023-46818) | [ajdumanhug/CVE-2023-46818](https://github.com/ajdumanhug/CVE-2023-46818) | CVE-2023-46818 Python3 Exploit for ISPConfig &lt;= 3.2.11 (language_edit.php) PHP Code Injection Vulnerability | 2025-04-13T19:12:55Z |
 | [CVE-2023-46818](https://www.cve.org/CVERecord?id=CVE-2023-46818) | [engranaabubakar/CVE-2023-46818](https://github.com/engranaabubakar/CVE-2023-46818) | no description | 2025-05-28T15:18:04Z |
+| [CVE-2023-46818](https://www.cve.org/CVERecord?id=CVE-2023-46818) | [rvizx/CVE-2023-46818](https://github.com/rvizx/CVE-2023-46818) | CVE-2023-46818 - ISPConfig PHP Code Injection PoC Exploit (Bash) | 2025-05-02T04:51:30Z |
 | [CVE-2023-46813](https://www.cve.org/CVERecord?id=CVE-2023-46813) | [Freax13/cve-2023-46813-poc](https://github.com/Freax13/cve-2023-46813-poc) | no description | 2023-05-29T15:10:43Z |
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805) | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | 2024-01-16T08:05:58Z |
 | [CVE-2023-46805](https://www.cve.org/CVERecord?id=CVE-2023-46805) | [Chocapikk/CVE-2023-46805](https://github.com/Chocapikk/CVE-2023-46805) | Ivanti Pulse Secure CVE-2023-46805 Scanner - Based on Assetnote&#x27;s Research | 2024-01-19T02:23:13Z |
@@ -7366,6 +7378,7 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2023-33567](https://www.cve.org/CVERecord?id=CVE-2023-33567) | [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567) | Unauthorized Access Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:39:52Z |
 | [CVE-2023-33566](https://www.cve.org/CVERecord?id=CVE-2023-33566) | [16yashpatel/CVE-2023-33566](https://github.com/16yashpatel/CVE-2023-33566) | Unauthorized Node Injection Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:36:33Z |
 | [CVE-2023-33565](https://www.cve.org/CVERecord?id=CVE-2023-33565) | [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565) | Denial-of-Service (DoS) Vulnerability in ROS2 Foxy Fitzroy | 2023-06-22T16:26:55Z |
+| [CVE-2023-33538](https://www.cve.org/CVERecord?id=CVE-2023-33538) | [explxx/CVE-2023-33538](https://github.com/explxx/CVE-2023-33538) | Python Exploit for TP-Link TL-WR940N/TL-WR841N Command Injection Vulnerability | 2025-06-22T19:41:08Z |
 | [CVE-2023-33517](https://www.cve.org/CVERecord?id=CVE-2023-33517) | [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517) | no description | 2023-10-19T02:08:39Z |
 | [CVE-2023-33477](https://www.cve.org/CVERecord?id=CVE-2023-33477) | [Skr11lex/CVE-2023-33477](https://github.com/Skr11lex/CVE-2023-33477) | no description | 2023-06-05T16:40:00Z |
 | [CVE-2023-33476](https://www.cve.org/CVERecord?id=CVE-2023-33476) | [mellow-hype/cve-2023-33476](https://github.com/mellow-hype/cve-2023-33476) | Exploits for a heap overflow in MiniDLNA &lt;=1.3.2 (CVE-2023-33476) | 2023-06-20T01:13:17Z |
@@ -7662,6 +7675,7 @@ Last generated: 2026-01-05 03:26:58.781526
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997) | xortigate-cve-2023-27997 | 2023-10-12T16:12:41Z |
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [awchjimmy/CVE-2023-27997-tutorial](https://github.com/awchjimmy/CVE-2023-27997-tutorial) | A short tutorial about how to find and verify FortiOS vulnerablility. | 2024-01-10T02:36:35Z |
 | [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [node011/CVE-2023-27997-POC](https://github.com/node011/CVE-2023-27997-POC) | Fortigate SSL VPN buffer overflow exploit | 2024-11-14T14:41:20Z |
+| [CVE-2023-27997](https://www.cve.org/CVERecord?id=CVE-2023-27997) | [onurkerembozkurt/fgt-cve-2023-27997-exploit](https://github.com/onurkerembozkurt/fgt-cve-2023-27997-exploit) | FortiGate SSL-VPN CVE-2023-27997 Exploit PoC Script with ROP Chain | 2025-04-18T17:49:50Z |
 | [CVE-2023-27564](https://www.cve.org/CVERecord?id=CVE-2023-27564) | [david-botelho-mariano/exploit-CVE-2023-27564](https://github.com/david-botelho-mariano/exploit-CVE-2023-27564) | no description | 2024-04-03T01:45:18Z |
 | [CVE-2023-27532](https://www.cve.org/CVERecord?id=CVE-2023-27532) | [puckiestyle/CVE-2023-27532-RCE-Only](https://github.com/puckiestyle/CVE-2023-27532-RCE-Only) | no description | 2024-07-05T14:00:48Z |
 | [CVE-2023-27524](https://www.cve.org/CVERecord?id=CVE-2023-27524) | [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524) | Perform With Apache-SuperSet Leaked Token [CSRF] | 2023-05-04T21:43:48Z |
