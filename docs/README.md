@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-01-11 03:08:09.445148
+Last generated: 2026-01-12 03:10:53.550270
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -132,6 +132,7 @@ Last generated: 2026-01-11 03:08:09.445148
 | [CVE-2025-7771](https://www.cve.org/CVERecord?id=CVE-2025-7771) | [Demoo1337/ThrottleStop](https://github.com/Demoo1337/ThrottleStop) | CVE-2025-7771 ThrottleStop.sys privilege escalation exploit - unrestricted IOCTL access to physical memory via MmMapIoSpace | 2025-09-07T11:46:52Z |
 | [CVE-2025-7771](https://www.cve.org/CVERecord?id=CVE-2025-7771) | [Gabriel-Lacorte/CVE-2025-7771](https://github.com/Gabriel-Lacorte/CVE-2025-7771) | A exploit for the ThrottleStop driver. | 2025-10-03T16:17:11Z |
 | [CVE-2025-7771](https://www.cve.org/CVERecord?id=CVE-2025-7771) | [AmrHuss/throttlestop-exploit-rw](https://github.com/AmrHuss/throttlestop-exploit-rw) | Arbitrary physical memory read/write exploitation using ThrottleStop.sys (CVE-2025-7771) with superfetch address translation - Windows kernel security research | 2025-11-13T22:26:38Z |
+| [CVE-2025-7771](https://www.cve.org/CVERecord?id=CVE-2025-7771) | [v31l0x1/ThrottleStopPPL](https://github.com/v31l0x1/ThrottleStopPPL) | Poc for CVE-2025-7771 to modify PPL Protection | 2025-12-31T05:19:36Z |
 | [CVE-2025-7769](https://www.cve.org/CVERecord?id=CVE-2025-7769) | [byteReaper77/CVE-2025-7769](https://github.com/byteReaper77/CVE-2025-7769) | PoC to inject a command via the DEVICE_PING endpoint | 2025-08-07T03:48:35Z |
 | [CVE-2025-7766](https://www.cve.org/CVERecord?id=CVE-2025-7766) | [byteReaper77/CVE-2025-7766](https://github.com/byteReaper77/CVE-2025-7766) | PoC exploit for CVE-2025-7766 – XXE vulnerability leading to potential RCE. | 2025-07-23T18:57:46Z |
 | [CVE-2025-7753](https://www.cve.org/CVERecord?id=CVE-2025-7753) | [byteReaper77/CVE-2025-7753](https://github.com/byteReaper77/CVE-2025-7753) | PoC Exploit for CVE-2025-7753 — Time-Based SQL Injection in Online Appointment Booking System 1.0 via the username parameter. Exploit written in C using libcurl. | 2025-07-18T14:22:57Z |
@@ -162,6 +163,7 @@ Last generated: 2026-01-11 03:08:09.445148
 | [CVE-2025-6907](https://www.cve.org/CVERecord?id=CVE-2025-6907) | [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907) | a standalone C-based SQL Injection exploit targeting the CVE‑2025‑6907 vulnerability in the CODE_PROJECT service. | 2025-07-04T12:54:16Z |
 | [CVE-2025-68664](https://www.cve.org/CVERecord?id=CVE-2025-68664) | [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC) | A testing framework to identify and demonstrate deserialization vulnerabilities in LangChain Core (&lt;0.3.81). Educational use only | 2025-12-27T06:49:55Z |
 | [CVE-2025-68645](https://www.cve.org/CVERecord?id=CVE-2025-68645) | [Ashwesker/Ashwesker-CVE-2025-68645](https://github.com/Ashwesker/Ashwesker-CVE-2025-68645) | CVE-2025-68645 | 2025-12-25T14:14:43Z |
+| [CVE-2025-68645](https://www.cve.org/CVERecord?id=CVE-2025-68645) | [chinaxploiter/CVE-2025-68645-PoC](https://github.com/chinaxploiter/CVE-2025-68645-PoC) | Academic proof-of-concept demonstrating CVE-2025-68645 for authorized security research. | 2025-12-30T23:09:48Z |
 | [CVE-2025-68615](https://www.cve.org/CVERecord?id=CVE-2025-68615) | [yt2w/CVE-2025-68615](https://github.com/yt2w/CVE-2025-68615) | no description | 2025-12-29T15:59:00Z |
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [intbjw/CVE-2025-68613-poc-via-copilot](https://github.com/intbjw/CVE-2025-68613-poc-via-copilot) | 通过GitHub Copilot 辅助分析CVE-2025-68613漏洞 | 2025-12-23T06:45:40Z |
 | [CVE-2025-68613](https://www.cve.org/CVERecord?id=CVE-2025-68613) | [reem-012/poc_CVE-2025-68613](https://github.com/reem-012/poc_CVE-2025-68613) | POC for CVE-2025-68613 | 2025-12-23T04:52:59Z |
@@ -617,6 +619,7 @@ Last generated: 2026-01-11 03:08:09.445148
 | [CVE-2025-58360](https://www.cve.org/CVERecord?id=CVE-2025-58360) | [Ashwesker/Blackash-CVE-2025-58360](https://github.com/Ashwesker/Blackash-CVE-2025-58360) | CVE-2025-58360 | 2025-11-26T17:35:43Z |
 | [CVE-2025-58360](https://www.cve.org/CVERecord?id=CVE-2025-58360) | [rxerium/CVE-2025-58360](https://github.com/rxerium/CVE-2025-58360) | Passive detection for CVE-2025-58360 | 2025-12-12T06:33:28Z |
 | [CVE-2025-58360](https://www.cve.org/CVERecord?id=CVE-2025-58360) | [Joker-Wiggin/CVE-2025-58360-GeoServer-XXE](https://github.com/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE) | no description | 2025-12-12T18:51:38Z |
+| [CVE-2025-58360](https://www.cve.org/CVERecord?id=CVE-2025-58360) | [quyenheu/Bypass-CVE-2025-58360](https://github.com/quyenheu/Bypass-CVE-2025-58360) | A new way to exploit CVE-2025-58360 bypass WAF | 2025-12-31T03:49:53Z |
 | [CVE-2025-58180](https://www.cve.org/CVERecord?id=CVE-2025-58180) | [prabhatverma47/CVE-2025-58180](https://github.com/prabhatverma47/CVE-2025-58180) | In OctoPrint version &lt;=1.11.2, an attacker with file upload access (e.g., valid API key or session) can craft a malicious filename that bypasses sanitization and is later executed by OctoPrint’s event system, leading to remote code execution (RCE) on the host | 2025-09-09T08:32:49Z |
 | [CVE-2025-58179](https://www.cve.org/CVERecord?id=CVE-2025-58179) | [shitodcy/CVE-2025-58179-Check](https://github.com/shitodcy/CVE-2025-58179-Check) | no description | 2025-11-11T08:05:36Z |
 | [CVE-2025-5815](https://www.cve.org/CVERecord?id=CVE-2025-5815) | [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template) | CVE-2025-5815: An unauthenticated vulnerability in the WordPress Traffic Monitor plugin (≤ 3.2.2) allowing remote attackers to disable bot logging via an exposed AJAX action without requiring authentication. | 2025-06-13T07:21:24Z |
@@ -2870,6 +2873,8 @@ Last generated: 2026-01-11 03:08:09.445148
 | [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [tunahantekeoglu/MongoDeepDive](https://github.com/tunahantekeoglu/MongoDeepDive) | Context-Aware Memory Leak Scanner &amp; Exploit for CVE-2025-14847. | 2025-12-29T21:53:25Z |
 | [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [joshuavanderpoll/CVE-2025-14847](https://github.com/joshuavanderpoll/CVE-2025-14847) | CVE-2025-14847 (MongoBleed) | 2025-12-29T21:34:19Z |
 | [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [j0lt-github/mongobleedburp](https://github.com/j0lt-github/mongobleedburp) | Burp Suite extension to detect CVE-2025-14847 (MongoBleed) via manual leak tests from a dedicated UI tab. | 2025-12-30T12:31:01Z |
+| [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [lincemorado97/CVE-2025-14847](https://github.com/lincemorado97/CVE-2025-14847) | CVE-2025-14847 – MongoDB Unauthenticated Memory‑Leak Exploit | 2025-12-29T03:20:53Z |
+| [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [NoNameError/MongoBLEED---CVE-2025-14847-POC-](https://github.com/NoNameError/MongoBLEED---CVE-2025-14847-POC-) | This repo contains my python script version of CVE-2025-14847 (MongoBleed) | 2025-12-30T23:29:00Z |
 | [CVE-2025-14765](https://www.cve.org/CVERecord?id=CVE-2025-14765) | [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766) | no description | 2025-12-25T10:39:50Z |
 | [CVE-2025-14733](https://www.cve.org/CVERecord?id=CVE-2025-14733) | [Ashwesker/Ashwesker-CVE-2025-14733](https://github.com/Ashwesker/Ashwesker-CVE-2025-14733) | CVE-2025-14733 | 2025-12-19T11:13:44Z |
 | [CVE-2025-14733](https://www.cve.org/CVERecord?id=CVE-2025-14733) | [machevalia/CVE-2025-14733](https://github.com/machevalia/CVE-2025-14733) | no description | 2025-12-23T13:25:00Z |
@@ -3334,6 +3339,7 @@ Last generated: 2026-01-11 03:08:09.445148
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [AzrDll/CVE-2024-6387](https://github.com/AzrDll/CVE-2024-6387) | This is an altered PoC for d0rb/CVE-2024-6387. This takes glibc addresses and trys to exploit the CVE through them. | 2025-01-20T09:38:40Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [xiw1ll/CVE-2024-6387_Checker](https://github.com/xiw1ll/CVE-2024-6387_Checker) | Nuclei template to detect CVE-2024-6387. All latest patched versions are excluded. | 2025-07-23T14:04:37Z |
 | [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [moften/regreSSHion-CVE-2024-6387](https://github.com/moften/regreSSHion-CVE-2024-6387) | CVE-2024-6387 | 2025-09-08T21:08:07Z |
+| [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387) | [OhDamnn/Noregressh](https://github.com/OhDamnn/Noregressh) | CVE-2024-6387 and more Checker and Exploiter  - Reverse/Bind-Shell Support. | 2025-09-13T01:46:11Z |
 | [CVE-2024-6386](https://www.cve.org/CVERecord?id=CVE-2024-6386) | [argendo/CVE-2024-6386](https://github.com/argendo/CVE-2024-6386) | Research and PoC for CVE-2024-6386 | 2024-09-05T14:44:36Z |
 | [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366) | no description | 2024-08-03T10:30:49Z |
 | [CVE-2024-6366](https://www.cve.org/CVERecord?id=CVE-2024-6366) | [Nxploited/CVE-2024-6366-PoC](https://github.com/Nxploited/CVE-2024-6366-PoC) | User Profile Builder &lt;= 3.11.7 - Unauthenticated Media Upload | 2025-02-02T15:37:14Z |
@@ -12535,3 +12541,4 @@ Last generated: 2026-01-11 03:08:09.445148
 | CVE NOT FOUND | [SITESDOWN-net/2025-Top-5-CVE-POCs](https://github.com/SITESDOWN-net/2025-Top-5-CVE-POCs) | This repository is POCs for the top 2025 CVEs.  Impacting React, Fortinet, GoAnywhere, Oracle and Sharepoint. | 2025-12-26T02:38:13Z |
 | CVE NOT FOUND | [9952-hub/CVEN30010-Geotechnical-Modelling-and-Design-2024-Brief-for-Design-Project](https://github.com/9952-hub/CVEN30010-Geotechnical-Modelling-and-Design-2024-Brief-for-Design-Project) | CVEN30010 Geotechnical Modelling and Design (2024) Brief for Design Project | 2025-09-22T13:31:04Z |
 | CVE NOT FOUND | [Andromeda254/cve](https://github.com/Andromeda254/cve) | list of cve from 2001 to 2024 | 2025-09-26T00:13:16Z |
+| CVE NOT FOUND | [Sneden/qualtrics-xm-file-upload-validation-bypass-CVE-2025-XXXX](https://github.com/Sneden/qualtrics-xm-file-upload-validation-bypass-CVE-2025-XXXX) | Independent security finding – Qualtrics XM file upload validation bypass leading to stored XSS via admin file download (patched 2025) | 2025-12-31T03:12:02Z |
