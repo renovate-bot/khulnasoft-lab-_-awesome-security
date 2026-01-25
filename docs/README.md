@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-01-24 02:54:15.305950
+Last generated: 2026-01-25 03:11:23.217975
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -170,6 +170,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2025-68860](https://www.cve.org/CVERecord?id=CVE-2025-68860) | [Nxploited/CVE-2025-68860](https://github.com/Nxploited/CVE-2025-68860) | WordPress Mobile builder Plugin &lt;= 1.4.2 is vulnerable to a high priority Broken Authentication | 2025-12-31T18:31:22Z |
 | [CVE-2025-68705](https://www.cve.org/CVERecord?id=CVE-2025-68705) | [imjdl/CVE-2025-68705](https://github.com/imjdl/CVE-2025-68705) | CVE-2025-68705 RustFS Path Traversal Vulnerability Check | 2026-01-08T04:11:20Z |
 | [CVE-2025-68664](https://www.cve.org/CVERecord?id=CVE-2025-68664) | [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC) | A testing framework to identify and demonstrate deserialization vulnerabilities in LangChain Core (&lt;0.3.81). Educational use only | 2025-12-27T06:49:55Z |
+| [CVE-2025-68664](https://www.cve.org/CVERecord?id=CVE-2025-68664) | [comerc/CVE-2025-68664](https://github.com/comerc/CVE-2025-68664) | no description | 2026-01-10T21:54:32Z |
 | [CVE-2025-68645](https://www.cve.org/CVERecord?id=CVE-2025-68645) | [Ashwesker/Ashwesker-CVE-2025-68645](https://github.com/Ashwesker/Ashwesker-CVE-2025-68645) | CVE-2025-68645 | 2025-12-25T14:14:43Z |
 | [CVE-2025-68645](https://www.cve.org/CVERecord?id=CVE-2025-68645) | [chinaxploiter/CVE-2025-68645-PoC](https://github.com/chinaxploiter/CVE-2025-68645-PoC) | Academic proof-of-concept demonstrating CVE-2025-68645 for authorized security research. | 2025-12-30T23:09:48Z |
 | [CVE-2025-68645](https://www.cve.org/CVERecord?id=CVE-2025-68645) | [MaxMnMl/zimbramail-CVE-2025-68645-poc](https://github.com/MaxMnMl/zimbramail-CVE-2025-68645-poc) | CVE-2025-68645 - A Local File Inclusion (LFI) vulnerability in the Webmail Classic UI of Zimbra Collaboration | 2026-01-01T10:29:43Z |
@@ -378,6 +379,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2025-65270](https://www.cve.org/CVERecord?id=CVE-2025-65270) | [xh4vm/CVE-2025-65270](https://github.com/xh4vm/CVE-2025-65270) | Reflected XSS in ClinCapture EDC | 2025-12-16T04:22:30Z |
 | [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514) | Documentation for CVE-2025-6514. MCP-Remote RCE. | 2025-07-11T15:46:24Z |
 | [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514) | mcp-remote exposed to OS command injection | 2025-10-26T08:57:42Z |
+| [CVE-2025-6514](https://www.cve.org/CVERecord?id=CVE-2025-6514) | [dotsetlabs/overwatch](https://github.com/dotsetlabs/overwatch) | AI Agent Firewall for MCP. Detects tool shadowing attacks (CVE-2025-6514), enforces policies, and provides complete audit trails for AI coding assistant operations. | 2026-01-10T14:45:57Z |
 | [CVE-2025-65099](https://www.cve.org/CVERecord?id=CVE-2025-65099) | [b-faller/cve-2025-65099](https://github.com/b-faller/cve-2025-65099) | no description | 2025-06-29T20:46:18Z |
 | [CVE-2025-65018](https://www.cve.org/CVERecord?id=CVE-2025-65018) | [Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-](https://github.com/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-) | no description | 2025-11-23T18:34:22Z |
 | [CVE-2025-65018](https://www.cve.org/CVERecord?id=CVE-2025-65018) | [bohemian-miser/CVE-2025-65018_Exploit_Challenge](https://github.com/bohemian-miser/CVE-2025-65018_Exploit_Challenge) | no description | 2025-12-09T02:22:18Z |
@@ -463,6 +465,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2025-63353](https://www.cve.org/CVERecord?id=CVE-2025-63353) | [0xA1M/CVE-2025-63353](https://github.com/0xA1M/CVE-2025-63353) | This is a Proof-Of-Concept of CVE-2025-63353 | 2025-12-18T18:50:40Z |
 | [CVE-2025-6335](https://www.cve.org/CVERecord?id=CVE-2025-6335) | [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335) | cve报告 | 2025-06-13T13:14:02Z |
 | [CVE-2025-63334](https://www.cve.org/CVERecord?id=CVE-2025-63334) | [B1ack4sh/Blackash-CVE-2025-63334](https://github.com/B1ack4sh/Blackash-CVE-2025-63334) | CVE-2025-63334 | 2025-11-06T09:25:04Z |
+| [CVE-2025-63314](https://www.cve.org/CVERecord?id=CVE-2025-63314) | [padayali-JD/CVE-2025-63314](https://github.com/padayali-JD/CVE-2025-63314) | no description | 2026-01-10T12:01:41Z |
 | [CVE-2025-63307](https://www.cve.org/CVERecord?id=CVE-2025-63307) | [Theethat-Thamwasin/CVE-2025-63307](https://github.com/Theethat-Thamwasin/CVE-2025-63307) | An authenticated Stored Cross-site Scripting (XSS) vulnerability in laravel-file-manager v3.3.1 and below allows attackers with access to the file manager interface to inject and persist arbitrary JavaScript code in uploaded or created files. | 2025-10-25T15:34:17Z |
 | [CVE-2025-63298](https://www.cve.org/CVERecord?id=CVE-2025-63298) | [z3rObyte/CVE-2025-63298](https://github.com/z3rObyte/CVE-2025-63298) | A path traversal vulnerability was identified in SourceCodester Pet Grooming Management System 1.0, affecting the admin/manage_website.php component. An authenticated user with administrative privileges can leverage this flaw by submitting a specially crafted POST request, enabling the deletion of arbitrary files on the web server. | 2025-10-29T16:10:20Z |
 | [CVE-2025-63296](https://www.cve.org/CVERecord?id=CVE-2025-63296) | [t4e-3/CVE-2025-63296](https://github.com/t4e-3/CVE-2025-63296) | KERUI K259 5MP Wi-Fi (Tuya Smart Security Camera) contains a code execution vulnerability | 2025-11-10T00:39:46Z |
@@ -2941,6 +2944,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2025-1639](https://www.cve.org/CVERecord?id=CVE-2025-1639) | [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639) | Animation Addons for Elementor Pro &lt;= 1.6 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | 2025-03-13T10:48:05Z |
 | [CVE-2025-1562](https://www.cve.org/CVERecord?id=CVE-2025-1562) | [gmh5225/CVE-2025-1562](https://github.com/gmh5225/CVE-2025-1562) | no description | 2025-06-22T15:33:38Z |
 | [CVE-2025-1550](https://www.cve.org/CVERecord?id=CVE-2025-1550) | [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550) | no description | 2025-10-24T19:02:33Z |
+| [CVE-2025-15495](https://www.cve.org/CVERecord?id=CVE-2025-15495) | [Asim-QAZi/RCE-Simplephpblog-biggiedroid](https://github.com/Asim-QAZi/RCE-Simplephpblog-biggiedroid) | CVE-2025-15495 - Arbitrary File Upload Leading to Remote Code Execution (RCE) | 2025-12-29T18:28:16Z |
 | [CVE-2025-15406](https://www.cve.org/CVERecord?id=CVE-2025-15406) | [rsecroot/CVE-2025-15406](https://github.com/rsecroot/CVE-2025-15406) | A vulnerability categorized as critical has been discovered in PHPGurukul Online Course Registration up to 3.1. This impacts an unknown function. Such manipulation leads to authorization. This vulnerability is documented as CVE-2025-15406. The attack can be executed remotely. Additionally, an exploit exists. | 2026-01-01T17:27:33Z |
 | [CVE-2025-15390](https://www.cve.org/CVERecord?id=CVE-2025-15390) | [rsecroot/CVE-2025-15390](https://github.com/rsecroot/CVE-2025-15390) | A security flaw has been discovered in PHPGurukul Small CRM 4.0. This impacts an unknown function of the file /admin/edit-user.php. The manipulation results in missing authorization. It is possible to launch the attack remotely. The exploit has been released to the public and may be exploited. | 2026-01-01T17:25:36Z |
 | [CVE-2025-15177](https://www.cve.org/CVERecord?id=CVE-2025-15177) | [yt2w/CVE-2025-15177](https://github.com/yt2w/CVE-2025-15177) | no description | 2025-12-29T15:45:15Z |
@@ -6793,6 +6797,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [aulauniversal/CVE-2023-44487](https://github.com/aulauniversal/CVE-2023-44487) | RapidResetClient | 2025-01-18T10:39:58Z |
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [BMG-Black-Magic/CVE-2023-44487](https://github.com/BMG-Black-Magic/CVE-2023-44487) | POC for CVE-2023-44487 | 2025-02-19T08:13:41Z |
 | [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [zanks08/cve-2023-44487-demo](https://github.com/zanks08/cve-2023-44487-demo) | Demo for detection and mitigation of HTTP/2 Rapid Reset vulnerability (CVE-2023-44487) | 2025-04-22T18:15:24Z |
+| [CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487) | [gmh5225/CVE_2023_44487-Rapid_Reset](https://github.com/gmh5225/CVE_2023_44487-Rapid_Reset) | no description | 2025-07-27T05:22:08Z |
 | [CVE-2023-44353](https://www.cve.org/CVERecord?id=CVE-2023-44353) | [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template) | no description | 2023-11-23T20:15:00Z |
 | [CVE-2023-4427](https://www.cve.org/CVERecord?id=CVE-2023-4427) | [tianstcht/CVE-2023-4427](https://github.com/tianstcht/CVE-2023-4427) | no description | 2024-02-06T02:29:06Z |
 | [CVE-2023-44227](https://www.cve.org/CVERecord?id=CVE-2023-44227) | [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC) | no description | 2023-10-19T01:33:08Z |
@@ -7920,6 +7925,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [dream434/CVE-2023-27372](https://github.com/dream434/CVE-2023-27372) | spip | 2023-07-01T17:08:36Z |
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [1amthebest1/CVE-2023-27372](https://github.com/1amthebest1/CVE-2023-27372) | no description | 2024-08-15T20:36:59Z |
 | [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [1Ronkkeli/spip-cve-2023-27372-rce](https://github.com/1Ronkkeli/spip-cve-2023-27372-rce) | SPIP CVE-2023-27372 Unauthenticated RCE Exploit (Web Shell Upload) | 2025-04-28T13:48:32Z |
+| [CVE-2023-27372](https://www.cve.org/CVERecord?id=CVE-2023-27372) | [G01d3nW01f/cve-2023-27372](https://github.com/G01d3nW01f/cve-2023-27372) | no description | 2025-07-25T11:58:14Z |
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363) | 福昕Foxit PDF远程代码执行漏洞CVE-2023-27363分析与复现 | 2023-06-14T01:18:09Z |
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363) | no description | 2023-05-15T16:09:19Z |
 | [CVE-2023-27363](https://www.cve.org/CVERecord?id=CVE-2023-27363) | [CN016/-Foxit-PDF-CVE-2023-27363-](https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-) | 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363) | 2023-10-10T08:52:08Z |
@@ -8882,6 +8888,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2022-25313](https://www.cve.org/CVERecord?id=CVE-2022-25313) | [bakedmuffinman/BlackLotusDetection](https://github.com/bakedmuffinman/BlackLotusDetection) | Created to help detect IOCs for CVE-2022-21894: The BlackLotus campaign | 2023-04-12T04:05:42Z |
 | [CVE-2022-25012](https://www.cve.org/CVERecord?id=CVE-2022-25012) | [deathflash1411/cve-2022-25012](https://github.com/deathflash1411/cve-2022-25012) | Weak Password Encryption in Argus Surveillance DVR 4.0 | 2023-06-11T06:33:25Z |
 | [CVE-2022-25012](https://www.cve.org/CVERecord?id=CVE-2022-25012) | [s3l33/CVE-2022-25012](https://github.com/s3l33/CVE-2022-25012) | Updated version of this weak password encryption script | 2023-04-01T04:21:18Z |
+| [CVE-2022-25012](https://www.cve.org/CVERecord?id=CVE-2022-25012) | [G4sp4rCS/CVE-2022-25012-POC](https://github.com/G4sp4rCS/CVE-2022-25012-POC) | Improved PoC of CVE-2022-25012 | 2025-04-29T01:44:33Z |
 | [CVE-2022-24992](https://www.cve.org/CVERecord?id=CVE-2022-24992) | [n0lsecurity/CVE-2022-24992](https://github.com/n0lsecurity/CVE-2022-24992) | CVE-2022–24992 | 2023-07-11T14:26:58Z |
 | [CVE-2022-24934](https://www.cve.org/CVERecord?id=CVE-2022-24934) | [webraybtl/CVE-2022-24934](https://github.com/webraybtl/CVE-2022-24934) | no description | 2022-03-31T09:59:01Z |
 | [CVE-2022-24834](https://www.cve.org/CVERecord?id=CVE-2022-24834) | [convisolabs/CVE-2022-24834](https://github.com/convisolabs/CVE-2022-24834) | no description | 2023-07-28T17:42:33Z |
@@ -9484,6 +9491,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2021-38304](https://www.cve.org/CVERecord?id=CVE-2021-38304) | [philsajdak/CVE-2021-38304-PoC](https://github.com/philsajdak/CVE-2021-38304-PoC) | CVE-2021-38304 Proof of Concept | 2024-09-15T02:33:25Z |
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297) | A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow | 2023-11-15T20:52:36Z |
 | [CVE-2021-38297](https://www.cve.org/CVERecord?id=CVE-2021-38297) | [paras98/CVE-2021-38297-Go-wasm-Replication](https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication) | no description | 2024-04-04T01:17:05Z |
+| [CVE-2021-38163](https://www.cve.org/CVERecord?id=CVE-2021-38163) | [purpleteam-ru/CVE-2021-38163](https://github.com/purpleteam-ru/CVE-2021-38163) | CVE-2021-38163 - SAP NetWeaver AS Java Desynchronization Vulnerability | 2025-04-04T05:12:15Z |
 | [CVE-2021-38003](https://www.cve.org/CVERecord?id=CVE-2021-38003) | [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) | CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224 | 2023-01-07T06:09:14Z |
 | [CVE-2021-38001](https://www.cve.org/CVERecord?id=CVE-2021-38001) | [glavstroy/CVE-2021-38001](https://github.com/glavstroy/CVE-2021-38001) | A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion | 2023-05-08T14:43:03Z |
 | [CVE-2021-37787](https://www.cve.org/CVERecord?id=CVE-2021-37787) | [vasykor/CVE-2021-37787](https://github.com/vasykor/CVE-2021-37787) | CVE-2021-37787 | 2025-03-07T13:59:06Z |
@@ -9569,6 +9577,7 @@ Last generated: 2026-01-24 02:54:15.305950
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [Naughty-SEC/pkexec-shell-executor](https://github.com/Naughty-SEC/pkexec-shell-executor) | PKEXEC Shell Executor for CVE-2021-4034 Pwnkit | 2022-08-20T05:31:59Z |
 | [CVE-2021-33104](https://www.cve.org/CVERecord?id=CVE-2021-33104) | [Sma-Das/Log4j-PoC](https://github.com/Sma-Das/Log4j-PoC) | An educational Proof of Concept for the Log4j Vulnerability (CVE-2021-44228) in Minecraft | 2023-03-14T18:49:36Z |
 | [CVE-2021-33044](https://www.cve.org/CVERecord?id=CVE-2021-33044) | [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044) | no description | 2023-10-22T14:02:49Z |
+| [CVE-2021-33026](https://www.cve.org/CVERecord?id=CVE-2021-33026) | [Agilevatester/FlaskCache_CVE-2021-33026_POC](https://github.com/Agilevatester/FlaskCache_CVE-2021-33026_POC) | no description | 2024-10-08T17:27:56Z |
 | [CVE-2021-32789](https://www.cve.org/CVERecord?id=CVE-2021-32789) | [and0x00/CVE-2021-32789](https://github.com/and0x00/CVE-2021-32789) | 💣 Wordpress WooCommerce users dump exploit | 2023-02-17T19:51:24Z |
 | [CVE-2021-32789](https://www.cve.org/CVERecord?id=CVE-2021-32789) | [DonVorrin/CVE-2021-32789](https://github.com/DonVorrin/CVE-2021-32789) | Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions &gt;= 2.5.0 | 2024-02-08T19:02:17Z |
 | [CVE-2021-32708](https://www.cve.org/CVERecord?id=CVE-2021-32708) | [fazilbaig1/CVE-2021-32708](https://github.com/fazilbaig1/CVE-2021-32708) | Affected versions of this package are vulnerable to Race Condition. The whitespace normalisation using in 1.x and 2.x removes any unicode whitespace. Under certain specific conditions this could potentially allow a malicious user to execute code remotely. | 2024-10-19T12:49:56Z |
