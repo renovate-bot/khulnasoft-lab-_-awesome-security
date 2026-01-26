@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-01-25 03:11:23.217975
+Last generated: 2026-01-26 03:12:26.272346
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -114,6 +114,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit](https://github.com/xi0onamdev/WinRAR-CVE-2025-8088-Exploitation-Toolkit) | no description | 2025-11-29T17:20:37Z |
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [4daysday/cve-2025-8088](https://github.com/4daysday/cve-2025-8088) | Path traversal tool based on cve-2025-8088 | 2025-11-27T16:24:43Z |
 | [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [vitalichkaa/CVE-2025-8088](https://github.com/vitalichkaa/CVE-2025-8088) | CVE 2025 8088 | 2026-01-02T18:19:47Z |
+| [CVE-2025-8088](https://www.cve.org/CVERecord?id=CVE-2025-8088) | [ilhamrzr/RAR-Anomaly-Inspector](https://github.com/ilhamrzr/RAR-Anomaly-Inspector) | Defensive PowerShell tool for static inspection of RAR archives and detection of CVE-2025-8088 path traversal anomalies. | 2026-01-11T06:39:39Z |
 | [CVE-2025-8081](https://www.cve.org/CVERecord?id=CVE-2025-8081) | [LyesH4ck/CVE-2025-8081-Elementor](https://github.com/LyesH4ck/CVE-2025-8081-Elementor) | PoC for CVE-2025-8081 - Elementor Arbitrary File Read Vulnerability | 2025-10-17T12:54:59Z |
 | [CVE-2025-8067](https://www.cve.org/CVERecord?id=CVE-2025-8067) | [born0monday/CVE-2025-8067](https://github.com/born0monday/CVE-2025-8067) | Proof of Concept for CVE-2025-8067 | 2025-09-04T12:57:30Z |
 | [CVE-2025-8061](https://www.cve.org/CVERecord?id=CVE-2025-8061) | [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061) | PoC for popping a system shell against the LnvMSRIO.sys driver | 2025-10-06T09:33:59Z |
@@ -1218,6 +1219,8 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [momika233/CVE-2025-55182-bypass](https://github.com/momika233/CVE-2025-55182-bypass) | CVE-2025-55182-bypass-waf | 2026-01-08T15:53:07Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [mooowu/cve-2025-55182-poc](https://github.com/mooowu/cve-2025-55182-poc) | no description | 2026-01-10T03:58:07Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [Asder10/asder10.github.io](https://github.com/Asder10/asder10.github.io) | 🛠️ Exploit CVE-2025-55182 using React2Shell, an advanced framework for Next.js and React remote code execution. Secure your applications effectively. | 2026-01-08T16:33:12Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [Faithtiannn/CVE-2025-55182](https://github.com/Faithtiannn/CVE-2025-55182) | CVE-2025-55182漏洞检测工具 | 2026-01-11T07:59:49Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC) | RCE exploit PoC for CVE-2025-55182 and CVE-2025-66478 in Next.js and React Server Components with scanner and exploitation tools. | 2025-12-23T09:59:26Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988) | A PDF generator for CVE-2025-54988 | 2025-09-04T02:19:13Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject) | Creating a vulnerable instance to test against | 2025-12-17T20:23:16Z |
 | [CVE-2025-54962](https://www.cve.org/CVERecord?id=CVE-2025-54962) | [Eyodav/CVE-2025-54962](https://github.com/Eyodav/CVE-2025-54962) | Authenticated users can upload arbitrary files (e.g. .html, .svg) as profile images in OpenPLC Runtime. These files are publicly accessible without authentication, allowing stored XSS or malicious content delivery . | 2025-07-29T16:16:57Z |
@@ -1365,6 +1368,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2025-53072](https://www.cve.org/CVERecord?id=CVE-2025-53072) | [AshrafZaryouh/CVE-2025-53072-CVE-2025-62481](https://github.com/AshrafZaryouh/CVE-2025-53072-CVE-2025-62481) | Critical Vulnerabilities Report | 2025-10-27T16:13:25Z |
 | [CVE-2025-53072](https://www.cve.org/CVERecord?id=CVE-2025-53072) | [B1ack4sh/Blackash-CVE-2025-53072](https://github.com/B1ack4sh/Blackash-CVE-2025-53072) | CVE-2025-53072 | 2025-11-03T12:38:37Z |
 | [CVE-2025-5304](https://www.cve.org/CVERecord?id=CVE-2025-5304) | [Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304) | PT Project Notebooks 1.0.0 - 1.1.3 - Missing Authorization to Unauthenticated Privilege Escalation | 2025-09-27T02:19:06Z |
+| [CVE-2025-53020](https://www.cve.org/CVERecord?id=CVE-2025-53020) | [galbarnahum/CVE-2025-53020-PoC](https://github.com/galbarnahum/CVE-2025-53020-PoC) | PoC for CVE-2025-53020 - HPACK bombing for Apache HTTPD. | 2026-01-12T08:14:29Z |
 | [CVE-2025-52970](https://www.cve.org/CVERecord?id=CVE-2025-52970) | [Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass](https://github.com/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass) | no description | 2025-08-23T07:09:10Z |
 | [CVE-2025-52970](https://www.cve.org/CVERecord?id=CVE-2025-52970) | [34zY/CVE-2025-52970](https://github.com/34zY/CVE-2025-52970) | CVE-2025-52970 - FortiWeb Authentication Bypass to Remote Code Execution Exploit | 2025-09-07T22:52:57Z |
 | [CVE-2025-52970](https://www.cve.org/CVERecord?id=CVE-2025-52970) | [imbas007/POC-CVE-2025-52970](https://github.com/imbas007/POC-CVE-2025-52970) | no description | 2025-10-05T14:11:03Z |
@@ -2181,6 +2185,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [0xDTC/CrushFTP-auth-bypass-CVE-2025-31161](https://github.com/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161) | no description | 2025-09-27T06:16:59Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [cesarbtakeda/CVE-2025-31161](https://github.com/cesarbtakeda/CVE-2025-31161) | no description | 2025-10-21T17:49:57Z |
 | [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [ch3m1calspain/CVE-2025-31161](https://github.com/ch3m1calspain/CVE-2025-31161) | no description | 2025-12-07T01:49:25Z |
+| [CVE-2025-31161](https://www.cve.org/CVERecord?id=CVE-2025-31161) | [Dairrow/CVE-2025-31161](https://github.com/Dairrow/CVE-2025-31161) | PoC Authentication Bypass to RCE to Exploit CVE-2025-31161 | 2026-01-11T12:59:28Z |
 | [CVE-2025-31137](https://www.cve.org/CVERecord?id=CVE-2025-31137) | [pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-](https://github.com/pouriam23/vulnerability-in-Remix-React-Router-CVE-2025-31137-) | no description | 2025-04-23T10:37:35Z |
 | [CVE-2025-31133](https://www.cve.org/CVERecord?id=CVE-2025-31133) | [sahar042/CVE-2025-31133](https://github.com/sahar042/CVE-2025-31133) | no description | 2025-11-06T12:57:59Z |
 | [CVE-2025-31133](https://www.cve.org/CVERecord?id=CVE-2025-31133) | [omne-earth/arca](https://github.com/omne-earth/arca) | DEPRECATED See CVE-2025-31133, CVE-2025-52565, CVE-2025-52881 | 2025-10-28T11:44:44Z |
@@ -2979,6 +2984,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [waheeb71/CVE-2025-14847](https://github.com/waheeb71/CVE-2025-14847) | CVE-2025-14847 MongoDB Memory Leak Exploit | 2026-01-06T19:14:27Z |
 | [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner](https://github.com/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner) | Full automation check for CVE-2025-14847 MonogBleed- Finds origin IP and tests for exploit. | 2026-01-07T03:32:21Z |
 | [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [AdolfBharath/mongobleed](https://github.com/AdolfBharath/mongobleed) | CVE-2025-14847 explaination and lab | 2026-01-09T04:19:57Z |
+| [CVE-2025-14847](https://www.cve.org/CVERecord?id=CVE-2025-14847) | [sahar042/CVE-2025-14847](https://github.com/sahar042/CVE-2025-14847) | no description | 2026-01-11T14:36:56Z |
 | [CVE-2025-14783](https://www.cve.org/CVERecord?id=CVE-2025-14783) | [ZeroEthical/CVE-2025-14783-POC](https://github.com/ZeroEthical/CVE-2025-14783-POC) | 🧨 CVE-2025-14783: Easy Digital Downloads Account Takeover PoC | 2026-01-01T19:16:03Z |
 | [CVE-2025-14765](https://www.cve.org/CVERecord?id=CVE-2025-14765) | [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766) | no description | 2025-12-25T10:39:50Z |
 | [CVE-2025-14736](https://www.cve.org/CVERecord?id=CVE-2025-14736) | [hyunchiya/CVE-2025-14736](https://github.com/hyunchiya/CVE-2025-14736) | Unauthenticated Privilege Escalation to Administrator via Role Form Field | 2026-01-09T23:17:55Z |
@@ -3061,6 +3067,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2025-11953](https://www.cve.org/CVERecord?id=CVE-2025-11953) | [B1ack4sh/Blackash-CVE-2025-11953](https://github.com/B1ack4sh/Blackash-CVE-2025-11953) | CVE-2025-11953 | 2025-11-05T09:11:54Z |
 | [CVE-2025-11953](https://www.cve.org/CVERecord?id=CVE-2025-11953) | [SaidBenaissa/cve-2025-11953-vulnerability-demo](https://github.com/SaidBenaissa/cve-2025-11953-vulnerability-demo) | CVE-2025-11953 demonstration: Critical RCE vulnerability in React Native CLI (CVSS 9.8). Educational security research with proof-of-concept exploits and mitigation strategies. | 2025-11-04T17:57:35Z |
 | [CVE-2025-11953](https://www.cve.org/CVERecord?id=CVE-2025-11953) | [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection) | Comprehensive Proof of Concept collection for CVE-2025-11953, CVE-2025-59287, CVE-2025-8941 with exploitation frameworks in Python, C, Bash, PowerShell | 2025-11-10T22:09:10Z |
+| [CVE-2025-11953](https://www.cve.org/CVERecord?id=CVE-2025-11953) | [Mr-In4inci3le/CVE-2025-11953-POC-](https://github.com/Mr-In4inci3le/CVE-2025-11953-POC-) | no description | 2026-01-12T09:53:23Z |
 | [CVE-2025-11833](https://www.cve.org/CVERecord?id=CVE-2025-11833) | [Kazgangap/CVE-2025-11833](https://github.com/Kazgangap/CVE-2025-11833) | CVE-2025-11833 Checker | 2025-11-18T22:31:32Z |
 | [CVE-2025-11832](https://www.cve.org/CVERecord?id=CVE-2025-11832) | [blackhatlegend/CVE-2025-11832](https://github.com/blackhatlegend/CVE-2025-11832) | no description | 2025-10-26T12:18:53Z |
 | [CVE-2025-11749](https://www.cve.org/CVERecord?id=CVE-2025-11749) | [Nxploited/CVE-2025-11749](https://github.com/Nxploited/CVE-2025-11749) | AI Engine &lt;= 3.1.3 - Unauthenticated Sensitive Information Exposure to Privilege Escalation | 2025-11-08T03:19:59Z |
@@ -4792,6 +4799,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [YongYe-Security/CVE-2024-32113](https://github.com/YongYe-Security/CVE-2024-32113) | CVE-2024-32113 Apache OFBIZ Batch Scanning | 2024-08-07T07:12:56Z |
 | [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [MikeyPPPPPPPP/CVE-2024-32113](https://github.com/MikeyPPPPPPPP/CVE-2024-32113) | CVE-2024-32113 PoC | 2024-12-24T09:16:23Z |
 | [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [guinea-offensive-security/Ofbiz-RCE](https://github.com/guinea-offensive-security/Ofbiz-RCE) | CVE-2024-32113 &amp; CVE-2024-38856 | 2025-07-11T02:13:38Z |
+| [CVE-2024-32113](https://www.cve.org/CVERecord?id=CVE-2024-32113) | [luizgaf/CVE-2024-32113-Exploit](https://github.com/luizgaf/CVE-2024-32113-Exploit) | CVE-2024-32113-Apache-OFBiz&lt;18.12.13-Exploit | 2025-10-09T15:21:20Z |
 | [CVE-2024-32104](https://www.cve.org/CVERecord?id=CVE-2024-32104) | [Cerberus-HiproPlus/CVE-2024-32104](https://github.com/Cerberus-HiproPlus/CVE-2024-32104) | no description | 2024-07-31T12:20:07Z |
 | [CVE-2024-32030](https://www.cve.org/CVERecord?id=CVE-2024-32030) | [huseyinstif/CVE-2024-32030-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-32030-Nuclei-Template) | no description | 2024-06-24T11:57:26Z |
 | [CVE-2024-32022](https://www.cve.org/CVERecord?id=CVE-2024-32022) | [sylwia-budzynska/codeql-workshop](https://github.com/sylwia-budzynska/codeql-workshop) | Take first steps in CodeQL for Python by writing a query to find CVE-2024-32022 | 2025-09-22T16:44:32Z |
@@ -8571,6 +8579,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [PanAdamski/CVE-2022-44268-automated](https://github.com/PanAdamski/CVE-2022-44268-automated) | no description | 2024-08-28T11:28:34Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [FlojBoj/CVE-2022-44268](https://github.com/FlojBoj/CVE-2022-44268) | ImageMagick 7.1.0-49 vulnerable to Information Disclosure | 2024-09-02T09:11:45Z |
 | [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [voidz0r/CVE-2022-44268](https://github.com/voidz0r/CVE-2022-44268) | A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read | 2023-02-05T18:42:27Z |
+| [CVE-2022-44268](https://www.cve.org/CVERecord?id=CVE-2022-44268) | [katseyres2/CVE-2022-44268-pilgrimage](https://github.com/katseyres2/CVE-2022-44268-pilgrimage) | no description | 2025-05-02T21:31:39Z |
 | [CVE-2022-44149](https://www.cve.org/CVERecord?id=CVE-2022-44149) | [geniuszly/CVE-2022-44149](https://github.com/geniuszly/CVE-2022-44149) | it is script designed to interact with a router by sending a payload to its system tools. The script retrieves the router&#x27;s configuration from environment variables to ensure security. It includes functions for generating an authorization header, sending a payload, and logging the process. | 2024-08-09T19:27:22Z |
 | [CVE-2022-44136](https://www.cve.org/CVERecord?id=CVE-2022-44136) | [IgorDuino/CVE-2022-44136-exploit](https://github.com/IgorDuino/CVE-2022-44136-exploit) | Exploit for CVE-2022-44136 for chcking security of your site | 2023-06-15T00:52:11Z |
 | [CVE-2022-44118](https://www.cve.org/CVERecord?id=CVE-2022-44118) | [Athishpranav2003/CVE-2022-44118-Exploit](https://github.com/Athishpranav2003/CVE-2022-44118-Exploit) | PoC Exploit for RCE vulnerability in DedeCMS v6.1.9 | 2023-02-11T07:29:08Z |
@@ -9680,6 +9689,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2021-29447](https://www.cve.org/CVERecord?id=CVE-2021-29447) | [specializzazione-cyber-security/demo-CVE-2021-29447-lezione](https://github.com/specializzazione-cyber-security/demo-CVE-2021-29447-lezione) | no description | 2024-12-03T13:56:00Z |
 | [CVE-2021-29442](https://www.cve.org/CVERecord?id=CVE-2021-29442) | [VictorShem/QVD-2024-26473](https://github.com/VictorShem/QVD-2024-26473) | QVD-2024-26473 &amp;&amp; CVE-2021-29442 | 2024-07-31T03:56:30Z |
 | [CVE-2021-29442](https://www.cve.org/CVERecord?id=CVE-2021-29442) | [XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp](https://github.com/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp) | Nacos Derby命令执行漏洞利用脚本 | 2024-11-22T01:32:37Z |
+| [CVE-2021-29442](https://www.cve.org/CVERecord?id=CVE-2021-29442) | [nanaao/cve-2021-29442-Nacos-Derby-rce-exp](https://github.com/nanaao/cve-2021-29442-Nacos-Derby-rce-exp) | Nacos Derby命令执行漏洞利用脚本 | 2024-11-25T09:19:59Z |
 | [CVE-2021-29441](https://www.cve.org/CVERecord?id=CVE-2021-29441) | [azhao1981/CVE-2021-29441](https://github.com/azhao1981/CVE-2021-29441) | no description | 2024-12-04T06:55:24Z |
 | [CVE-2021-29156](https://www.cve.org/CVERecord?id=CVE-2021-29156) | [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156) | Proof-of-Concept tool for CVE-2021-29156, an LDAP injection vulnerability in ForgeRock OpenAM v13.0.0. | 2021-11-03T13:21:50Z |
 | [CVE-2021-29003](https://www.cve.org/CVERecord?id=CVE-2021-29003) | [jaysharma786/CVE-2021-29003](https://github.com/jaysharma786/CVE-2021-29003) | no description | 2021-09-15T06:14:47Z |
@@ -9816,6 +9826,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2021-20038](https://www.cve.org/CVERecord?id=CVE-2021-20038) | [vesperp/CVE-2021-20038-SonicWall-RCE](https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE) | no description | 2022-08-08T03:38:06Z |
 | [CVE-2021-20038](https://www.cve.org/CVERecord?id=CVE-2021-20038) | [vaknin/SLMail5.5](https://github.com/vaknin/SLMail5.5) | Exploiting CVE 2003-0264 with a buffer-overflow attack using Python3 | 2022-04-11T19:13:14Z |
 | [CVE-2021-20021](https://www.cve.org/CVERecord?id=CVE-2021-20021) | [SUPRAAA-1337/CVE-2021-20021](https://github.com/SUPRAAA-1337/CVE-2021-20021) | no description | 2023-09-07T16:17:41Z |
+| [CVE-2021-1931](https://www.cve.org/CVERecord?id=CVE-2021-1931) | [FakeShell/CVE-2021-1931-BBRY-KEY2](https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2) | proof of concept CVE-2021-1931 exploit for the blackberry key2 (le) that allows to flash unsigned images temporarily | 2025-05-04T14:04:45Z |
 | [CVE-2021-1732](https://www.cve.org/CVERecord?id=CVE-2021-1732) | [asepsaepdin/CVE-2021-1732](https://github.com/asepsaepdin/CVE-2021-1732) | no description | 2023-07-11T09:29:18Z |
 | [CVE-2021-1732](https://www.cve.org/CVERecord?id=CVE-2021-1732) | [yangshifan-git/CVE-2021-1732](https://github.com/yangshifan-git/CVE-2021-1732) | no description | 2023-06-29T12:23:51Z |
 | [CVE-2021-1732](https://www.cve.org/CVERecord?id=CVE-2021-1732) | [MrHarshvardhan/PY-Log4j-RCE-Scanner](https://github.com/MrHarshvardhan/PY-Log4j-RCE-Scanner) | Using this tool, you can scan for remote command execution vulnerability CVE-2021-44228 on Apache Log4j at multiple addresses. | 2023-06-29T07:46:40Z |
@@ -10494,6 +10505,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2019-16278](https://www.cve.org/CVERecord?id=CVE-2019-16278) | [crypticdante/CVE-2019-16278](https://github.com/crypticdante/CVE-2019-16278) | no description | 2021-07-19T00:45:07Z |
 | [CVE-2019-16278](https://www.cve.org/CVERecord?id=CVE-2019-16278) | [alexander-fernandes/CVE-2019-16278](https://github.com/alexander-fernandes/CVE-2019-16278) | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | 2022-03-24T12:06:55Z |
 | [CVE-2019-16253](https://www.cve.org/CVERecord?id=CVE-2019-16253) | [k0mraid3/K0mraid3s-System-Shell-PREBUILT](https://github.com/k0mraid3/K0mraid3s-System-Shell-PREBUILT) | Exploit I discovered in October of 2022 with androids Package manager binary (pm) and the way it handled debugging flags, patched out by march 2023. Uses CVE-2019-16253 as a payload to obtain a system shell. | 2023-01-19T19:47:13Z |
+| [CVE-2019-16172](https://www.cve.org/CVERecord?id=CVE-2019-16172) | [TrixSec/CVE-2019-16172](https://github.com/TrixSec/CVE-2019-16172) | The CVE-2019-16172 Scanner is designed to check LimeSurvey instances for the stored XSS vulnerability. | 2024-10-05T08:30:54Z |
 | [CVE-2019-16113](https://www.cve.org/CVERecord?id=CVE-2019-16113) | [0xkasra/CVE-2019-16113_](https://github.com/0xkasra/CVE-2019-16113_) | no description | 2022-04-07T03:57:15Z |
 | [CVE-2019-16113](https://www.cve.org/CVERecord?id=CVE-2019-16113) | [mind2hex/CVE-2019-16113-Bludit-3.9.2-RCE](https://github.com/mind2hex/CVE-2019-16113-Bludit-3.9.2-RCE) | Bludit 3.9.2 Remote Command Execution (RCE) | 2024-03-28T19:37:24Z |
 | [CVE-2019-16113](https://www.cve.org/CVERecord?id=CVE-2019-16113) | [tronghoang89/cve-2019-16113](https://github.com/tronghoang89/cve-2019-16113) | no description | 2024-05-01T10:03:17Z |
@@ -10657,6 +10669,7 @@ Last generated: 2026-01-25 03:11:23.217975
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [jaiguptanick/CVE-2019-0232](https://github.com/jaiguptanick/CVE-2019-0232) | Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE) | 2021-03-25T20:09:54Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [fs0c131y/ESFileExplorerOpenPortVuln](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln) | ES File Explorer Open Port Vulnerability - CVE-2019-6447 | 2019-01-09T22:30:42Z |
 | [CVE-2019-0232](https://www.cve.org/CVERecord?id=CVE-2019-0232) | [xsxtw/CVE-2019-0232](https://github.com/xsxtw/CVE-2019-0232) | no description | 2024-05-02T22:57:58Z |
+| [CVE-2019-0217](https://www.cve.org/CVERecord?id=CVE-2019-0217) | [savsch/PoC_CVE-2019-0217](https://github.com/savsch/PoC_CVE-2019-0217) | no description | 2024-10-06T12:07:55Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995](https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995) | no description | 2022-02-18T03:17:31Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [hoaan1995/CVE-2018-9995](https://github.com/hoaan1995/CVE-2018-9995) | no description | 2022-04-07T00:37:26Z |
 | [CVE-2018-9995](https://www.cve.org/CVERecord?id=CVE-2018-9995) | [dearpan/cve-2018-9995](https://github.com/dearpan/cve-2018-9995) | no description | 2021-12-02T07:52:28Z |
@@ -12719,3 +12732,4 @@ Last generated: 2026-01-25 03:11:23.217975
 | CVE NOT FOUND | [jgamblin/2025CVEBlog](https://github.com/jgamblin/2025CVEBlog) | 2025 CVE Blog | 2025-12-31T20:00:02Z |
 | CVE NOT FOUND | [xxxTectationxxx/List-CVE-2025](https://github.com/xxxTectationxxx/List-CVE-2025) | no description | 2026-01-09T02:14:05Z |
 | CVE NOT FOUND | [mrizkimaulidan/CVE-2024-Exploration](https://github.com/mrizkimaulidan/CVE-2024-Exploration) | no description | 2025-10-13T06:45:10Z |
+| CVE NOT FOUND | [zharkaron/cve-2025-zharkaron](https://github.com/zharkaron/cve-2025-zharkaron) | A Docker based security research repository analyzing default service configuration, identifying vulnerabilities, and documenting mitigations using CVE-style workflows | 2026-01-10T09:56:50Z |
