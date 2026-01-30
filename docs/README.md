@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-01-29 03:25:43.829874
+Last generated: 2026-01-30 03:26:39.390241
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -19,6 +19,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2025-9744](https://www.cve.org/CVERecord?id=CVE-2025-9744) | [godfatherofexps/CVE-2025-9744-PoC](https://github.com/godfatherofexps/CVE-2025-9744-PoC) | CVE-2025-9744 PoC. | 2025-10-20T20:48:01Z |
 | [CVE-2025-9728](https://www.cve.org/CVERecord?id=CVE-2025-9728) | [kwerty138/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2](https://github.com/kwerty138/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2) | CVE-2025-9728: Reflected XSS in Login Form (Email &amp; Password Fields) Vvveb CMS v1.0.7.2 | 2025-08-22T03:01:44Z |
 | [CVE-2025-9519](https://www.cve.org/CVERecord?id=CVE-2025-9519) | [Nimisha17/Poc-CVE-2025-9519](https://github.com/Nimisha17/Poc-CVE-2025-9519) | no description | 2025-10-21T19:52:33Z |
+| [CVE-2025-9501](https://www.cve.org/CVERecord?id=CVE-2025-9501) | [InnerFireZ/CVE-2025_9501-POC](https://github.com/InnerFireZ/CVE-2025_9501-POC) | no description | 2026-01-14T21:55:13Z |
 | [CVE-2025-9491](https://www.cve.org/CVERecord?id=CVE-2025-9491) | [Amperclock/CVE-2025-9491_POC](https://github.com/Amperclock/CVE-2025-9491_POC) | Proof-of-Concept of the CVE-2025-9491 using invisible characters in the arguments of a Windows shortcut file (.lnk) | 2025-11-07T14:52:05Z |
 | [CVE-2025-9478](https://www.cve.org/CVERecord?id=CVE-2025-9478) | [Kamgreen50/STIG-Edge-RCE-CVE2025-9478](https://github.com/Kamgreen50/STIG-Edge-RCE-CVE2025-9478) | Remediation of Microsoft Edge (Chromium) Remote Code Execution vulnerability (CVE-2025-9478, Plugin ID: 258091). Documentation includes before/after evidence, remediation steps, and Tenable validation. | 2025-08-31T20:29:10Z |
 | [CVE-2025-9435](https://www.cve.org/CVERecord?id=CVE-2025-9435) | [passtheticket/CVE-2025-9435](https://github.com/passtheticket/CVE-2025-9435) | ADManager Plus Build &lt; 7230 Elevation of Privilege | 2025-11-29T12:52:50Z |
@@ -426,6 +427,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2025-6440](https://www.cve.org/CVERecord?id=CVE-2025-6440) | [rimbadirgantara/CVE-2025-6440](https://github.com/rimbadirgantara/CVE-2025-6440) | nuclei tamplate to CVE-2025-6440 | 2026-01-03T08:01:10Z |
 | [CVE-2025-64328](https://www.cve.org/CVERecord?id=CVE-2025-64328) | [mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection](https://github.com/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection) | CVE-2025-64328 FreePBX Authenticated Command Injection in the framework module. | 2025-11-15T15:49:39Z |
 | [CVE-2025-64155](https://www.cve.org/CVERecord?id=CVE-2025-64155) | [horizon3ai/CVE-2025-64155](https://github.com/horizon3ai/CVE-2025-64155) | CVE-2025-64155: Fortinet FortiSIEM Argument Injection to Remote Code Execution | 2026-01-13T14:02:26Z |
+| [CVE-2025-64155](https://www.cve.org/CVERecord?id=CVE-2025-64155) | [purehate/CVE-2025-64155-hunter](https://github.com/purehate/CVE-2025-64155-hunter) | CVE-2025-64155-hunter | 2026-01-14T21:59:43Z |
 | [CVE-2025-64113](https://www.cve.org/CVERecord?id=CVE-2025-64113) | [Ashwesker/Blackash-CVE-2025-64113](https://github.com/Ashwesker/Blackash-CVE-2025-64113) | CVE-2025-64113 | 2025-12-10T14:00:56Z |
 | [CVE-2025-64095](https://www.cve.org/CVERecord?id=CVE-2025-64095) | [h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload](https://github.com/h4x0r-dz/CVE-2025-64095---DNN-Unauthenticated-arbitrary-file-upload) | POC of DNN Insufficient Access Control - Image Upload allows for Site Content Overwrite | 2025-10-31T14:06:07Z |
 | [CVE-2025-64095](https://www.cve.org/CVERecord?id=CVE-2025-64095) | [NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC](https://github.com/NationalServices/CVE-2025-64095-DotNetNuke-DNN_PoC) | proof of concept (PoC) For CVE-2025-64095 DotNetNuke (DNN) | 2025-11-06T20:20:07Z |
@@ -800,6 +802,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2025-55579](https://www.cve.org/CVERecord?id=CVE-2025-55579) | [ddobrev25/CVE-2025-55579](https://github.com/ddobrev25/CVE-2025-55579) | CVE-2025-55579 | 2025-08-28T15:54:57Z |
 | [CVE-2025-55575](https://www.cve.org/CVERecord?id=CVE-2025-55575) | [Aether-0/CVE-2025-55575](https://github.com/Aether-0/CVE-2025-55575) | no description | 2025-08-22T19:04:24Z |
 | [CVE-2025-55555](https://www.cve.org/CVERecord?id=CVE-2025-55555) | [aydin5245/CVE-2025-55555-CVE](https://github.com/aydin5245/CVE-2025-55555-CVE) | CVE-2025-55555 POC | 2025-09-03T13:17:25Z |
+| [CVE-2025-55462](https://www.cve.org/CVERecord?id=CVE-2025-55462) | [sibikrish001/CVE-2025-55462](https://github.com/sibikrish001/CVE-2025-55462) | no description | 2026-01-09T14:52:25Z |
 | [CVE-2025-55449](https://www.cve.org/CVERecord?id=CVE-2025-55449) | [Marven11/CVE-2025-55449-AstrBot-RCE](https://github.com/Marven11/CVE-2025-55449-AstrBot-RCE) | AstrBot老版本RCE | 2025-11-11T13:11:04Z |
 | [CVE-2025-55449](https://www.cve.org/CVERecord?id=CVE-2025-55449) | [xhh1h/CVE-2025-55449](https://github.com/xhh1h/CVE-2025-55449) | CVE-2025-55449 EXP | 2025-12-10T05:31:57Z |
 | [CVE-2025-55349](https://www.cve.org/CVERecord?id=CVE-2025-55349) | [GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349) | repo for CVE-2025-55349 | 2025-08-31T14:34:08Z |
@@ -1290,6 +1293,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [itsShotgun/chrome_v8_cve_checker](https://github.com/itsShotgun/chrome_v8_cve_checker) | Checks if your Chrome version is vulnerable to CVE-2025-5419, from the browser | 2025-06-14T01:48:21Z |
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [riemannj/CVE-2025-5419](https://github.com/riemannj/CVE-2025-5419) | Dissecting CVEin Chrome | 2025-08-13T08:20:16Z |
 | [CVE-2025-5419](https://www.cve.org/CVERecord?id=CVE-2025-5419) | [mistymntncop/CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419) | no description | 2025-08-25T07:54:12Z |
+| [CVE-2025-54136](https://www.cve.org/CVERecord?id=CVE-2025-54136) | [PRE5T0/CVE-2025-54136](https://github.com/PRE5T0/CVE-2025-54136) | CVE-2025-54136 PoC | 2026-01-15T01:37:19Z |
 | [CVE-2025-54135](https://www.cve.org/CVERecord?id=CVE-2025-54135) | [anntsmart/CVE-2025-54135](https://github.com/anntsmart/CVE-2025-54135) | no description | 2025-08-04T09:56:12Z |
 | [CVE-2025-54135](https://www.cve.org/CVERecord?id=CVE-2025-54135) | [Cbdlll/test-mcp](https://github.com/Cbdlll/test-mcp) | A repo for CVE-2025-54135 reproduction | 2025-08-07T03:16:38Z |
 | [CVE-2025-54110](https://www.cve.org/CVERecord?id=CVE-2025-54110) | [ByteHawkSec/CVE-2025-54110-POC](https://github.com/ByteHawkSec/CVE-2025-54110-POC) | Windows Kernel Integer Overflow Privilege Escalation | 2025-11-01T10:06:56Z |
@@ -1891,6 +1895,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2025-36604](https://www.cve.org/CVERecord?id=CVE-2025-36604) | [watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604](https://github.com/watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604) | Detection Artefact Generator for Dell UnityVSA CVE-2025-36604 | 2025-09-29T20:40:48Z |
 | [CVE-2025-3639](https://www.cve.org/CVERecord?id=CVE-2025-3639) | [6lj/CVE-2025-3639](https://github.com/6lj/CVE-2025-3639) | login bypass vulnerability in Liferay Portal (versions 7.3.0–7.4.3.132) and Liferay DXP (various versions from 2024.Q1 to 2025.Q1.6) | 2025-09-13T03:09:56Z |
 | [CVE-2025-36250](https://www.cve.org/CVERecord?id=CVE-2025-36250) | [Ashwesker/Blackash-CVE-2025-36250](https://github.com/Ashwesker/Blackash-CVE-2025-36250) | CVE-2025-36250 | 2025-11-17T08:51:05Z |
+| [CVE-2025-3616](https://www.cve.org/CVERecord?id=CVE-2025-3616) | [b4d-53ct0r/CVE-2025-3616](https://github.com/b4d-53ct0r/CVE-2025-3616) | no description | 2026-01-15T12:58:55Z |
 | [CVE-2025-3605](https://www.cve.org/CVERecord?id=CVE-2025-3605) | [Nxploited/CVE-2025-3605](https://github.com/Nxploited/CVE-2025-3605) | WordPress Frontend Login and Registration Blocks Plugin &lt;= 1.0.7 is vulnerable to Privilege Escalation | 2025-05-09T21:45:31Z |
 | [CVE-2025-3605](https://www.cve.org/CVERecord?id=CVE-2025-3605) | [GadaLuBau1337/CVE-2025-3605](https://github.com/GadaLuBau1337/CVE-2025-3605) | no description | 2025-05-15T16:08:46Z |
 | [CVE-2025-36041](https://www.cve.org/CVERecord?id=CVE-2025-36041) | [byteReaper77/CVE-2025-36041](https://github.com/byteReaper77/CVE-2025-36041) | Exploit (C) of the CVE-2025-36041 vulnerability in IBM MQ | 2025-06-19T22:44:04Z |
@@ -3019,6 +3024,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2025-14598](https://www.cve.org/CVERecord?id=CVE-2025-14598) | [Afnaan-Ahmed/CVE-2025-14598](https://github.com/Afnaan-Ahmed/CVE-2025-14598) | CVE-2025-14598 Remote Unauthenticated SQL Injection leading to Remote Code Execution. | 2025-12-13T04:01:06Z |
 | [CVE-2025-14558](https://www.cve.org/CVERecord?id=CVE-2025-14558) | [Ashwesker/Ashwesker-CVE-2025-14558](https://github.com/Ashwesker/Ashwesker-CVE-2025-14558) | CVE-2025-14558 | 2025-12-23T10:14:55Z |
 | [CVE-2025-14558](https://www.cve.org/CVERecord?id=CVE-2025-14558) | [JohannesLks/CVE-2025-14558](https://github.com/JohannesLks/CVE-2025-14558) | no description | 2025-12-20T17:41:03Z |
+| [CVE-2025-14502](https://www.cve.org/CVERecord?id=CVE-2025-14502) | [Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502](https://github.com/Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502) | WordPress的News and Blog Designer Bundle插件在1.1及之前所有版本中，存在通过template参数导致的本地文件包含漏洞。该漏洞使得未经身份验证的攻击者能够包含并执行服务器上的任意.php文件，从而运行这些文件中的任何PHP代码。在允许上传和包含.php文件类型的场景下，攻击者可利用此漏洞绕过访问控制、获取敏感数据或实现代码执行。 | 2026-01-15T09:00:28Z |
 | [CVE-2025-14440](https://www.cve.org/CVERecord?id=CVE-2025-14440) | [Nxploited/CVE-2025-14440](https://github.com/Nxploited/CVE-2025-14440) | JAY Login &amp; Register &lt;= 2.4.01 - Authentication Bypass via Cookie | 2025-12-18T18:51:50Z |
 | [CVE-2025-14269](https://www.cve.org/CVERecord?id=CVE-2025-14269) | [r0binak/CVE-2025-14269](https://github.com/r0binak/CVE-2025-14269) | CVE-2025-14269 PoC exploit | 2025-12-17T18:10:17Z |
 | [CVE-2025-14221](https://www.cve.org/CVERecord?id=CVE-2025-14221) | [fatmatrabelsi17/CVE-2025-14221](https://github.com/fatmatrabelsi17/CVE-2025-14221) | no description | 2025-12-13T13:47:04Z |
@@ -7565,6 +7571,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Chinyemba-ck/MOVEit-CVE-2023-34362](https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362) | A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project) | 2024-01-01T00:55:07Z |
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [glen-pearson/MoveIT-CVE-2023-34362-RCE](https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE) | Modified RCE with a remote shell and logging | 2024-06-28T17:13:15Z |
 | [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [aditibv/MOVEit-CVE-2023-34362](https://github.com/aditibv/MOVEit-CVE-2023-34362) | This repository investigates the exploitation of CVE-2023-34362 in the MOVEit file transfer server by the TA505 (Cl0p) ransomware group. It explores the group&#x27;s tactics and past campaigns targeting file transfer applications, aiming to enhance understanding and defensive measures against such threats. | 2024-07-04T21:13:48Z |
+| [CVE-2023-34362](https://www.cve.org/CVERecord?id=CVE-2023-34362) | [Naveenbana5250/CVE-2023-34362-Defense-Package](https://github.com/Naveenbana5250/CVE-2023-34362-Defense-Package) | Threat-Informed Detection &amp; Mitigation Package for MOVEit Transfer Vulnerability | 2025-07-28T05:55:54Z |
 | [CVE-2023-34312](https://www.cve.org/CVERecord?id=CVE-2023-34312) | [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp) | 复现CVE-2023-34312所需的两个恶意dll文件 | 2023-08-07T13:09:11Z |
 | [CVE-2023-34212](https://www.cve.org/CVERecord?id=CVE-2023-34212) | [mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212) | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | 2023-11-23T22:14:49Z |
 | [CVE-2023-3420](https://www.cve.org/CVERecord?id=CVE-2023-3420) | [paulsery/CVE_2023_3420](https://github.com/paulsery/CVE_2023_3420) | V8 type confusion allows chrome sandbox escape | 2024-01-24T19:21:19Z |
@@ -9056,6 +9063,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [CharonDefalt/WordPress--CVE-2022-21661](https://github.com/CharonDefalt/WordPress--CVE-2022-21661) | no description | 2024-03-24T07:03:35Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [kittypurrnaz/cve-2022-21661](https://github.com/kittypurrnaz/cve-2022-21661) | no description | 2024-11-13T08:05:30Z |
 | [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [w0r1i0g1ht/CVE-2022-21661](https://github.com/w0r1i0g1ht/CVE-2022-21661) | CVE-2022-21661 docker and poc | 2024-11-12T13:23:12Z |
+| [CVE-2022-21661](https://www.cve.org/CVERecord?id=CVE-2022-21661) | [Fauzan-Aldi/CVE-2022-21661](https://github.com/Fauzan-Aldi/CVE-2022-21661) | A Python PoC for CVE-2022-21661, adapted from z92g&#x27;s Go PoC, designed to demonstrate the vulnerability in a more accessible scripting environment. | 2025-05-13T06:20:13Z |
 | [CVE-2022-21500](https://www.cve.org/CVERecord?id=CVE-2022-21500) | [Cappricio-Securities/CVE-2022-21500](https://github.com/Cappricio-Securities/CVE-2022-21500) | Oracle E-Business Suite &lt;=12.2 - Authentication Bypass | 2024-06-09T02:59:45Z |
 | [CVE-2022-21449](https://www.cve.org/CVERecord?id=CVE-2022-21449) | [AlexanderZinoni/CVE-2022-21449](https://github.com/AlexanderZinoni/CVE-2022-21449) | no description | 2022-09-04T11:56:58Z |
 | [CVE-2022-21449](https://www.cve.org/CVERecord?id=CVE-2022-21449) | [HeyMrSalt/AIS3-2024-Project-D5Team](https://github.com/HeyMrSalt/AIS3-2024-Project-D5Team) | Reappear-CVE-2022-21449-TLS-PoC | 2024-08-01T03:27:17Z |
@@ -10442,6 +10450,7 @@ Last generated: 2026-01-29 03:25:43.829874
 | [CVE-2019-20059](https://www.cve.org/CVERecord?id=CVE-2019-20059) | [aforakjackson/cve20053299](https://github.com/aforakjackson/cve20053299) | no description | 2019-08-05T01:59:54Z |
 | [CVE-2019-20059](https://www.cve.org/CVERecord?id=CVE-2019-20059) | [aforakjackson/cve2005-3299](https://github.com/aforakjackson/cve2005-3299) | no description | 2019-08-05T01:58:45Z |
 | [CVE-2019-19945](https://www.cve.org/CVERecord?id=CVE-2019-19945) | [delicateByte/CVE-2019-19945_Test](https://github.com/delicateByte/CVE-2019-19945_Test) | no description | 2022-06-21T09:07:10Z |
+| [CVE-2019-19919](https://www.cve.org/CVERecord?id=CVE-2019-19919) | [fazilbaig1/CVE-2019-19919](https://github.com/fazilbaig1/CVE-2019-19919) | Handlebars Improper Neutralization of Special Elements in Output Used by a Downstream Component (&#x27;Injection&#x27;) Vulnerability | 2024-10-19T11:05:45Z |
 | [CVE-2019-19844](https://www.cve.org/CVERecord?id=CVE-2019-19844) | [AndreyChertckov/django_cve_2019_19844_poc](https://github.com/AndreyChertckov/django_cve_2019_19844_poc) | no description | 2020-05-21T10:03:27Z |
 | [CVE-2019-19844](https://www.cve.org/CVERecord?id=CVE-2019-19844) | [0xsha/CVE_2019_19844](https://github.com/0xsha/CVE_2019_19844) | CVE-2019-19844 Docker Edition | 2020-01-18T13:32:21Z |
 | [CVE-2019-19781](https://www.cve.org/CVERecord?id=CVE-2019-19781) | [Azeemering/CVE-2019-19781-DFIR-Notes](https://github.com/Azeemering/CVE-2019-19781-DFIR-Notes) | My Citrix ADC NetScaler CVE-2019-19781 Vulnerability DFIR notes. | 2020-01-23T08:41:51Z |
