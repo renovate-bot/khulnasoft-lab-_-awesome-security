@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-02-01 03:47:52.824496
+Last generated: 2026-02-02 03:39:59.942804
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -157,6 +157,7 @@ Last generated: 2026-02-01 03:47:52.824496
 | [CVE-2025-6998](https://www.cve.org/CVERecord?id=CVE-2025-6998) | [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS) | Exploit for the redos for CalibreWeb v0.6.24 | 2025-07-27T02:39:52Z |
 | [CVE-2025-6980](https://www.cve.org/CVERecord?id=CVE-2025-6980) | [BishopFox/CVE-2025-6980-check](https://github.com/BishopFox/CVE-2025-6980-check) | Safely test Arista NGFW for information disclosure | 2025-12-04T23:31:15Z |
 | [CVE-2025-6970](https://www.cve.org/CVERecord?id=CVE-2025-6970) | [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970) | Events Manager &lt;= 7.0.3 - Unauthenticated SQL Injection via `orderby` Parameter | 2025-07-09T20:44:47Z |
+| [CVE-2025-69581](https://www.cve.org/CVERecord?id=CVE-2025-69581) | [Rivek619/CVE-2025-69581](https://github.com/Rivek619/CVE-2025-69581) | An issue was discovered in Chamillo LMS 1.11.2. The Social Network /personal_data endpoint exposes full sensitive user information even after logout because proper cache-control is missing. Discovered by - Rivek Raj Tamang (RivuDon), Sikkim, India. | 2026-01-16T16:06:41Z |
 | [CVE-2025-6934](https://www.cve.org/CVERecord?id=CVE-2025-6934) | [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934) | Opal Estate Pro &lt;= 1.7.5 - Unauthenticated Privilege Escalation | 2025-07-01T13:05:24Z |
 | [CVE-2025-6934](https://www.cve.org/CVERecord?id=CVE-2025-6934) | [MrjHaxcore/CVE-2025-6934](https://github.com/MrjHaxcore/CVE-2025-6934) | CVE-2025-6934 POC | 2025-07-02T14:23:48Z |
 | [CVE-2025-6934](https://www.cve.org/CVERecord?id=CVE-2025-6934) | [0xgh057r3c0n/CVE-2025-6934](https://github.com/0xgh057r3c0n/CVE-2025-6934) | CVE-2025-6934 is a critical vulnerability in the WordPress Opal Estate Pro plugin (&lt;= 1.7.5) that allows unauthenticated attackers to create new administrator accounts through the plugin’s insecure AJAX registration process. | 2025-08-16T12:12:21Z |
@@ -603,6 +604,7 @@ Last generated: 2026-02-01 03:47:52.824496
 | [CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019) | [harshitvarma05/CVE-2025-6019](https://github.com/harshitvarma05/CVE-2025-6019) | no description | 2025-09-03T11:52:20Z |
 | [CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019) | [robbin0919/CVE-2025-6019](https://github.com/robbin0919/CVE-2025-6019) | no description | 2025-12-11T14:04:03Z |
 | [CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019) | [phamdinhquy2512/CVE-2025-6019-Exploitation](https://github.com/phamdinhquy2512/CVE-2025-6019-Exploitation) | no description | 2025-12-14T16:28:40Z |
+| [CVE-2025-60188](https://www.cve.org/CVERecord?id=CVE-2025-60188) | [m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit) | CVE-2025-60188 Atarim Plugin Exploit | 2026-01-07T19:53:28Z |
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit) | no description | 2025-07-03T10:03:54Z |
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [ibrahmsql/CVE-2025-6018](https://github.com/ibrahmsql/CVE-2025-6018) | CVE-2025-6018 Poc and Exploit | 2025-07-24T21:01:28Z |
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [B1ack4sh/Blackash-CVE-2025-6018](https://github.com/B1ack4sh/Blackash-CVE-2025-6018) | CVE-2025-6018 | 2025-07-30T22:03:03Z |
@@ -657,6 +659,8 @@ Last generated: 2026-02-01 03:47:52.824496
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [M507/CVE-2025-59287-PoC](https://github.com/M507/CVE-2025-59287-PoC) | Unauthenticated RCE PoC in Microsoft Windows Server Update Service (WSUS) - CVE-2025-59287 &amp; CVE-2023-35317 | 2025-11-16T08:10:33Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [Adel-kaka-dz/cve-2025-59287](https://github.com/Adel-kaka-dz/cve-2025-59287) | no description | 2025-11-21T01:36:23Z |
 | [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [gud425/gud425.github.io](https://github.com/gud425/gud425.github.io) | CVE-2025-59287 | 2025-12-26T07:22:27Z |
+| [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [you-dream-1hall/CVE-2025-59287](https://github.com/you-dream-1hall/CVE-2025-59287) | CVE 2025 59287 | 2026-01-16T18:31:01Z |
+| [CVE-2025-59287](https://www.cve.org/CVERecord?id=CVE-2025-59287) | [LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE](https://github.com/LuemmelSec/CVE-2025-59287---WSUS-SCCM-RCE) | no description | 2026-01-16T10:20:06Z |
 | [CVE-2025-59230](https://www.cve.org/CVERecord?id=CVE-2025-59230) | [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230) | no description | 2025-10-20T15:16:06Z |
 | [CVE-2025-59118](https://www.cve.org/CVERecord?id=CVE-2025-59118) | [B1ack4sh/Blackash-CVE-2025-59118](https://github.com/B1ack4sh/Blackash-CVE-2025-59118) | CVE-2025-59118 | 2025-11-13T10:33:29Z |
 | [CVE-2025-59057](https://www.cve.org/CVERecord?id=CVE-2025-59057) | [boroeurnprach/CVE-2025-59057-PoC](https://github.com/boroeurnprach/CVE-2025-59057-PoC) | A XSS vulnerability exists in in React Router&#x27;s meta()/&lt;Meta&gt; APIs in Framework Mode when generating script:ld+json tags which could allow arbitrary JavaScript execution during SSR if untrusted content is used to generate the tag. | 2026-01-13T06:31:41Z |
@@ -1899,6 +1903,7 @@ Last generated: 2026-02-01 03:47:52.824496
 | [CVE-2025-37164](https://www.cve.org/CVERecord?id=CVE-2025-37164) | [rxerium/CVE-2025-37164](https://github.com/rxerium/CVE-2025-37164) | Detection for CVE-2025-37164 | 2025-12-18T13:41:52Z |
 | [CVE-2025-37164](https://www.cve.org/CVERecord?id=CVE-2025-37164) | [g0vguy/CVE-2025-37164-PoC](https://github.com/g0vguy/CVE-2025-37164-PoC) | PoC for CVE-2025-37164 | 2025-12-19T22:00:51Z |
 | [CVE-2025-37164](https://www.cve.org/CVERecord?id=CVE-2025-37164) | [LACHHAB-Anas/Exploit_CVE-2025-37164](https://github.com/LACHHAB-Anas/Exploit_CVE-2025-37164) | Exploit for the CVE-2025-37164 | 2026-01-06T22:23:25Z |
+| [CVE-2025-36911](https://www.cve.org/CVERecord?id=CVE-2025-36911) | [Cedric-Martz/CVE-2025-36911_scan](https://github.com/Cedric-Martz/CVE-2025-36911_scan) | This script can be used to check if a Bluetooth device is vulnerable to CVE-2025-36911. | 2026-01-17T03:48:47Z |
 | [CVE-2025-36604](https://www.cve.org/CVERecord?id=CVE-2025-36604) | [watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604](https://github.com/watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604) | Detection Artefact Generator for Dell UnityVSA CVE-2025-36604 | 2025-09-29T20:40:48Z |
 | [CVE-2025-3639](https://www.cve.org/CVERecord?id=CVE-2025-3639) | [6lj/CVE-2025-3639](https://github.com/6lj/CVE-2025-3639) | login bypass vulnerability in Liferay Portal (versions 7.3.0–7.4.3.132) and Liferay DXP (various versions from 2024.Q1 to 2025.Q1.6) | 2025-09-13T03:09:56Z |
 | [CVE-2025-36250](https://www.cve.org/CVERecord?id=CVE-2025-36250) | [Ashwesker/Blackash-CVE-2025-36250](https://github.com/Ashwesker/Blackash-CVE-2025-36250) | CVE-2025-36250 | 2025-11-17T08:51:05Z |
@@ -2131,6 +2136,7 @@ Last generated: 2026-02-01 03:47:52.824496
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [radzek15/CVE-2025-32433](https://github.com/radzek15/CVE-2025-32433) | Erlang/OTP SSH | 2025-11-09T20:58:53Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [soltanali0/CVE-2025-32433-Eploit](https://github.com/soltanali0/CVE-2025-32433-Eploit) | Erlang/OTP SSH Vulnerable to Pre-Authentication RCE | 2025-11-27T21:38:43Z |
 | [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit) | This exploit script is designed to simplify exploitation of the Erlang/OTP SSH vulnerability CVE-2025-32433 in the TryHackMe lab environment. | 2025-12-25T08:42:42Z |
+| [CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433) | [AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433](https://github.com/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433) | no description | 2025-12-29T10:48:13Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Sachinart/CVE-2025-32432](https://github.com/Sachinart/CVE-2025-32432) | This repository contains a proof-of-concept exploit script for CVE-2025-32432, a pre-authentication Remote Code Execution (RCE) vulnerability affecting CraftCMS versions 4.x and 5.x. The vulnerability exists in the asset transform generation feature of CraftCMS. | 2025-04-27T08:50:52Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [Chocapikk/CVE-2025-32432](https://github.com/Chocapikk/CVE-2025-32432) | CraftCMS RCE Checker (CVE-2025-32432) | 2025-04-26T23:33:58Z |
 | [CVE-2025-32432](https://www.cve.org/CVERecord?id=CVE-2025-32432) | [CTY-Research-1/CVE-2025-32432-PoC](https://github.com/CTY-Research-1/CVE-2025-32432-PoC) | no description | 2025-06-01T15:19:08Z |
@@ -2919,6 +2925,7 @@ Last generated: 2026-02-01 03:47:52.824496
 | [CVE-2025-20393](https://www.cve.org/CVERecord?id=CVE-2025-20393) | [Ashwesker/Ashwesker-CVE-2025-20393](https://github.com/Ashwesker/Ashwesker-CVE-2025-20393) | CVE-2025-20393 | 2025-12-19T13:26:08Z |
 | [CVE-2025-20393](https://www.cve.org/CVERecord?id=CVE-2025-20393) | [cyberleelawat/CVE-2025-20393](https://github.com/cyberleelawat/CVE-2025-20393) | Cisco is aware of a potential vulnerability.&amp;nbsp; Cisco is currently investigating and&amp;nbsp;will update these details as appropriate&amp;nbsp;as more information becomes available. | 2025-12-18T10:02:51Z |
 | [CVE-2025-20393](https://www.cve.org/CVERecord?id=CVE-2025-20393) | [MRH701/mrh701.github.io](https://github.com/MRH701/mrh701.github.io) | 🔍 Probe hosts for open Cisco Secure Email/Malware Analytics ports and CVE-2025-20393 exposure using a simple Python script. | 2026-01-06T23:16:08Z |
+| [CVE-2025-20393](https://www.cve.org/CVERecord?id=CVE-2025-20393) | [cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner) | This tool helps identify exposure to CVE-2025-20393 by checking for open TCP/6025 ports, responsive Spam Quarantine interfaces, and known post-exploitation IOCs. | 2026-01-16T17:34:50Z |
 | [CVE-2025-20384](https://www.cve.org/CVERecord?id=CVE-2025-20384) | [Axselll/CVE-2025-20384](https://github.com/Axselll/CVE-2025-20384) | no description | 2025-12-07T14:36:19Z |
 | [CVE-2025-20354](https://www.cve.org/CVERecord?id=CVE-2025-20354) | [B1ack4sh/Blackash-CVE-2025-20354](https://github.com/B1ack4sh/Blackash-CVE-2025-20354) | CVE-2025-20354 | 2025-11-06T20:28:23Z |
 | [CVE-2025-20352](https://www.cve.org/CVERecord?id=CVE-2025-20352) | [scadastrangelove/CVE-2025-20352](https://github.com/scadastrangelove/CVE-2025-20352) | CVE-2025-20352 SNMP Exposure Check (onesixtyone + parser) | 2025-09-25T19:21:26Z |
@@ -8279,6 +8286,7 @@ Last generated: 2026-02-01 03:47:52.824496
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [Onedy1703/CVE-2023-22515](https://github.com/Onedy1703/CVE-2023-22515) | CVE 2023-22515 | 2024-07-21T17:19:36Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [spareack/CVE-2023-22515-NSE](https://github.com/spareack/CVE-2023-22515-NSE) | Vulnerability checking tool via Nmap Scripting Engine | 2024-07-18T19:55:59Z |
 | [CVE-2023-22515](https://www.cve.org/CVERecord?id=CVE-2023-22515) | [vivigotnotime/CVE-2023-22515-Exploit-Script](https://github.com/vivigotnotime/CVE-2023-22515-Exploit-Script) | no description | 2025-02-24T11:44:20Z |
+| [CVE-2023-22493](https://www.cve.org/CVERecord?id=CVE-2023-22493) | [buitanhung144/SSRF-CVE-2023-22493](https://github.com/buitanhung144/SSRF-CVE-2023-22493) | Phân tích CVE-2023-22493 | 2025-07-30T20:38:33Z |
 | [CVE-2023-2249](https://www.cve.org/CVERecord?id=CVE-2023-2249) | [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249) | Exploit for CVE-2023-2249 in wpForo Forum plugin for WordPress | 2023-06-13T18:13:27Z |
 | [CVE-2023-2245](https://www.cve.org/CVERecord?id=CVE-2023-2245) | [tpdlshdmlrkfmcla/2023-2245](https://github.com/tpdlshdmlrkfmcla/2023-2245) | cve-2023-2245 | 2025-02-05T02:17:26Z |
 | [CVE-2023-2215](https://www.cve.org/CVERecord?id=CVE-2023-2215) | [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215) | PoC For CVE-2023-2215 - Auth bypass | 2023-10-11T10:16:39Z |
