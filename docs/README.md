@@ -2,15 +2,20 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-02-06 03:32:32.211068
+Last generated: 2026-02-07 03:24:13.368818
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
+| [CVE-2026-5000](https://www.cve.org/CVERecord?id=CVE-2026-5000) | [Perl-Code/CVE-2026-5000](https://github.com/Perl-Code/CVE-2026-5000) | This is for Windows defender bypass | 2025-10-30T11:41:22Z |
+| [CVE-2026-0828](https://www.cve.org/CVERecord?id=CVE-2026-0828) | [KOSEC-LLC/BYOVD-Research](https://github.com/KOSEC-LLC/BYOVD-Research) | BYOVD research performed by KOSEC. Includes vulnerable drivers and writeups (CVE-2026-0828). | 2025-10-15T02:11:59Z |
+| [CVE-2026-0547](https://www.cve.org/CVERecord?id=CVE-2026-0547) | [rsecroot/CVE-2026-0547](https://github.com/rsecroot/CVE-2026-0547) | no description | 2026-01-01T17:26:32Z |
+| [CVE-2026-00001](https://www.cve.org/CVERecord?id=CVE-2026-00001) | [sufnir/POC-CVE-2026-00001](https://github.com/sufnir/POC-CVE-2026-00001) | FIRST NAH | 2025-12-31T10:19:44Z |
 | [CVE-2025-9998](https://www.cve.org/CVERecord?id=CVE-2025-9998) | [balajigund/Research-on-CVE-2025-9998](https://github.com/balajigund/Research-on-CVE-2025-9998) | vulnerability in CVE 2025-9998 and solution for those vulnerability with help artificial intelligence | 2025-09-25T18:52:59Z |
 | [CVE-2025-9983](https://www.cve.org/CVERecord?id=CVE-2025-9983) | [sohaibeb/CVE-2025-9983](https://github.com/sohaibeb/CVE-2025-9983) | CVE-2025-9983 POC Exploit | 2025-10-25T22:22:36Z |
 | [CVE-2025-9967](https://www.cve.org/CVERecord?id=CVE-2025-9967) | [glitchhawks/CVE-2025-9967](https://github.com/glitchhawks/CVE-2025-9967) | no description | 2025-10-26T12:21:44Z |
 | [CVE-2025-9961](https://www.cve.org/CVERecord?id=CVE-2025-9961) | [yt2w/CVE-2025-9961](https://github.com/yt2w/CVE-2025-9961) | no description | 2025-12-29T16:26:16Z |
+| [CVE-2025-9933](https://www.cve.org/CVERecord?id=CVE-2025-9933) | [titanmaster96/cve-2025-9933](https://github.com/titanmaster96/cve-2025-9933) | A vulnerability has been found in PHPGurukul Beauty Parlour Management System 1.1. Affected by this issue is some unknown functionality of the file /admin/view-appointment.php. Such manipulation of the argument viewid leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. | 2026-01-16T15:11:15Z |
 | [CVE-2025-9886](https://www.cve.org/CVERecord?id=CVE-2025-9886) | [MooseLoveti/Trinity-Audio-CVE-Report2](https://github.com/MooseLoveti/Trinity-Audio-CVE-Report2) | Disclosure for CVE-2025-9886 and CVE-2025-9952 | 2025-09-03T01:02:13Z |
 | [CVE-2025-9816](https://www.cve.org/CVERecord?id=CVE-2025-9816) | [monzaviman/CVE-2025-9816](https://github.com/monzaviman/CVE-2025-9816) | Proof of Concept for Stored-XSS on Vulnerable WP-Statistics Plugin known as CVE-2025-9816 | 2025-11-13T07:27:07Z |
 | [CVE-2025-9809](https://www.cve.org/CVERecord?id=CVE-2025-9809) | [alexan011/Redemption_Assignment_CVE_2025_9809](https://github.com/alexan011/Redemption_Assignment_CVE_2025_9809) | no description | 2025-12-16T01:44:31Z |
@@ -1907,6 +1912,7 @@ Last generated: 2026-02-06 03:32:32.211068
 | [CVE-2025-38352](https://www.cve.org/CVERecord?id=CVE-2025-38352) | [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly) | Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable Linux kernels v5.10.x. | 2026-01-03T16:52:18Z |
 | [CVE-2025-38352](https://www.cve.org/CVERecord?id=CVE-2025-38352) | [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352) | This is a proof of concept for CVE-2025-38352, a vulnerability in the Linux kernel&#x27;s POSIX CPU timers implementation. The September 2025 Android Bulletin mentions that this vulnerability has been used in limited, targeted exploitation in the wild. | 2025-12-21T23:59:18Z |
 | [CVE-2025-38352](https://www.cve.org/CVERecord?id=CVE-2025-38352) | [Crime2/poc-CVE-2025-38352](https://github.com/Crime2/poc-CVE-2025-38352) | no description | 2026-01-08T14:14:19Z |
+| [CVE-2025-38352](https://www.cve.org/CVERecord?id=CVE-2025-38352) | [Soikoth3010/soikoth3010.github.io](https://github.com/Soikoth3010/soikoth3010.github.io) | 🚀 Exploit the Android/Linux kernel using CVE-2025-38352 with Chronomaly, designed for vulnerable v5.10.x kernels without needing specific offsets. | 2026-01-19T01:22:48Z |
 | [CVE-2025-38089](https://www.cve.org/CVERecord?id=CVE-2025-38089) | [keymaker-arch/NFSundown](https://github.com/keymaker-arch/NFSundown) | PoC for CVE-2025-38089 | 2025-07-02T08:40:57Z |
 | [CVE-2025-38001](https://www.cve.org/CVERecord?id=CVE-2025-38001) | [0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001) | CVE-2025-38001: Linux HFSC Eltree Use-After-Free - Debian 12 PoC | 2025-07-11T18:34:08Z |
 | [CVE-2025-38001](https://www.cve.org/CVERecord?id=CVE-2025-38001) | [khoatran107/cve-2025-38001](https://github.com/khoatran107/cve-2025-38001) | no description | 2025-08-25T09:10:40Z |
@@ -3955,6 +3961,8 @@ Last generated: 2026-02-06 03:32:32.211068
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [CyberCrowCC/CVE-2024-48990](https://github.com/CyberCrowCC/CVE-2024-48990) | no description | 2024-12-09T04:28:40Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [NullByte-7w7/CVE-2024-48990](https://github.com/NullByte-7w7/CVE-2024-48990) | no description | 2024-12-18T03:39:57Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [ten-ops/CVE-2024-48990_needrestart](https://github.com/ten-ops/CVE-2024-48990_needrestart) | Exploit for CVE-2024-48990 - Privilege Escalation in Needrestart 3.7-3. For eductional purposes only | 2025-02-16T21:26:51Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [Serner77/CVE-2024-48990-Automatic-Exploit](https://github.com/Serner77/CVE-2024-48990-Automatic-Exploit) | Automated local privilege escalation exploit for CVE-2024-48990 (needrestart v3.7), leveraging PYTHONPATH hijacking to gain root access. | 2025-10-28T19:07:07Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [mladicstefan/CVE-2024-48990](https://github.com/mladicstefan/CVE-2024-48990) | Full exploit for needsrestart setuid root shell | 2025-10-28T21:51:07Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -4444,6 +4452,7 @@ Last generated: 2026-02-06 03:32:32.211068
 | [CVE-2024-39914](https://www.cve.org/CVERecord?id=CVE-2024-39914) | [9874621368/FOG-Project](https://github.com/9874621368/FOG-Project) | FOG Project CVE-2024-39914 命令执行漏洞 | 2024-12-21T08:30:00Z |
 | [CVE-2024-39908](https://www.cve.org/CVERecord?id=CVE-2024-39908) | [SpiralBL0CK/CVE-2024-39908](https://github.com/SpiralBL0CK/CVE-2024-39908) | CVE-2024-39908 full poc | 2024-12-19T18:59:52Z |
 | [CVE-2024-39844](https://www.cve.org/CVERecord?id=CVE-2024-39844) | [ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844) | CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE) | 2024-07-03T23:27:25Z |
+| [CVE-2024-39840](https://www.cve.org/CVERecord?id=CVE-2024-39840) | [writegsqword/CVE-2024-39840-POC](https://github.com/writegsqword/CVE-2024-39840-POC) | no description | 2025-07-23T07:16:44Z |
 | [CVE-2024-39722](https://www.cve.org/CVERecord?id=CVE-2024-39722) | [srcx404/CVE-2024-39722](https://github.com/srcx404/CVE-2024-39722) | no description | 2025-05-07T07:01:02Z |
 | [CVE-2024-39719](https://www.cve.org/CVERecord?id=CVE-2024-39719) | [srcx404/CVE-2024-39719](https://github.com/srcx404/CVE-2024-39719) | no description | 2025-05-08T08:03:56Z |
 | [CVE-2024-39717](https://www.cve.org/CVERecord?id=CVE-2024-39717) | [ahays248/VT_Viz](https://github.com/ahays248/VT_Viz) | Interactive 3D visualization of China&#x27;s Volt Typhoon APT attacking US critical infrastructure. Shows real 72-hour attack chain from CVE-2024-39717 exploit to water/power grid   compromise. Based on CISA advisories &amp; Microsoft threat intel. | 2025-09-02T21:06:51Z |
@@ -12856,3 +12865,4 @@ Last generated: 2026-02-06 03:32:32.211068
 | CVE NOT FOUND | [93727323123/throughe](https://github.com/93727323123/throughe) | Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023 | 2025-07-29T05:06:57Z |
 | CVE NOT FOUND | [etility/CVE-31317-install-apk](https://github.com/etility/CVE-31317-install-apk) | 利用CVE-31317漏洞给安卓终端安装软件，适用于安卓安全补丁2024年7月前的安卓12设备，其他设备未测试 | 2025-10-21T03:58:12Z |
 | CVE NOT FOUND | [min704/CVE-31317-install-apk](https://github.com/min704/CVE-31317-install-apk) | 利用CVE-31317漏洞给安卓终端安装软件，适用于安卓安全补丁2024年7月前的安卓12设备，其他设备未测试 | 2025-10-21T05:00:02Z |
+| CVE NOT FOUND | [m00ddy/SPS-CVE2025-9047-POC](https://github.com/m00ddy/SPS-CVE2025-9047-POC) | no description | 2026-01-18T18:04:00Z |
