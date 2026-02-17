@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-02-16 03:40:22.364000
+Last generated: 2026-02-17 03:34:51.614671
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -13,10 +13,13 @@ Last generated: 2026-02-16 03:40:22.364000
 | [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [Chocapikk/CVE-2026-24061](https://github.com/Chocapikk/CVE-2026-24061) | no description | 2026-01-22T14:24:19Z |
 | [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [JayGLXR/CVE-2026-24061-POC](https://github.com/JayGLXR/CVE-2026-24061-POC) | no description | 2026-01-22T14:27:50Z |
 | [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061) | Exploitation of CVE-2026-24061 | 2026-01-22T18:30:17Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [xuemian168/CVE-2026-24061](https://github.com/xuemian168/CVE-2026-24061) | no description | 2026-01-23T02:14:15Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [h3athen/CVE-2026-24061](https://github.com/h3athen/CVE-2026-24061) | CVE-2026-24061 - Exploit | 2026-01-22T20:33:24Z |
 | [CVE-2026-2395](https://www.cve.org/CVERecord?id=CVE-2026-2395) | [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) | CVE-2026-2395: Tar race file collision | 2026-01-22T04:28:48Z |
 | [CVE-2026-23947](https://www.cve.org/CVERecord?id=CVE-2026-23947) | [boroeurnprach/CVE-2026-23947-PoC](https://github.com/boroeurnprach/CVE-2026-23947-PoC) | CVE-2026-23947 - Orval Arbitrary Code Execution | 2026-01-21T07:48:22Z |
 | [CVE-2026-23885](https://www.cve.org/CVERecord?id=CVE-2026-23885) | [TheDeepOpc/CVE-2026-23885](https://github.com/TheDeepOpc/CVE-2026-23885) | no description | 2026-01-20T09:44:29Z |
 | [CVE-2026-23745](https://www.cve.org/CVERecord?id=CVE-2026-23745) | [Jvr2022/CVE-2026-23745](https://github.com/Jvr2022/CVE-2026-23745) | Proof of Concept for CVE-2026-23745: Arbitrary File Overwrite vulnerability in node-tar (versions &lt; 7.5.3). | 2026-01-17T07:45:42Z |
+| [CVE-2026-23744](https://www.cve.org/CVERecord?id=CVE-2026-23744) | [boroeurnprach/CVE-2026-23744-PoC](https://github.com/boroeurnprach/CVE-2026-23744-PoC) | CVE-2026-23744 - Versions 1.4.2 and earlier of MCPJam inspector are vulnerable to remote code execution (RCE). Because the tool listens on 0.0.0.0 by default, an attacker can trigger the installation and execution of a malicious MCP server by sending a crafted HTTP request. Version 1.4.3 contains a patch for this issue. | 2026-01-20T06:55:53Z |
 | [CVE-2026-23550](https://www.cve.org/CVERecord?id=CVE-2026-23550) | [cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector) | authorized CYBERDUDEBIVASH ECOSYSTEM tool for detecting CVE-2026-23550 in WordPress Modular DS plugin | 2026-01-15T17:23:55Z |
 | [CVE-2026-23550](https://www.cve.org/CVERecord?id=CVE-2026-23550) | [TheTorjanCaptain/CVE-2026-23550-PoC](https://github.com/TheTorjanCaptain/CVE-2026-23550-PoC) | CVE-2026-23550 - Modular DS WordPress Plugin **Unauthenticated Admin Access** | 2026-01-17T15:33:11Z |
 | [CVE-2026-22862](https://www.cve.org/CVERecord?id=CVE-2026-22862) | [qzhodl/CVE-2026-22862](https://github.com/qzhodl/CVE-2026-22862) | no description | 2026-01-19T10:47:49Z |
@@ -31,10 +34,12 @@ Last generated: 2026-02-16 03:40:22.364000
 | [CVE-2026-22686](https://www.cve.org/CVERecord?id=CVE-2026-22686) | [amusedx/CVE-2026-22686](https://github.com/amusedx/CVE-2026-22686) | no description | 2026-01-15T19:51:23Z |
 | [CVE-2026-22610](https://www.cve.org/CVERecord?id=CVE-2026-22610) | [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610) | no description | 2026-01-18T11:38:02Z |
 | [CVE-2026-22444](https://www.cve.org/CVERecord?id=CVE-2026-22444) | [dptsec/CVE-2026-22444](https://github.com/dptsec/CVE-2026-22444) | PoC for CVE-2026-22444: Apache Solr 8.6-9.10.0 Windows standalone mode RCE/NTLM hash disclosure | 2026-01-22T17:55:17Z |
+| [CVE-2026-22444](https://www.cve.org/CVERecord?id=CVE-2026-22444) | [bfdfhdsfdd-crypto/CVE-2026-22444](https://github.com/bfdfhdsfdd-crypto/CVE-2026-22444) | CVE-2026-22444 是一个影响 Apache Solr 的安全漏洞，于 2026 年 1 月 20 日左右公开披露。该漏洞源于 Apache Solr 的 &quot;create core&quot; API 在某些 API 参数上的输入验证不足（CWE-20: Improper Input Validation），允许攻击者在 Solr 运行于 &quot;standalone&quot; 模式时绕过安全规则，可能导致数据泄露、远程代码执行 (RCE) 或 NTLM 哈希披露。 | 2026-01-23T02:18:02Z |
 | [CVE-2026-22241](https://www.cve.org/CVERecord?id=CVE-2026-22241) | [Ashifcoder/CVE-2026-22241](https://github.com/Ashifcoder/CVE-2026-22241) | CVE-2026-22241 Exploit for GUnet Open eClass Unrestricted File Upload Leads to Remote Code Execution (RCE) | 2026-01-12T11:55:53Z |
 | [CVE-2026-22200](https://www.cve.org/CVERecord?id=CVE-2026-22200) | [horizon3ai/CVE-2026-22200](https://github.com/horizon3ai/CVE-2026-22200) | CVE-2026-22200: Arbitrary file read + CNEXT RCE in osTicket | 2026-01-21T18:13:57Z |
 | [CVE-2026-21962](https://www.cve.org/CVERecord?id=CVE-2026-21962) | [samael0x4/CVE-2026-21962](https://github.com/samael0x4/CVE-2026-21962) | Unauthenticated vulnerability that may allow remote attackers to compromise confidentiality and integrity, potentially leading to full system compromise. | 2026-01-22T03:59:25Z |
 | [CVE-2026-21962](https://www.cve.org/CVERecord?id=CVE-2026-21962) | [boroeurnprach/Ashwesker-CVE-2026-21962](https://github.com/boroeurnprach/Ashwesker-CVE-2026-21962) | CVE-2026-21962 | 2026-01-22T07:10:59Z |
+| [CVE-2026-21962](https://www.cve.org/CVERecord?id=CVE-2026-21962) | [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner) | no description | 2026-01-22T21:51:37Z |
 | [CVE-2026-21876](https://www.cve.org/CVERecord?id=CVE-2026-21876) | [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876) | CVE-2026-21876 OWASP ModSecurity CRS WAF bypass (docker container + minimal PoC). | 2026-01-07T15:30:51Z |
 | [CVE-2026-21858](https://www.cve.org/CVERecord?id=CVE-2026-21858) | [Chocapikk/CVE-2026-21858](https://github.com/Chocapikk/CVE-2026-21858) | n8n Ni8mare - Unauthenticated Arbitrary File Read to RCE Chain (CVSS 10.0) | 2026-01-07T19:32:42Z |
 | [CVE-2026-21858](https://www.cve.org/CVERecord?id=CVE-2026-21858) | [bgarz929/Ashwesker-CVE-2026-21858](https://github.com/bgarz929/Ashwesker-CVE-2026-21858) | CVE-2026-21858 | 2026-01-28T08:17:42Z |
@@ -2985,6 +2990,11 @@ Last generated: 2026-02-16 03:40:22.364000
 | [CVE-2025-23040](https://www.cve.org/CVERecord?id=CVE-2025-23040) | [GabrieleDattile/CVE-2025-23040](https://github.com/GabrieleDattile/CVE-2025-23040) | no description | 2025-01-31T21:27:42Z |
 | [CVE-2025-2304](https://www.cve.org/CVERecord?id=CVE-2025-2304) | [whiteov3rflow/CVE-2025-2304-POC](https://github.com/whiteov3rflow/CVE-2025-2304-POC) | CVE-2025-2304 POC | 2026-01-31T21:13:01Z |
 | [CVE-2025-2304](https://www.cve.org/CVERecord?id=CVE-2025-2304) | [innocentx0/CVE-2025-2304-POC](https://github.com/innocentx0/CVE-2025-2304-POC) | Manual poc for CVE-2025-2304 | 2026-01-31T21:49:16Z |
+| [CVE-2025-2304](https://www.cve.org/CVERecord?id=CVE-2025-2304) | [predyy/CVE-2025-2304](https://github.com/predyy/CVE-2025-2304) | Python script to exploit Privilege Escalation in Camaleon CMS. | 2026-02-01T09:37:13Z |
+| [CVE-2025-2304](https://www.cve.org/CVERecord?id=CVE-2025-2304) | [lil0xplorer/CVE-2025-2304-PoC](https://github.com/lil0xplorer/CVE-2025-2304-PoC) | PoC for CVE-2025-2304 Privilege Escalation in the Camaleon CMS | 2026-02-01T08:28:02Z |
+| [CVE-2025-2304](https://www.cve.org/CVERecord?id=CVE-2025-2304) | [AzureADTrent/CVE-2025-2304_POC](https://github.com/AzureADTrent/CVE-2025-2304_POC) | CVE-2025-2304 POC - Camaleon CMS Privilege Escalation | 2026-02-01T05:07:17Z |
+| [CVE-2025-2304](https://www.cve.org/CVERecord?id=CVE-2025-2304) | [the8frust/CVE-2025-2304](https://github.com/the8frust/CVE-2025-2304) | Exploit for CVE-2025-2304 - Camaleon CMS versions &lt; 2.9.1 | 2026-02-01T01:23:25Z |
+| [CVE-2025-2304](https://www.cve.org/CVERecord?id=CVE-2025-2304) | [d3vn0mi/cve-2025-2304-poc](https://github.com/d3vn0mi/cve-2025-2304-poc) | no description | 2026-01-31T21:33:13Z |
 | [CVE-2025-2301](https://www.cve.org/CVERecord?id=CVE-2025-2301) | [sahici/CVE-2025-2301](https://github.com/sahici/CVE-2025-2301) | USOM Tarafından resmi yayın beklenmektedir. | 2025-04-24T21:21:33Z |
 | [CVE-2025-22968](https://www.cve.org/CVERecord?id=CVE-2025-22968) | [CRUNZEX/CVE-2025-22968](https://github.com/CRUNZEX/CVE-2025-22968) | no description | 2025-01-05T06:51:58Z |
 | [CVE-2025-22964](https://www.cve.org/CVERecord?id=CVE-2025-22964) | [padayali-JD/CVE-2025-22964](https://github.com/padayali-JD/CVE-2025-22964) | no description | 2025-01-14T18:52:01Z |
@@ -3869,6 +3879,7 @@ Last generated: 2026-02-16 03:40:22.364000
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [r007sec/CVE-2024-53677](https://github.com/r007sec/CVE-2024-53677) | no description | 2025-06-03T12:55:55Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [BuludX/CVE-2024-53677](https://github.com/BuludX/CVE-2024-53677) | CVE-2024-53677 | 2025-05-20T08:37:46Z |
 | [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [Cythonic1/CVE-2024-53677-POC](https://github.com/Cythonic1/CVE-2024-53677-POC) | a proof of concept of CVE-2024-53677 | 2025-09-01T13:17:19Z |
+| [CVE-2024-53677](https://www.cve.org/CVERecord?id=CVE-2024-53677) | [seoyoung-kang/CVE-2024-53677](https://github.com/seoyoung-kang/CVE-2024-53677) | CVE-2024-53677 관련 컨설턴트용 툴 개발 | 2025-10-15T16:02:15Z |
 | [CVE-2024-53617](https://www.cve.org/CVERecord?id=CVE-2024-53617) | [ii5mai1/CVE-2024-53617](https://github.com/ii5mai1/CVE-2024-53617) | no description | 2024-11-29T17:50:07Z |
 | [CVE-2024-53615](https://www.cve.org/CVERecord?id=CVE-2024-53615) | [beune/CVE-2024-53615](https://github.com/beune/CVE-2024-53615) | CVE-2024-53615 | 2024-11-04T18:34:58Z |
 | [CVE-2024-53591](https://www.cve.org/CVERecord?id=CVE-2024-53591) | [aljoharasubaie/CVE-2024-53591](https://github.com/aljoharasubaie/CVE-2024-53591) | no description | 2025-04-13T08:46:11Z |
@@ -4206,6 +4217,7 @@ Last generated: 2026-02-16 03:40:22.364000
 | [CVE-2024-46278](https://www.cve.org/CVERecord?id=CVE-2024-46278) | [ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover](https://github.com/ayato-shitomi/CVE-2024-46278-teedy_1.11_account-takeover) | 【Teedy 1.11】Account Takeover via XSS | 2024-08-28T03:17:37Z |
 | [CVE-2024-46256](https://www.cve.org/CVERecord?id=CVE-2024-46256) | [barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256) | POC_CVE-2024-46256 | 2024-09-19T09:35:12Z |
 | [CVE-2024-46256](https://www.cve.org/CVERecord?id=CVE-2024-46256) | [TranDongA3/Simulation_CVE-2024-46256](https://github.com/TranDongA3/Simulation_CVE-2024-46256) | no description | 2025-10-29T18:18:59Z |
+| [CVE-2024-46256](https://www.cve.org/CVERecord?id=CVE-2024-46256) | [kimtangker/CVE-2024-46256](https://github.com/kimtangker/CVE-2024-46256) | CVE-2024-46256 tool | 2025-10-14T23:04:14Z |
 | [CVE-2024-46209](https://www.cve.org/CVERecord?id=CVE-2024-46209) | [h4ckr4v3n/CVE-2024-46209](https://github.com/h4ckr4v3n/CVE-2024-46209) | no description | 2024-08-26T17:52:27Z |
 | [CVE-2024-45870](https://www.cve.org/CVERecord?id=CVE-2024-45870) | [bshyuunn/bandiview-7.05-vuln-PoC](https://github.com/bshyuunn/bandiview-7.05-vuln-PoC) | bandiview (7.05) vuln PoC - CVE-2024-45870, CVE-2024-45871, CVE-2024-45872 | 2025-02-19T12:21:40Z |
 | [CVE-2024-4577](https://www.cve.org/CVERecord?id=CVE-2024-4577) | [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577) | PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC | 2024-06-07T09:42:40Z |
@@ -10902,6 +10914,7 @@ Last generated: 2026-02-16 03:40:22.364000
 | [CVE-2019-14271](https://www.cve.org/CVERecord?id=CVE-2019-14271) | [Ravaan21/Bluekeep-Hunter](https://github.com/Ravaan21/Bluekeep-Hunter) | CVE-2019-0708, A tool which mass hunts for bluekeep vulnerability for exploitation. | 2022-09-17T05:41:15Z |
 | [CVE-2019-14271](https://www.cve.org/CVERecord?id=CVE-2019-14271) | [HoangLai2k3/CVE_2019_14271](https://github.com/HoangLai2k3/CVE_2019_14271) | no description | 2024-05-30T14:34:07Z |
 | [CVE-2019-14234](https://www.cve.org/CVERecord?id=CVE-2019-14234) | [malvika-thakur/CVE-2019-14234](https://github.com/malvika-thakur/CVE-2019-14234) | POC-Django JSONField/HStoreField SQL Injection Vulnerability (CVE-2019-14234) | 2023-09-15T09:34:56Z |
+| [CVE-2019-14222](https://www.cve.org/CVERecord?id=CVE-2019-14222) | [mbadanoiu/CVE-2019-14222](https://github.com/mbadanoiu/CVE-2019-14222) | CVE-2019-14222: Default Certificate in Alfresco Community | 2025-02-12T17:17:38Z |
 | [CVE-2019-14079](https://www.cve.org/CVERecord?id=CVE-2019-14079) | [parallelbeings/CVE-2019-14079](https://github.com/parallelbeings/CVE-2019-14079) | USB device fuzzing on Android Phone | 2020-04-05T05:45:29Z |
 | [CVE-2019-13990](https://www.cve.org/CVERecord?id=CVE-2019-13990) | [epicosy/Quartz-1](https://github.com/epicosy/Quartz-1) | quartz with CVE-2019-13990 | 2024-05-31T20:17:54Z |
 | [CVE-2019-13768](https://www.cve.org/CVERecord?id=CVE-2019-13768) | [ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768](https://github.com/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768) | Full chain Chrome 71.0.3578.98 exploit | 2020-12-18T21:57:26Z |
