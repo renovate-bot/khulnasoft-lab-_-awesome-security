@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-02-20 03:43:42.701533
+Last generated: 2026-02-21 03:22:41.741238
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -25,6 +25,13 @@ Last generated: 2026-02-20 03:43:42.701533
 | [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [BrainBob/Telnet-TestVuln-CVE-2026-24061](https://github.com/BrainBob/Telnet-TestVuln-CVE-2026-24061) | no description | 2026-01-24T15:59:48Z |
 | [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [BrainBob/CVE-2026-24061](https://github.com/BrainBob/CVE-2026-24061) | no description | 2026-01-24T15:11:28Z |
 | [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [midox008/CVE-2026-24061](https://github.com/midox008/CVE-2026-24061) | GNU Inetutils telnetd Remote Authentication Bypass | 2026-01-24T14:15:05Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [ms0x08-dev/CVE-2026-24061-POC](https://github.com/ms0x08-dev/CVE-2026-24061-POC) | no description | 2026-01-25T19:22:38Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [infat0x/CVE-2026-24061](https://github.com/infat0x/CVE-2026-24061) | CVE-2026-24061 PoC | 2026-01-25T10:40:00Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [duy-31/CVE-2026-24061---telnetd](https://github.com/duy-31/CVE-2026-24061---telnetd) | Bypass d’authentification Telnet menant à un accès root | 2026-01-22T10:38:31Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [typeconfused/CVE-2026-24061](https://github.com/typeconfused/CVE-2026-24061) | GNU telnetd service from GNU InetUtils authentication-bypass | 2026-01-25T07:33:48Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [Alter-N0X/CVE-2026-24061-POC](https://github.com/Alter-N0X/CVE-2026-24061-POC) | CVE-2026-24061 - GNU InetUtils telnetd authentication bypass POC + Docker lab environment for testing | 2026-01-24T23:21:56Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [Mr-Zapi/CVE-2026-24061](https://github.com/Mr-Zapi/CVE-2026-24061) | Nuclei template for CVE-2026-24061 | 2026-01-24T13:18:54Z |
+| [CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061) | [shivam-bathla/CVE-2026-24061-setup](https://github.com/shivam-bathla/CVE-2026-24061-setup) | Docker setup for CVE-2026-24061 | 2026-01-24T19:03:06Z |
 | [CVE-2026-2395](https://www.cve.org/CVERecord?id=CVE-2026-2395) | [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) | CVE-2026-2395: Tar race file collision | 2026-01-22T04:28:48Z |
 | [CVE-2026-23947](https://www.cve.org/CVERecord?id=CVE-2026-23947) | [boroeurnprach/CVE-2026-23947-PoC](https://github.com/boroeurnprach/CVE-2026-23947-PoC) | CVE-2026-23947 - Orval Arbitrary Code Execution | 2026-01-21T07:48:22Z |
 | [CVE-2026-23885](https://www.cve.org/CVERecord?id=CVE-2026-23885) | [TheDeepOpc/CVE-2026-23885](https://github.com/TheDeepOpc/CVE-2026-23885) | no description | 2026-01-20T09:44:29Z |
@@ -72,6 +79,7 @@ Last generated: 2026-02-20 03:43:42.701533
 | [CVE-2026-1208](https://www.cve.org/CVERecord?id=CVE-2026-1208) | [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208) | Friendly Functions for Welcart &lt;= 1.2.5 - Cross-Site Request Forgery to Settings Update | 2026-01-23T20:51:35Z |
 | [CVE-2026-1107](https://www.cve.org/CVERecord?id=CVE-2026-1107) | [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107) | A weakness has been identified in EyouCMS up to 1.7.1/5.0. Impacted is the function check_userinfo of the file Diyajax.php of the component Member Avatar Handler. Executing a manipulation of the argument viewfile can lead to unrestricted upload. The attack may be performed from remote. | 2026-01-18T03:30:08Z |
 | [CVE-2026-0920](https://www.cve.org/CVERecord?id=CVE-2026-0920) | [Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit](https://github.com/Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit) | no description | 2026-01-22T19:33:23Z |
+| [CVE-2026-0920](https://www.cve.org/CVERecord?id=CVE-2026-0920) | [O99099O/By-Poloss..-..CVE-2026-0920](https://github.com/O99099O/By-Poloss..-..CVE-2026-0920) | CVE-2026-0920 — Unauthenticated admin account creation in LA-Studio Element Kit for Elementor (≤ 1.5.6.3) via improper role validation in ajax_register_handle. | 2026-01-25T14:04:26Z |
 | [CVE-2026-0842](https://www.cve.org/CVERecord?id=CVE-2026-0842) | [davidrxchester/smart-sketcher-upload](https://github.com/davidrxchester/smart-sketcher-upload) | CVE-2026-0842 | 2026-01-01T21:07:07Z |
 | [CVE-2026-0834](https://www.cve.org/CVERecord?id=CVE-2026-0834) | [mattgsys/CVE-2026-0834](https://github.com/mattgsys/CVE-2026-0834) | Proof of Concept (PoC) for the TP-Link Device Debug Protocol (TDDP) Authentication Bypass (CVE-2026-0834) | 2026-01-12T21:01:13Z |
 | [CVE-2026-0828](https://www.cve.org/CVERecord?id=CVE-2026-0828) | [KOSEC-LLC/BYOVD-Research](https://github.com/KOSEC-LLC/BYOVD-Research) | BYOVD research performed by KOSEC. Includes vulnerable drivers and writeups (CVE-2026-0828). | 2025-10-15T02:11:59Z |
@@ -13379,3 +13387,5 @@ Last generated: 2026-02-20 03:43:42.701533
 | CVE NOT FOUND | [Arshad-mk/High-Risk-Web-CVEs-Sep-Nov-2025](https://github.com/Arshad-mk/High-Risk-Web-CVEs-Sep-Nov-2025) | no description | 2026-02-01T11:09:09Z |
 | CVE NOT FOUND | [NiceTop1027/CVE-2026-Termius](https://github.com/NiceTop1027/CVE-2026-Termius) | no description | 2026-01-24T16:07:16Z |
 | CVE NOT FOUND | [Josekutty-K/f5-Big-IP-Unauth-RCE-Checker](https://github.com/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker) | To test my skills i was creating python scripts to test f5 big ip unauthenticated remote code vulnerability CVE 2020–5902, CVE 2022–1388 | 2025-06-09T12:14:02Z |
+| CVE NOT FOUND | [NiceTop1027/CVE-2026-Apple-V2](https://github.com/NiceTop1027/CVE-2026-Apple-V2) | no description | 2026-01-25T03:40:10Z |
+| CVE NOT FOUND | [NiceTop1027/CVE-2026-Discord](https://github.com/NiceTop1027/CVE-2026-Discord) | no description | 2026-01-25T02:51:34Z |
