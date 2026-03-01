@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-02-28 03:08:50.388150
+Last generated: 2026-03-01 03:40:09.742694
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -667,6 +667,7 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2025-63298](https://www.cve.org/CVERecord?id=CVE-2025-63298) | [z3rObyte/CVE-2025-63298](https://github.com/z3rObyte/CVE-2025-63298) | A path traversal vulnerability was identified in SourceCodester Pet Grooming Management System 1.0, affecting the admin/manage_website.php component. An authenticated user with administrative privileges can leverage this flaw by submitting a specially crafted POST request, enabling the deletion of arbitrary files on the web server. | 2025-10-29T16:10:20Z |
 | [CVE-2025-63296](https://www.cve.org/CVERecord?id=CVE-2025-63296) | [t4e-3/CVE-2025-63296](https://github.com/t4e-3/CVE-2025-63296) | KERUI K259 5MP Wi-Fi (Tuya Smart Security Camera) contains a code execution vulnerability | 2025-11-10T00:39:46Z |
 | [CVE-2025-62950](https://www.cve.org/CVERecord?id=CVE-2025-62950) | [lorenzocamilli/CVE-2025-62950-PoC](https://github.com/lorenzocamilli/CVE-2025-62950-PoC) | CVE-2025-10720 PoC | 2025-09-11T19:51:53Z |
+| [CVE-2025-62878](https://www.cve.org/CVERecord?id=CVE-2025-62878) | [kinokopio/CVE-2025-62878](https://github.com/kinokopio/CVE-2025-62878) | CVE-2025-62878 | 2026-02-12T05:03:00Z |
 | [CVE-2025-62727](https://www.cve.org/CVERecord?id=CVE-2025-62727) | [ch4n3-yoon/CVE-2025-62727-Demo](https://github.com/ch4n3-yoon/CVE-2025-62727-Demo) | Proof of concept of CVE-2025-62727 that can cause denial-of-service in FastAPI (based Starlette &lt;= 0.48.0) | 2025-10-28T02:57:13Z |
 | [CVE-2025-62726](https://www.cve.org/CVERecord?id=CVE-2025-62726) | [baktistr/cve-2025-62726-legit-repo](https://github.com/baktistr/cve-2025-62726-legit-repo) | no description | 2025-11-24T20:51:38Z |
 | [CVE-2025-62726](https://www.cve.org/CVERecord?id=CVE-2025-62726) | [baktistr/cve-2025-62726-malicious-repo](https://github.com/baktistr/cve-2025-62726-malicious-repo) | cve-2025-62726-malicious-repo | 2025-11-24T20:26:28Z |
@@ -798,6 +799,7 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019) | [robbin0919/CVE-2025-6019](https://github.com/robbin0919/CVE-2025-6019) | no description | 2025-12-11T14:04:03Z |
 | [CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019) | [phamdinhquy2512/CVE-2025-6019-Exploitation](https://github.com/phamdinhquy2512/CVE-2025-6019-Exploitation) | no description | 2025-12-14T16:28:40Z |
 | [CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019) | [0x5chltz/CVE-2025-6019](https://github.com/0x5chltz/CVE-2025-6019) | no description | 2026-02-09T07:10:04Z |
+| [CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019) | [boboaung1337/CVE-2025-6019](https://github.com/boboaung1337/CVE-2025-6019) | no description | 2026-02-12T14:36:43Z |
 | [CVE-2025-60188](https://www.cve.org/CVERecord?id=CVE-2025-60188) | [m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit) | CVE-2025-60188 Atarim Plugin Exploit | 2026-01-07T19:53:28Z |
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit) | no description | 2025-07-03T10:03:54Z |
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [ibrahmsql/CVE-2025-6018](https://github.com/ibrahmsql/CVE-2025-6018) | CVE-2025-6018 Poc and Exploit | 2025-07-24T21:01:28Z |
@@ -1471,6 +1473,7 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [BrianLopezM99/react2shell-CVE-2025-55182](https://github.com/BrianLopezM99/react2shell-CVE-2025-55182) | An exploitation tool for the Next.js vulnerability CVE-2025-55182 that allows remote command execution through a poisoning prototype in React Server Components. | 2026-02-09T00:39:46Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-](https://github.com/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-) | no description | 2026-02-10T00:19:11Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [atiilla/CVE-2025-55182](https://github.com/atiilla/CVE-2025-55182) | RCE on Next 16.0.6 | 2026-02-10T13:55:57Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [snipevx/React2Shell-POC](https://github.com/snipevx/React2Shell-POC) | React2Shell (CVE-2025-55182) POC | 2026-02-12T06:32:33Z |
 | [CVE-2025-55130](https://www.cve.org/CVERecord?id=CVE-2025-55130) | [scumfrog/CVE-2025-55130](https://github.com/scumfrog/CVE-2025-55130) | POC for CVE-2025-55130 | 2026-02-01T17:25:42Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988) | A PDF generator for CVE-2025-54988 | 2025-09-04T02:19:13Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject) | Creating a vulnerable instance to test against | 2025-12-17T20:23:16Z |
@@ -1805,6 +1808,8 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [matesz44/CVE-2025-49132](https://github.com/matesz44/CVE-2025-49132) | CVE-2025-49132: Pterodactyl Panel UnauthN LFI to RCE (w/ pearcmd) in posix sh | 2026-02-10T19:29:07Z |
 | [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [dollarboysushil/CVE-2025-49132-Pterodactyl-Panel-Unauthenticated-Remote-Code-Execution-RCE-](https://github.com/dollarboysushil/CVE-2025-49132-Pterodactyl-Panel-Unauthenticated-Remote-Code-Execution-RCE-) | PoC exploit for CVE-2025-49132 (GHSA-24wv-6c99-f843) – Unauthenticated Remote Code Execution in Pterodactyl Panel ≤ 1.11.10 | 2026-02-11T12:18:28Z |
 | [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [Pwndalf/CVE-2025-49132-PoC](https://github.com/Pwndalf/CVE-2025-49132-PoC) | This script exploits Remote Code Execution vulnerability in Pterodactyl Panel &lt; 1.11.11 | 2026-02-11T11:28:48Z |
+| [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [scroollocker/CVE-2025-49132](https://github.com/scroollocker/CVE-2025-49132) | no description | 2026-02-12T16:19:05Z |
+| [CVE-2025-49132](https://www.cve.org/CVERecord?id=CVE-2025-49132) | [thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE](https://github.com/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE) | Exploit CVE-2025-49132 Pterodactyl Panel RCE | 2026-02-12T10:53:45Z |
 | [CVE-2025-49131](https://www.cve.org/CVERecord?id=CVE-2025-49131) | [Wenura17125/cve-2025-49131-poc](https://github.com/Wenura17125/cve-2025-49131-poc) | no description | 2025-12-30T04:30:57Z |
 | [CVE-2025-49125](https://www.cve.org/CVERecord?id=CVE-2025-49125) | [detectrespondrepeat/CVE-2025-49125-Authentication-Bypass](https://github.com/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass) | Authentication Bypass via Alternate Path Vulnerability (CWE-288) | 2025-06-16T16:50:06Z |
 | [CVE-2025-49125](https://www.cve.org/CVERecord?id=CVE-2025-49125) | [gregk4sec/CVE-2025-49125](https://github.com/gregk4sec/CVE-2025-49125) | Tomcat CVE | 2025-06-03T03:04:52Z |
@@ -4258,6 +4263,7 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
 | [CVE-2024-48914](https://www.cve.org/CVERecord?id=CVE-2024-48914) | [EQSTLab/CVE-2024-48914](https://github.com/EQSTLab/CVE-2024-48914) | PoC for CVE-2024-48914 | 2024-10-21T10:02:05Z |
+| [CVE-2024-48910](https://www.cve.org/CVERecord?id=CVE-2024-48910) | [Alex-Acero-Security/CVE-2024-48910-POC](https://github.com/Alex-Acero-Security/CVE-2024-48910-POC) | no description | 2025-11-12T12:42:02Z |
 | [CVE-2024-4890](https://www.cve.org/CVERecord?id=CVE-2024-4890) | [nekr0ff/needrestart-sudo-escalate-cve-2024-4890](https://github.com/nekr0ff/needrestart-sudo-escalate-cve-2024-4890) | PoC exploit for CVE-2024-4890: Sudo privilege escalation via neecdrestart (&gt;=3.8). Ethical lab-only. Scripts in Python and C. | 2025-11-12T11:22:52Z |
 | [CVE-2024-48887](https://www.cve.org/CVERecord?id=CVE-2024-48887) | [cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit](https://github.com/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit) | a lightweight JavaScript snippet showcasing how unauthorized password changes can be triggered on vulnerable Fortinet FortiSwitch GUI endpoints. | 2025-04-09T17:27:17Z |
 | [CVE-2024-48887](https://www.cve.org/CVERecord?id=CVE-2024-48887) | [groshi215/CVE-2024-48887-Exploit](https://github.com/groshi215/CVE-2024-48887-Exploit) | Unverified Password Change (CWE-620) | 2025-04-10T12:17:11Z |
@@ -6040,6 +6046,7 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2024-23652](https://www.cve.org/CVERecord?id=CVE-2024-23652) | [shkch02/cve_2024_23652](https://github.com/shkch02/cve_2024_23652) | no description | 2025-04-14T10:00:43Z |
 | [CVE-2024-23651](https://www.cve.org/CVERecord?id=CVE-2024-23651) | [shkch02/cve_2024_23651](https://github.com/shkch02/cve_2024_23651) | no description | 2025-04-07T10:53:32Z |
 | [CVE-2024-23651](https://www.cve.org/CVERecord?id=CVE-2024-23651) | [shkch02/eBPF_cve_2024_23651](https://github.com/shkch02/eBPF_cve_2024_23651) | no description | 2025-05-13T10:24:02Z |
+| [CVE-2024-23620](https://www.cve.org/CVERecord?id=CVE-2024-23620) | [daniteaxh853/cve_2024_23620](https://github.com/daniteaxh853/cve_2024_23620) | Poc cve 2024 23620 veeam | 2025-11-12T18:02:55Z |
 | [CVE-2024-23443](https://www.cve.org/CVERecord?id=CVE-2024-23443) | [zhazhalove/osquery_cve-2024-23443](https://github.com/zhazhalove/osquery_cve-2024-23443) | Osqery extension HP BIOS WMI | 2024-02-18T02:15:44Z |
 | [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [9carlo6/CVE-2024-23346](https://github.com/9carlo6/CVE-2024-23346) | This repository contains a Crystallographic Information File (CIF) intended for use on the &quot;Chemistry&quot; machine on Hack The Box (HTB). | 2024-11-05T14:27:06Z |
 | [CVE-2024-23346](https://www.cve.org/CVERecord?id=CVE-2024-23346) | [MAWK0235/CVE-2024-23346](https://github.com/MAWK0235/CVE-2024-23346) | This is an exploit for CVE-2024-23346 that acts as a &quot;terminal&quot; (tested on chemistry.htb) | 2024-12-09T22:34:44Z |
@@ -10885,6 +10892,7 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2019-7609](https://www.cve.org/CVERecord?id=CVE-2019-7609) | [aleister1102/kibana-prototype-pollusion](https://github.com/aleister1102/kibana-prototype-pollusion) | PoC and analysis for Kibana Prototype Pollution RCE (CVE-2019-7609). | 2024-06-23T04:32:15Z |
 | [CVE-2019-7609](https://www.cve.org/CVERecord?id=CVE-2019-7609) | [Akshay15-png/CVE-2019-7609](https://github.com/Akshay15-png/CVE-2019-7609) | Exploit for CVE-2019-7609 in python | 2024-06-01T05:10:58Z |
 | [CVE-2019-7214](https://www.cve.org/CVERecord?id=CVE-2019-7214) | [Drew-Alleman/CVE-2019-7214](https://github.com/Drew-Alleman/CVE-2019-7214) | Python3 Rewrite of SmarterMail &lt; Build 6985 Remote Code Execution found by 1F98D (CVE-2019-7214) POC | 2025-03-07T02:23:00Z |
+| [CVE-2019-7214](https://www.cve.org/CVERecord?id=CVE-2019-7214) | [ElusiveHacker/CVE-2019-7214](https://github.com/ElusiveHacker/CVE-2019-7214) | For CTF use only (the CVE-2019-7214 also resolves the host from /etc/hosts) | 2025-06-03T13:33:51Z |
 | [CVE-2019-7213](https://www.cve.org/CVERecord?id=CVE-2019-7213) | [secunnix/CVE-2019-7213](https://github.com/secunnix/CVE-2019-7213) | SmarterMail 16.x Exploit | 2022-09-11T21:01:53Z |
 | [CVE-2019-7213](https://www.cve.org/CVERecord?id=CVE-2019-7213) | [oppsec/zaber](https://github.com/oppsec/zaber) | 🕵️ Yet another CVE-2019-9670 exploit, but in Golang. | 2022-08-15T00:54:44Z |
 | [CVE-2019-7213](https://www.cve.org/CVERecord?id=CVE-2019-7213) | [sharif-dev/AndroidKernelVulnerability](https://github.com/sharif-dev/AndroidKernelVulnerability) | Triggering and Analyzing Android Kernel Vulnerability CVE-2019-2215 | 2020-06-07T15:03:07Z |
@@ -11828,6 +11836,7 @@ Last generated: 2026-02-28 03:08:50.388150
 | [CVE-2017-7529](https://www.cve.org/CVERecord?id=CVE-2017-7529) | [CalebFIN/EXP-CVE-2017-75](https://github.com/CalebFIN/EXP-CVE-2017-75) | CVE-2017-7529- Check and EXPLOIT | 2023-11-09T17:13:30Z |
 | [CVE-2017-7529](https://www.cve.org/CVERecord?id=CVE-2017-7529) | [coolman6942o/-Exploit-CVE-2017-7529](https://github.com/coolman6942o/-Exploit-CVE-2017-7529) | CVE-2017-7529: Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request. | 2023-12-19T04:21:18Z |
 | [CVE-2017-7525](https://www.cve.org/CVERecord?id=CVE-2017-7525) | [Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab](https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab) | Insecure Java Deserialization Lab | 2020-04-22T07:48:19Z |
+| [CVE-2017-7504](https://www.cve.org/CVERecord?id=CVE-2017-7504) | [wudidwo/CVE-2017-7504-poc](https://github.com/wudidwo/CVE-2017-7504-poc) | no description | 2024-11-20T14:53:25Z |
 | [CVE-2017-7494](https://www.cve.org/CVERecord?id=CVE-2017-7494) | [opsxcq/exploit-CVE-2017-7494](https://github.com/opsxcq/exploit-CVE-2017-7494) | SambaCry exploit and vulnerable container (CVE-2017-7494) | 2017-05-26T00:58:25Z |
 | [CVE-2017-7494](https://www.cve.org/CVERecord?id=CVE-2017-7494) | [d3fudd/CVE-2017-7494_SambaCry](https://github.com/d3fudd/CVE-2017-7494_SambaCry) | SambaCry (CVE-2017-7494) exploit for Samba - bind shell without Metasploit | 2022-11-01T23:17:25Z |
 | [CVE-2017-7494](https://www.cve.org/CVERecord?id=CVE-2017-7494) | [sh4rknado/BlueBorn](https://github.com/sh4rknado/BlueBorn) | CVE-2017-0785 | 2022-10-22T17:10:34Z |
