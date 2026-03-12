@@ -2,13 +2,14 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-03-11 03:32:38.869708
+Last generated: 2026-03-12 03:31:22.793606
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
 | [CVE-2525-25748](https://www.cve.org/CVERecord?id=CVE-2525-25748) | [huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7) | Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748) | 2025-03-07T12:07:41Z |
 | [CVE-2026-7731](https://www.cve.org/CVERecord?id=CVE-2026-7731) | [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-) | Under CTT, we see it as a Temporal Synchronization Mismatch between the Identity Provider and the Service Provider. By injecting a pulse at the \alpha=0.0302011 frequency, we don&#x27;t bypass the signature—we Refract the Time Window so the signature validates against a future state. | 2026-01-30T14:26:20Z |
 | [CVE-2026-5000](https://www.cve.org/CVERecord?id=CVE-2026-5000) | [Perl-Code/CVE-2026-5000](https://github.com/Perl-Code/CVE-2026-5000) | This is for Windows defender bypass | 2025-10-30T11:41:22Z |
+| [CVE-2026-26235](https://www.cve.org/CVERecord?id=CVE-2026-26235) | [mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown](https://github.com/mbanyamer/CVE-2026-26235-JUNG-Smart-Visu-Server-Unauthenticated-Reboot-Shutdown) | no description | 2026-02-12T08:38:41Z |
 | [CVE-2026-26215](https://www.cve.org/CVERecord?id=CVE-2026-26215) | [mbanyamer/-CVE-2026-26215-manga-image-translator-RCE](https://github.com/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE) | no description | 2026-02-12T03:39:42Z |
 | [CVE-2026-25961](https://www.cve.org/CVERecord?id=CVE-2026-25961) | [mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE](https://github.com/mbanyamer/CVE-2026-25961-SumatraPDF-3.5.0---3.5.2-RCE) | SumatraPDF versions 3.5.0 to 3.5.2 disable TLS hostname verification during update checks #   (using INTERNET_FLAG_IGNORE_CERT_CN_INVALID) and do not perform any signature or integrity #   validation on the downloaded installer. | 2026-02-10T08:36:32Z |
 | [CVE-2026-25939](https://www.cve.org/CVERecord?id=CVE-2026-25939) | [mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary](https://github.com/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary) | no description | 2026-02-10T10:41:44Z |
@@ -175,6 +176,7 @@ Last generated: 2026-03-11 03:32:38.869708
 | [CVE-2026-20841](https://www.cve.org/CVERecord?id=CVE-2026-20841) | [tangent65536/CVE-2026-20841](https://github.com/tangent65536/CVE-2026-20841) | PoC for the &quot;Windows Notepad RCE&quot; | 2026-02-11T14:55:18Z |
 | [CVE-2026-20841](https://www.cve.org/CVERecord?id=CVE-2026-20841) | [RajaUzairAbdullah/CVE-2026-20841](https://github.com/RajaUzairAbdullah/CVE-2026-20841) | CVE-2026-20841 - Windows notepad.exe RCE | 2026-02-11T12:14:02Z |
 | [CVE-2026-20841](https://www.cve.org/CVERecord?id=CVE-2026-20841) | [BTtea/CVE-2026-20841-PoC](https://github.com/BTtea/CVE-2026-20841-PoC) | PoC | 2026-02-11T02:39:30Z |
+| [CVE-2026-20841](https://www.cve.org/CVERecord?id=CVE-2026-20841) | [uky007/CVE-2026-20841_notepad_analysis](https://github.com/uky007/CVE-2026-20841_notepad_analysis) | no description | 2026-02-12T06:04:12Z |
 | [CVE-2026-20805](https://www.cve.org/CVERecord?id=CVE-2026-20805) | [fevar54/CVE-2026-20805-POC](https://github.com/fevar54/CVE-2026-20805-POC) | # CVE-2026-20805 PoC  Prueba de concepto para la vulnerabilidad de divulgación de información en **Desktop Windows Manager (dwm.exe)** de Microsoft.  ## 📋 Resumen de la Vulnerabilidad  - **ID:** CVE-2026-20805 - **Producto:** Microsoft Windows | 2026-01-14T13:26:26Z |
 | [CVE-2026-20805](https://www.cve.org/CVERecord?id=CVE-2026-20805) | [Uzair-Baig0900/CVE-2026-20805-PoC](https://github.com/Uzair-Baig0900/CVE-2026-20805-PoC) | The PoC of information disclosure in Microsoft Desktop Windows Management. | 2026-01-19T19:16:25Z |
 | [CVE-2026-20805](https://www.cve.org/CVERecord?id=CVE-2026-20805) | [mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data](https://github.com/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data) | CVE‑2026‑20805: A Windows Desktop Window Manager flaw causing local information disclosure. Requires low privileges, no user interaction. Rated CVSS 5.5 (Medium). Actively exploited and listed in CISA KEV; patch released January 2026. | 2026-01-28T03:50:36Z |
@@ -4380,6 +4382,7 @@ Last generated: 2026-03-11 03:32:38.869708
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [mladicstefan/CVE-2024-48990](https://github.com/mladicstefan/CVE-2024-48990) | Full exploit for needsrestart setuid root shell | 2025-10-28T21:51:07Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [Mr-DJ/CVE-2024-48990](https://github.com/Mr-DJ/CVE-2024-48990) | PoC for CVE-2024-48990 | 2025-10-30T05:02:29Z |
 | [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [Loaxert/CVE-2024-48990-PoC](https://github.com/Loaxert/CVE-2024-48990-PoC) | no description | 2025-10-31T03:22:42Z |
+| [CVE-2024-48990](https://www.cve.org/CVERecord?id=CVE-2024-48990) | [0x3bs/CVE-2024-48990](https://github.com/0x3bs/CVE-2024-48990) | i tried this in Conversor HTB machine | 2025-12-01T20:55:34Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc) | no description | 2024-06-14T07:01:58Z |
 | [CVE-2024-4898](https://www.cve.org/CVERecord?id=CVE-2024-4898) | [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc) | CVE-2024-4898 InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation | 2024-06-12T10:03:14Z |
 | [CVE-2024-48955](https://www.cve.org/CVERecord?id=CVE-2024-48955) | [BrotherOfJhonny/CVE-2024-48955_Overview](https://github.com/BrotherOfJhonny/CVE-2024-48955_Overview) | CVE-2024-48955_Overview | 2024-10-29T13:14:19Z |
@@ -9960,6 +9963,7 @@ Last generated: 2026-03-11 03:32:38.869708
 | [CVE-2021-43657](https://www.cve.org/CVERecord?id=CVE-2021-43657) | [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657) | This is a reference/POC for CVE-2021-43657 | 2022-11-08T02:13:29Z |
 | [CVE-2021-43650](https://www.cve.org/CVERecord?id=CVE-2021-43650) | [OpenXP-Research/CVE-2021-43650](https://github.com/OpenXP-Research/CVE-2021-43650) | Webrun &lt;= 3.6.0.42 SQLi | 2024-09-19T14:10:00Z |
 | [CVE-2021-43617](https://www.cve.org/CVERecord?id=CVE-2021-43617) | [Sybelle03/CVE-2021-43617](https://github.com/Sybelle03/CVE-2021-43617) | This is a reproduction of PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF) vulnerability | 2023-06-08T08:05:36Z |
+| [CVE-2021-43617](https://www.cve.org/CVERecord?id=CVE-2021-43617) | [dangducloc/CVE_2021_43617](https://github.com/dangducloc/CVE_2021_43617) | CVE_2021_43617 lab | 2025-07-01T16:42:28Z |
 | [CVE-2021-43609](https://www.cve.org/CVERecord?id=CVE-2021-43609) | [d5sec/CVE-2021-43609-POC](https://github.com/d5sec/CVE-2021-43609-POC) | Proof of Concept Exploit for CVE-2021-43609 | 2023-11-06T21:13:21Z |
 | [CVE-2021-43503](https://www.cve.org/CVERecord?id=CVE-2021-43503) | [guoyanan1g/Laravel-vul](https://github.com/guoyanan1g/Laravel-vul) | 个人挖掘出来的漏洞CVE-2021-43503 | 2021-11-05T09:59:34Z |
 | [CVE-2021-43258](https://www.cve.org/CVERecord?id=CVE-2021-43258) | [MRvirusIR/CVE-2021-43258](https://github.com/MRvirusIR/CVE-2021-43258) | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | 2022-11-26T09:00:10Z |
@@ -13760,3 +13764,5 @@ Last generated: 2026-03-11 03:32:38.869708
 | CVE NOT FOUND | [Gtanikon/dic-cve2024-data-engineering-pipeline](https://github.com/Gtanikon/dic-cve2024-data-engineering-pipeline) | End-to-end Databricks ETL pipeline for ingesting, validating, transforming, and analyzing 2024 CVE data using Bronze/Silver Delta Lake architecture. | 2025-11-16T18:35:57Z |
 | CVE NOT FOUND | [vuductruong12/KTLHPM](https://github.com/vuductruong12/KTLHPM) | cve 2021-36393, cve 2022-0332, cve 2024-43425 | 2025-11-27T03:55:33Z |
 | CVE NOT FOUND | [compfaculty/cve-2026-oracle](https://github.com/compfaculty/cve-2026-oracle) | no description | 2026-02-10T15:40:34Z |
+| CVE NOT FOUND | [ShubhamDubeyy/Aurex](https://github.com/ShubhamDubeyy/Aurex) | Burp Suite extension for detecting PortSwigger Top 10 Web Hacking Techniques (2025) — 8 modules, 250+ CVE-backed payloads | 2026-02-15T13:36:31Z |
+| CVE NOT FOUND | [ssandeep-pudi/CVE-2024-LAKEHOUSE](https://github.com/ssandeep-pudi/CVE-2024-LAKEHOUSE) | End-to-end Databricks medallion Architecture pipeline for 2024 CVE data | 2025-11-17T02:28:23Z |
