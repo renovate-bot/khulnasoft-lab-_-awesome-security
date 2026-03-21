@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-03-20 03:29:24.728565
+Last generated: 2026-03-21 03:22:16.493790
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -12,8 +12,11 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2026-5000](https://www.cve.org/CVERecord?id=CVE-2026-5000) | [Perl-Code/CVE-2026-5000](https://github.com/Perl-Code/CVE-2026-5000) | This is for Windows defender bypass | 2025-10-30T11:41:22Z |
 | [CVE-2026-4821](https://www.cve.org/CVERecord?id=CVE-2026-4821) | [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821) | AIエージェントCVE修復 + OpenExecutionプロベナンス | 2026-02-20T10:26:32Z |
 | [CVE-2026-3098](https://www.cve.org/CVERecord?id=CVE-2026-3098) | [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098) | Report | 2026-02-16T20:57:08Z |
+| [CVE-2026-2898](https://www.cve.org/CVERecord?id=CVE-2026-2898) | [aykhan32/CVE-2026-2898-FunAdmin-Deserialization](https://github.com/aykhan32/CVE-2026-2898-FunAdmin-Deserialization) | no description | 2026-02-24T06:12:18Z |
 | [CVE-2026-2848](https://www.cve.org/CVERecord?id=CVE-2026-2848) | [richardpaimu34/CVE-2026-2848](https://github.com/richardpaimu34/CVE-2026-2848) | no description | 2026-02-21T15:58:08Z |
+| [CVE-2026-27579](https://www.cve.org/CVERecord?id=CVE-2026-27579) | [mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration](https://github.com/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration) | no description | 2026-02-22T20:46:03Z |
 | [CVE-2026-27574](https://www.cve.org/CVERecord?id=CVE-2026-27574) | [mbanyamer/CVE-2026-27574-OneUptime-RCE](https://github.com/mbanyamer/CVE-2026-27574-OneUptime-RCE) | no description | 2026-02-21T16:06:04Z |
+| [CVE-2026-27470](https://www.cve.org/CVERecord?id=CVE-2026-27470) | [kocaemre/CVE-2026-27470](https://github.com/kocaemre/CVE-2026-27470) | ZoneMinder Second-Order SQL Injection PoC — CVE-2026-27470 | 2026-02-21T17:05:22Z |
 | [CVE-2026-27199](https://www.cve.org/CVERecord?id=CVE-2026-27199) | [alimezar/CVE-2026-27199-werkzeug-safe-join-bypass-PoC](https://github.com/alimezar/CVE-2026-27199-werkzeug-safe-join-bypass-PoC) | no description | 2026-02-20T09:24:33Z |
 | [CVE-2026-27180](https://www.cve.org/CVERecord?id=CVE-2026-27180) | [mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE) | no description | 2026-02-19T16:10:49Z |
 | [CVE-2026-26988](https://www.cve.org/CVERecord?id=CVE-2026-26988) | [mbanyamer/CVE-2026-26988-LibreNMS-SQLi](https://github.com/mbanyamer/CVE-2026-26988-LibreNMS-SQLi) | no description | 2026-02-20T11:55:53Z |
@@ -37,6 +40,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2026-25857](https://www.cve.org/CVERecord?id=CVE-2026-25857) | [eeeeeeeeeevan/CVE-2026-25857](https://github.com/eeeeeeeeeevan/CVE-2026-25857) | no description | 2026-02-12T19:30:10Z |
 | [CVE-2026-25854](https://www.cve.org/CVERecord?id=CVE-2026-25854) | [gregk4sec/CVE-2026-25854](https://github.com/gregk4sec/CVE-2026-25854) | Released by original Author | 2026-02-07T07:06:59Z |
 | [CVE-2026-25807](https://www.cve.org/CVERecord?id=CVE-2026-25807) | [ibrahmsql/CVE-2026-25807-Exploit](https://github.com/ibrahmsql/CVE-2026-25807-Exploit) | CVE-2026-25807  Unauthenticated Remote Code Execution via P2P Sharing in ZAI-Shell Exploit and PoC | 2026-02-10T02:54:13Z |
+| [CVE-2026-25755](https://www.cve.org/CVERecord?id=CVE-2026-25755) | [absholi7ly/jsPDF-Object-Injection](https://github.com/absholi7ly/jsPDF-Object-Injection) | CVE-2026-25755 A critical PDF Object Injection vulnerability in jsPDF allows attackers to inject arbitrary PDF objects through the addJS() function, enabling AcroJS sandbox bypass and automatic script execution when PDFs are opened. | 2026-02-24T08:18:41Z |
 | [CVE-2026-25747](https://www.cve.org/CVERecord?id=CVE-2026-25747) | [oscerd/CVE-2026-25747](https://github.com/oscerd/CVE-2026-25747) | CVE-2026-25747 - Camel LevelDB Deserialization Vulnerability | 2026-02-09T09:37:26Z |
 | [CVE-2026-25732](https://www.cve.org/CVERecord?id=CVE-2026-25732) | [mbanyamer/CVE-2026-25732-NiceGUI-3.6.1](https://github.com/mbanyamer/CVE-2026-25732-NiceGUI-3.6.1) | no description | 2026-02-08T10:18:51Z |
 | [CVE-2026-25731](https://www.cve.org/CVERecord?id=CVE-2026-25731) | [dxlerYT/CVE-2026-25731](https://github.com/dxlerYT/CVE-2026-25731) | Proof of Concept for a Server-Side Template Injection (SSTI) vulnerability in Calibre’s Templite engine (GHSA-xrh9-w7qx-3gcc). Demonstrates arbitrary Python code execution via user-supplied HTML export templates in affected versions (≤ 9.1.0). | 2026-02-06T11:14:08Z |
@@ -72,6 +76,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2026-2441](https://www.cve.org/CVERecord?id=CVE-2026-2441) | [b1gchoi/CVE-2026-2441_POC](https://github.com/b1gchoi/CVE-2026-2441_POC) | no description | 2026-02-16T09:46:14Z |
 | [CVE-2026-2441](https://www.cve.org/CVERecord?id=CVE-2026-2441) | [huseyinstif/CVE-2026-2441-PoC](https://github.com/huseyinstif/CVE-2026-2441-PoC) | no description | 2026-02-18T11:46:40Z |
 | [CVE-2026-2441](https://www.cve.org/CVERecord?id=CVE-2026-2441) | [theemperorspath/CVE-2026-2441-PoC](https://github.com/theemperorspath/CVE-2026-2441-PoC) | no description | 2026-02-19T23:48:33Z |
+| [CVE-2026-2441](https://www.cve.org/CVERecord?id=CVE-2026-2441) | [atiilla/CVE-2026-2441_PoC](https://github.com/atiilla/CVE-2026-2441_PoC) | no description | 2026-02-23T08:43:16Z |
 | [CVE-2026-24306](https://www.cve.org/CVERecord?id=CVE-2026-24306) | [ExploreUnknowed/CVE-2026-24306](https://github.com/ExploreUnknowed/CVE-2026-24306) | no description | 2026-01-27T13:45:40Z |
 | [CVE-2026-24135](https://www.cve.org/CVERecord?id=CVE-2026-24135) | [reschjonas/CVE-2026-24135](https://github.com/reschjonas/CVE-2026-24135) | Arbitrary File Deletion in Gogs via Wiki Path Traversal | 2026-02-06T15:57:03Z |
 | [CVE-2026-24134](https://www.cve.org/CVERecord?id=CVE-2026-24134) | [FilipeGaudard/CVE-2026-24134-PoC](https://github.com/FilipeGaudard/CVE-2026-24134-PoC) | no description | 2026-01-29T21:03:34Z |
@@ -186,6 +191,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2026-21858](https://www.cve.org/CVERecord?id=CVE-2026-21858) | [sastraadiwiguna-purpleeliteteaming/SASTRA-ADI-WIGUNA-CVE-2026-21858-Holistic-Audit](https://github.com/sastraadiwiguna-purpleeliteteaming/SASTRA-ADI-WIGUNA-CVE-2026-21858-Holistic-Audit) | SASTRA-ADI-WIGUNA-CVE-2026-21858-Holistic-Audit | 2026-01-17T04:57:53Z |
 | [CVE-2026-21858](https://www.cve.org/CVERecord?id=CVE-2026-21858) | [Alhakim88/CVE-2026-21858](https://github.com/Alhakim88/CVE-2026-21858) | Hack | 2026-01-30T22:38:06Z |
 | [CVE-2026-21858](https://www.cve.org/CVERecord?id=CVE-2026-21858) | [EQSTLab/CVE-2026-21858](https://github.com/EQSTLab/CVE-2026-21858) | no description | 2026-02-11T01:01:03Z |
+| [CVE-2026-21858](https://www.cve.org/CVERecord?id=CVE-2026-21858) | [bamov970/CVE-2026-21858](https://github.com/bamov970/CVE-2026-21858) | no description | 2026-02-24T05:04:15Z |
 | [CVE-2026-21721](https://www.cve.org/CVERecord?id=CVE-2026-21721) | [Leonideath/Exploit-LPE-CVE-2026-21721](https://github.com/Leonideath/Exploit-LPE-CVE-2026-21721) | Эксплоит на CVE-2026-21721 | 2026-02-03T13:01:28Z |
 | [CVE-2026-21533](https://www.cve.org/CVERecord?id=CVE-2026-21533) | [Pairs34/RDPVulnarableCheck](https://github.com/Pairs34/RDPVulnarableCheck) | CVE-2026-21533 Zaafiyet tarama aracı | 2026-02-11T12:58:00Z |
 | [CVE-2026-21533](https://www.cve.org/CVERecord?id=CVE-2026-21533) | [jenniferreire26/CVE-2026-21533](https://github.com/jenniferreire26/CVE-2026-21533) | no description | 2026-02-14T19:37:13Z |
@@ -979,6 +985,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [localh0ste/CVE-2025-6018-and-CVE-2025-6019](https://github.com/localh0ste/CVE-2025-6018-and-CVE-2025-6019) | Vulnerability chaining leads to privilege escalation | 2026-02-13T14:09:16Z |
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [MaxKappa/opensuse-leap-privesc-exploit](https://github.com/MaxKappa/opensuse-leap-privesc-exploit) | Privilege escalation exploit chain (CVE-2025-6018 + CVE-2025-6019) for openSUSE Leap 15.6 | 2026-02-14T18:00:01Z |
 | [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit](https://github.com/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit) | no description | 2026-02-22T14:43:56Z |
+| [CVE-2025-6018](https://www.cve.org/CVERecord?id=CVE-2025-6018) | [e1arth/CVE-2025-6018](https://github.com/e1arth/CVE-2025-6018) | no description | 2026-03-02T06:34:10Z |
 | [CVE-2025-60021](https://www.cve.org/CVERecord?id=CVE-2025-60021) | [ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection](https://github.com/ninjazan420/CVE-2025-60021-PoC-Apache-bRPC-Heap-Profiler-Command-Injection) | CVE-2025-60021 PoC: Apache bRPC Heap Profiler Command Injection | 2026-01-19T14:51:52Z |
 | [CVE-2025-60021](https://www.cve.org/CVERecord?id=CVE-2025-60021) | [Mefhika120/Ashwesker-CVE-2025-60021](https://github.com/Mefhika120/Ashwesker-CVE-2025-60021) | CVE-2025-60021 | 2026-01-25T08:53:04Z |
 | [CVE-2025-60013](https://www.cve.org/CVERecord?id=CVE-2025-60013) | [demining/Scalar-Venom-Attack](https://github.com/demining/Scalar-Venom-Attack) | Scalar Venom Attack: A critical HSM initialization vulnerability (CVE-2025-60013) enables private Bitcoin wallet key recovery through buffer overflow exploitation and shell metacharacters in the F5OS-A FIPS security module | 2025-11-17T02:12:59Z |
@@ -1097,6 +1104,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [ndr-repo/CVE-2025-5777](https://github.com/ndr-repo/CVE-2025-5777) | Exploit for CVE-2025-5777: Citrix NetScaler Memory Disclosure (CitrixBleed 2) | 2025-08-20T10:51:13Z |
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [mr-r3b00t/CVE-2025-5777](https://github.com/mr-r3b00t/CVE-2025-5777) | placeholder for CitrixBleed 2.0 CVE-2025-5777 | 2025-11-16T09:14:23Z |
 | [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [rashedhasan090/CVE-2025-5777](https://github.com/rashedhasan090/CVE-2025-5777) | no description | 2025-11-23T21:34:32Z |
+| [CVE-2025-5777](https://www.cve.org/CVERecord?id=CVE-2025-5777) | [0xAshwesker/CVE-2025-5777](https://github.com/0xAshwesker/CVE-2025-5777) | CVE-2025-5777 | 2026-03-02T11:28:50Z |
 | [CVE-2025-57617](https://www.cve.org/CVERecord?id=CVE-2025-57617) | [Gooseinpants/Dashy-auth-bypass](https://github.com/Gooseinpants/Dashy-auth-bypass) | CVE-2025-57617 exploitation | 2025-10-01T21:35:04Z |
 | [CVE-2025-57576](https://www.cve.org/CVERecord?id=CVE-2025-57576) | [p0et08/DWrwq](https://github.com/p0et08/DWrwq) | This is a EXP For CVE-2025-57576. PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site &gt; Scripting (XSS) in /admin/updateorder.php | 2025-08-08T05:33:39Z |
 | [CVE-2025-5755](https://www.cve.org/CVERecord?id=CVE-2025-5755) | [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755) | no description | 2025-07-09T07:30:36Z |
@@ -2261,6 +2269,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2025-43529](https://www.cve.org/CVERecord?id=CVE-2025-43529) | [SimoesCTT/CTT-Apple-Silicon-Refraction](https://github.com/SimoesCTT/CTT-Apple-Silicon-Refraction) | webkit_refraction.js (The 33-Layer WebGL Payload) ​This JavaScript payload uses the \alpha constant to create a high-frequency &quot;Memory Shiver.&quot; It induces the Use-After-Free (UAF) in CVE-2025-43529 by desynchronizing the WebKit garbage collector from the GPU&#x27;s Metal command buffer. | 2026-01-30T10:48:22Z |
 | [CVE-2025-43529](https://www.cve.org/CVERecord?id=CVE-2025-43529) | [bjrjk/CVE-2025-43529](https://github.com/bjrjk/CVE-2025-43529) | Root Cause Analysis for CVE-2025-43529, a UAF vulnerability due to incorrect DFG StoreBarrierInsertionPhase in JavaScriptCore. | 2026-02-01T11:36:10Z |
 | [CVE-2025-43529](https://www.cve.org/CVERecord?id=CVE-2025-43529) | [SgtBattenHA/Analysis](https://github.com/SgtBattenHA/Analysis) | Analysis of CVE-2025-43529 (WebKit UAF) + CVE-2025-14174 (ANGLE OOB) exploit chain - iOS Safari | 2026-01-20T12:19:33Z |
+| [CVE-2025-43529](https://www.cve.org/CVERecord?id=CVE-2025-43529) | [kmeps4/bugtest](https://github.com/kmeps4/bugtest) | CVE-2025-43529 Test | 2026-03-02T04:23:54Z |
 | [CVE-2025-43504](https://www.cve.org/CVERecord?id=CVE-2025-43504) | [calysteon/CVE-2025-43504](https://github.com/calysteon/CVE-2025-43504) | no description | 2025-11-17T03:15:57Z |
 | [CVE-2025-43426](https://www.cve.org/CVERecord?id=CVE-2025-43426) | [csrXamfi/CVE-2025-43426](https://github.com/csrXamfi/CVE-2025-43426) | CVE-2025-43426 (video + report) | 2025-12-12T15:37:37Z |
 | [CVE-2025-43400](https://www.cve.org/CVERecord?id=CVE-2025-43400) | [csrXamfi/CVE-2025-43400](https://github.com/csrXamfi/CVE-2025-43400) | CVE-2025-43400 (video + report) | 2025-12-12T15:31:23Z |
@@ -4211,6 +4220,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2024-5522](https://www.cve.org/CVERecord?id=CVE-2024-5522) | [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522) | A PoC exploit scanner for CVE-2024-5522 vulnerability in WordPress websites | 2024-10-01T16:02:12Z |
 | [CVE-2024-55215](https://www.cve.org/CVERecord?id=CVE-2024-55215) | [ainrm/Jrohy-trojan-unauth-poc](https://github.com/ainrm/Jrohy-trojan-unauth-poc) | CVE-2024-55215 | 2024-11-28T07:05:30Z |
 | [CVE-2024-55211](https://www.cve.org/CVERecord?id=CVE-2024-55211) | [micaelmaciel/CVE-2024-55211](https://github.com/micaelmaciel/CVE-2024-55211) | Cookie-based authentication vulnerability on Tk-Rt-Wr135G | 2025-04-15T20:28:33Z |
+| [CVE-2024-55182](https://www.cve.org/CVERecord?id=CVE-2024-55182) | [MernJsb/CVE-2024-55182](https://github.com/MernJsb/CVE-2024-55182) | no description | 2025-12-10T05:46:14Z |
 | [CVE-2024-55099](https://www.cve.org/CVERecord?id=CVE-2024-55099) | [ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-) | no description | 2024-12-10T19:40:26Z |
 | [CVE-2024-55060](https://www.cve.org/CVERecord?id=CVE-2024-55060) | [bigzooooz/CVE-2024-55060](https://github.com/bigzooooz/CVE-2024-55060) | no description | 2025-03-12T18:05:42Z |
 | [CVE-2024-55040](https://www.cve.org/CVERecord?id=CVE-2024-55040) | [tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS) | Public disclose of several stored XSS vulnerabilities in the Sensaphone WEB600 (CVE-2024-55040) | 2024-11-22T22:25:18Z |
@@ -10684,6 +10694,7 @@ Last generated: 2026-03-20 03:29:24.728565
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [0xSs0rZ/Windows_Exploit](https://github.com/0xSs0rZ/Windows_Exploit) | CVE-2021-1675/CVE-2021-34527 PrintNightmare &amp; CVE-2020-0668 | 2024-06-05T10:01:18Z |
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [corelight/CVE-2021-1675](https://github.com/corelight/CVE-2021-1675) | no description | 2021-07-02T16:44:24Z |
 | [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [Sp4ceDogy/NPE-CS-V-CVE-2021-1675](https://github.com/Sp4ceDogy/NPE-CS-V-CVE-2021-1675) | no description | 2025-03-10T19:40:36Z |
+| [CVE-2021-1675](https://www.cve.org/CVERecord?id=CVE-2021-1675) | [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare) | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | 2025-07-24T23:04:10Z |
 | [CVE-2021-1366](https://www.cve.org/CVERecord?id=CVE-2021-1366) | [koztkozt/CVE-2021-1366](https://github.com/koztkozt/CVE-2021-1366) | Cisco AnyConnect Posture (HostScan) Local Privilege Escalation: CVE-2021-1366 | 2023-09-08T09:20:20Z |
 | [CVE-2021-0586](https://www.cve.org/CVERecord?id=CVE-2021-0586) | [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586) | no description | 2022-04-25T07:58:29Z |
 | [CVE-2021-0466](https://www.cve.org/CVERecord?id=CVE-2021-0466) | [uthrasri/frameworks_opt_net_wifi_CVE-2021-0466](https://github.com/uthrasri/frameworks_opt_net_wifi_CVE-2021-0466) | no description | 2024-06-18T10:34:34Z |
@@ -13928,3 +13939,5 @@ Last generated: 2026-03-20 03:29:24.728565
 | CVE NOT FOUND | [ssandeep-pudi/CVE-2024-LAKEHOUSE](https://github.com/ssandeep-pudi/CVE-2024-LAKEHOUSE) | End-to-end Databricks medallion Architecture pipeline for 2024 CVE data | 2025-11-17T02:28:23Z |
 | CVE NOT FOUND | [muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961](https://github.com/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961) | CNEXT (ISO-2022-CN-EXT) buffer overflow in glibc’s iconv: reproducible lab for detection, safe exploitation evidence, and layered mitigations (Docker + optional Kali VM). Includes scripts, PHP harness, and step-by-step setup to demonstrate impact and defenses. | 2025-12-02T10:29:53Z |
 | CVE NOT FOUND | [chelunb2578-sudo/chelunb-store](https://github.com/chelunb2578-sudo/chelunb-store) | CVE keyword extraction and trend analysis for 2021-2025 | 2026-02-27T08:53:28Z |
+| CVE NOT FOUND | [geo-chen/microsoft](https://github.com/geo-chen/microsoft) | CVE-2025–58107 | 2026-03-02T15:40:01Z |
+| CVE NOT FOUND | [BaoSec/CVE2025-64446-58034](https://github.com/BaoSec/CVE2025-64446-58034) | no description | 2026-03-02T14:36:27Z |
