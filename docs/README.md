@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-04-20 04:18:59.252042
+Last generated: 2026-04-21 04:11:33.422948
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -25,6 +25,8 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2026-4800](https://www.cve.org/CVERecord?id=CVE-2026-4800) | [SvenLie/next-rep-CVE-2026-4800](https://github.com/SvenLie/next-rep-CVE-2026-4800) | no description | 2026-04-07T13:30:51Z |
 | [CVE-2026-4342](https://www.cve.org/CVERecord?id=CVE-2026-4342) | [stuartMoorhouse/CVE-2026-4342](https://github.com/stuartMoorhouse/CVE-2026-4342) | no description | 2026-03-20T14:17:41Z |
 | [CVE-2026-4092](https://www.cve.org/CVERecord?id=CVE-2026-4092) | [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092) | no description | 2026-03-14T16:48:55Z |
+| [CVE-2026-39371](https://www.cve.org/CVERecord?id=CVE-2026-39371) | [zebbernCVE/CVE-2026-39371](https://github.com/zebbernCVE/CVE-2026-39371) | Advisory for rwsdk sdk ⌯⌲ 5000 weekly downloads | 2026-04-07T00:47:27Z |
+| [CVE-2026-39363](https://www.cve.org/CVERecord?id=CVE-2026-39363) | [Firebasky/CVE-2026-39363](https://github.com/Firebasky/CVE-2026-39363) | CVE-2026-39363 AI  analysis | 2026-04-08T15:31:49Z |
 | [CVE-2026-39324](https://www.cve.org/CVERecord?id=CVE-2026-39324) | [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324) | CVE-2026-39324: Rack Session auth bypass PoC | 2026-04-07T00:16:26Z |
 | [CVE-2026-3891](https://www.cve.org/CVERecord?id=CVE-2026-3891) | [joshuavanderpoll/CVE-2026-3891](https://github.com/joshuavanderpoll/CVE-2026-3891) | Pix for WooCommerce &lt;= 1.5.0 - Unauthenticated Arbitrary File Upload (CVE-2026-3891) PoC | 2026-03-13T20:33:42Z |
 | [CVE-2026-3891](https://www.cve.org/CVERecord?id=CVE-2026-3891) | [Nxploited/CVE-2026-3891](https://github.com/Nxploited/CVE-2026-3891) | Pix for WooCommerce &lt;= 1.5.0 - Unauthenticated Arbitrary File Upload | 2026-03-27T06:00:10Z |
@@ -53,6 +55,8 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2026-3442](https://www.cve.org/CVERecord?id=CVE-2026-3442) | [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442) | CVE-2026-3442 | 2026-03-13T09:37:51Z |
 | [CVE-2026-34227](https://www.cve.org/CVERecord?id=CVE-2026-34227) | [skoveit/CVE-2026-34227](https://github.com/skoveit/CVE-2026-34227) | CVE-2026-34227 · CORS → CSRF chain on Sliver&#x27;s unauthenticated MCP interface | 2026-03-27T13:51:07Z |
 | [CVE-2026-34200](https://www.cve.org/CVERecord?id=CVE-2026-34200) | [skoveit/CVE-2026-34200](https://github.com/skoveit/CVE-2026-34200) | CVE-2026-34200 PoC - Nhost Unauthenticated Remote Access | 2026-03-26T16:52:17Z |
+| [CVE-2026-34197](https://www.cve.org/CVERecord?id=CVE-2026-34197) | [dinosn/CVE-2026-34197](https://github.com/dinosn/CVE-2026-34197) | CVE-2026-34197 activemq PoC | 2026-04-08T09:18:33Z |
+| [CVE-2026-34197](https://www.cve.org/CVERecord?id=CVE-2026-34197) | [0xBlackash/CVE-2026-34197](https://github.com/0xBlackash/CVE-2026-34197) | CVE-2026-34197 | 2026-04-08T07:28:49Z |
 | [CVE-2026-34156](https://www.cve.org/CVERecord?id=CVE-2026-34156) | [0xBlackash/CVE-2026-34156](https://github.com/0xBlackash/CVE-2026-34156) | CVE-2026-34156 | 2026-04-03T12:04:06Z |
 | [CVE-2026-34156](https://www.cve.org/CVERecord?id=CVE-2026-34156) | [franckboumendil/CVE-2026-34156](https://github.com/franckboumendil/CVE-2026-34156) | NocoBase Sandbox Escape to RCE via console._stdout Prototype Chain Traversal (CVE-2026-34156) | 2026-04-07T08:31:59Z |
 | [CVE-2026-34070](https://www.cve.org/CVERecord?id=CVE-2026-34070) | [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070) | I Found a Zero-Day Vulnerability in langchain — Here’s How It Went | 2026-03-26T13:39:47Z |
@@ -94,6 +98,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2026-32941](https://www.cve.org/CVERecord?id=CVE-2026-32941) | [skoveit/CVE-2026-32941](https://github.com/skoveit/CVE-2026-32941) | CVE-2026-32941 PoC - Sliver Remote OOM | 2026-03-03T23:57:19Z |
 | [CVE-2026-32913](https://www.cve.org/CVERecord?id=CVE-2026-32913) | [Rickidevs/CVE-2026-32913](https://github.com/Rickidevs/CVE-2026-32913) | I Found a Zero-Day Vulnerability in OpenClaw — Here’s How It Went | 2026-03-13T14:41:45Z |
 | [CVE-2026-3288](https://www.cve.org/CVERecord?id=CVE-2026-3288) | [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288) | Walkthrough:  ingress-nginx Configuration Injection via rewrite-target Annotation | 2026-03-10T07:11:00Z |
+| [CVE-2026-3288](https://www.cve.org/CVERecord?id=CVE-2026-3288) | [bvabhishek/CVE-2026-3288-lab](https://github.com/bvabhishek/CVE-2026-3288-lab) | no description | 2026-04-08T11:26:02Z |
 | [CVE-2026-32794](https://www.cve.org/CVERecord?id=CVE-2026-32794) | [SnailSploit/CVE-2026-32794](https://github.com/SnailSploit/CVE-2026-32794) | CVE-2026-32794: TLS Certificate Verification Bypass in Apache Airflow Databricks Provider | 2026-03-24T01:58:19Z |
 | [CVE-2026-32746](https://www.cve.org/CVERecord?id=CVE-2026-32746) | [chosenonehacks/CVE-2026-32746](https://github.com/chosenonehacks/CVE-2026-32746) | no description | 2026-03-20T10:23:19Z |
 | [CVE-2026-32746](https://www.cve.org/CVERecord?id=CVE-2026-32746) | [danindiana/cve-2026-32746-mitigation](https://github.com/danindiana/cve-2026-32746-mitigation) | no description | 2026-03-20T03:08:45Z |
@@ -192,6 +197,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2026-27876](https://www.cve.org/CVERecord?id=CVE-2026-27876) | [0xBlackash/CVE-2026-27876](https://github.com/0xBlackash/CVE-2026-27876) | CVE-2026-27876 | 2026-03-30T14:19:58Z |
 | [CVE-2026-27831](https://www.cve.org/CVERecord?id=CVE-2026-27831) | [bluedragonsecurity/CVE-2026-27831-POC](https://github.com/bluedragonsecurity/CVE-2026-27831-POC) | Poc Exploit for CVE-2026-27831 - vulnerability discovered by : Antonius | 2026-02-26T06:57:14Z |
 | [CVE-2026-27825](https://www.cve.org/CVERecord?id=CVE-2026-27825) | [plutosecurity/MCPwnfluence](https://github.com/plutosecurity/MCPwnfluence) | Information about CVE-2026-27825 &amp; CVE-2026-27826 discovered by Pluto Security and a bash script for identifying vulnerable mcp-atlassian instances allowing for automatic update to a fixed version. | 2026-02-26T10:09:32Z |
+| [CVE-2026-27739](https://www.cve.org/CVERecord?id=CVE-2026-27739) | [mr-redoo7/CVE-2026-27739-POC](https://github.com/mr-redoo7/CVE-2026-27739-POC) | no description | 2026-04-08T04:12:23Z |
 | [CVE-2026-27654](https://www.cve.org/CVERecord?id=CVE-2026-27654) | [JohannesLks/CVE-2026-27654](https://github.com/JohannesLks/CVE-2026-27654) | NGINX `ngx_http_dav_module` Heap Buffer Overflow via `size_t` Underflow (Remote DoS / Potential RCE) | 2026-04-06T17:27:29Z |
 | [CVE-2026-27639](https://www.cve.org/CVERecord?id=CVE-2026-27639) | [hadhub/CVE-2026-27639-Mercator-XSS](https://github.com/hadhub/CVE-2026-27639-Mercator-XSS) | no description | 2026-02-23T19:37:36Z |
 | [CVE-2026-27636](https://www.cve.org/CVERecord?id=CVE-2026-27636) | [rav1010/CVE-2026-27636](https://github.com/rav1010/CVE-2026-27636) | Freescout-passive-scanner | 2026-03-04T03:12:39Z |
@@ -455,6 +461,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2026-22722](https://www.cve.org/CVERecord?id=CVE-2026-22722) | [D7EAD/CVE-2026-22722](https://github.com/D7EAD/CVE-2026-22722) | A State-based logic vulnerability in VMWare Workstation Pro&#x27;s Kernel NUIF | 2026-03-06T14:26:52Z |
 | [CVE-2026-22686](https://www.cve.org/CVERecord?id=CVE-2026-22686) | [amusedx/CVE-2026-22686](https://github.com/amusedx/CVE-2026-22686) | no description | 2026-01-15T19:51:23Z |
 | [CVE-2026-22686](https://www.cve.org/CVERecord?id=CVE-2026-22686) | [moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC](https://github.com/moltengama/CVE-2026-22686-RemoteCodeExecution-RCE-PoC) | no description | 2026-03-05T05:35:27Z |
+| [CVE-2026-22666](https://www.cve.org/CVERecord?id=CVE-2026-22666) | [JivaSecurity/DOLIBARR-RCE-CVE-2026-22666](https://github.com/JivaSecurity/DOLIBARR-RCE-CVE-2026-22666) | dol_eval_standard() whitelist bypass eval() RCE, affecting Dolibarr 23.0.0 and below by jiva (jivasecurity.com) | 2026-03-17T15:09:09Z |
 | [CVE-2026-22610](https://www.cve.org/CVERecord?id=CVE-2026-22610) | [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610) | no description | 2026-01-18T11:38:02Z |
 | [CVE-2026-2256](https://www.cve.org/CVERecord?id=CVE-2026-2256) | [Itamar-Yochpaz/CVE-2026-2256-PoC](https://github.com/Itamar-Yochpaz/CVE-2026-2256-PoC) | no description | 2026-02-09T08:40:00Z |
 | [CVE-2026-22557](https://www.cve.org/CVERecord?id=CVE-2026-22557) | [GarethMSheldon/cve-2026-22557-unifi-detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection) | Detection content for CVE-2026-22557 — UniFi Network Application unauthenticated path traversal (CVSS 10.0). Includes YARA, Sigma, KQL, Splunk SPL, Sysmon config, and a bash detection script. | 2026-03-22T17:34:48Z |
@@ -627,6 +634,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2026-0770](https://www.cve.org/CVERecord?id=CVE-2026-0770) | [0xBlackash/CVE-2026-0770](https://github.com/0xBlackash/CVE-2026-0770) | CVE-2026-0770 | 2026-04-03T07:15:10Z |
 | [CVE-2026-0766](https://www.cve.org/CVERecord?id=CVE-2026-0766) | [bitt0n/CVE-2026-0766](https://github.com/bitt0n/CVE-2026-0766) | Educational security research: OpenWebUI RCE via tool code injection (CVE-2026-0766  - ZDI-26-032) | 2026-03-28T14:14:23Z |
 | [CVE-2026-0745](https://www.cve.org/CVERecord?id=CVE-2026-0745) | [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745) | no description | 2026-02-15T18:28:45Z |
+| [CVE-2026-0740](https://www.cve.org/CVERecord?id=CVE-2026-0740) | [xShadow-Here/CVE-2026-0740](https://github.com/xShadow-Here/CVE-2026-0740) | POC | 2026-04-08T01:20:50Z |
 | [CVE-2026-0730](https://www.cve.org/CVERecord?id=CVE-2026-0730) | [rsecroot/CVE-2026-0730](https://github.com/rsecroot/CVE-2026-0730) | Executing a manipulation of the argument profile_pic can lead to cross site scripting. The attack can be executed remotely. The exploit has been published and may be used. | 2026-03-10T15:10:29Z |
 | [CVE-2026-0709](https://www.cve.org/CVERecord?id=CVE-2026-0709) | [SnipersMaster/CVE-2026-0709](https://github.com/SnipersMaster/CVE-2026-0709) | no description | 2026-03-10T05:27:09Z |
 | [CVE-2026-0651](https://www.cve.org/CVERecord?id=CVE-2026-0651) | [l0lsec/tapo-c260-rce](https://github.com/l0lsec/tapo-c260-rce) | PoC exploit chain for TP-Link Tapo C260 camera — CVE-2026-0651/0652/0653. Research by @spaceraccoon. | 2026-03-06T16:26:00Z |
@@ -1262,6 +1270,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2025-62215](https://www.cve.org/CVERecord?id=CVE-2025-62215) | [mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation](https://github.com/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation) | Hands‑on analysis of CVE‑2025‑62215, a Windows Kernel race condition exploited in the wild. Demonstrates privilege escalation to SYSTEM, detection scripts, and patch validation strategies for enterprise defenders and red teamers. | 2025-11-18T05:13:34Z |
 | [CVE-2025-62215](https://www.cve.org/CVERecord?id=CVE-2025-62215) | [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215) | CVE-2025-62215: Windows Kernel Race Condition + Double-Free EoP | 2025-12-23T07:05:55Z |
 | [CVE-2025-62215](https://www.cve.org/CVERecord?id=CVE-2025-62215) | [uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis) | CVE-2025-62215 exploit development using Claude Code Agent Team | 2026-02-11T09:29:37Z |
+| [CVE-2025-62215](https://www.cve.org/CVERecord?id=CVE-2025-62215) | [gowonisgood/CVE-2025-62215-POC](https://github.com/gowonisgood/CVE-2025-62215-POC) | no description | 2026-03-02T10:34:07Z |
 | [CVE-2025-6220](https://www.cve.org/CVERecord?id=CVE-2025-6220) | [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220) | Ultimate Addons for Contact Form 7 &lt;= 3.5.12 - Authenticated (Administrator+) Arbitrary File Upload via &#x27;save_options&#x27; | 2025-06-17T22:34:49Z |
 | [CVE-2025-6218](https://www.cve.org/CVERecord?id=CVE-2025-6218) | [speinador/CVE-2025-6218_WinRAR](https://github.com/speinador/CVE-2025-6218_WinRAR) | no description | 2025-06-27T00:11:03Z |
 | [CVE-2025-6218](https://www.cve.org/CVERecord?id=CVE-2025-6218) | [ignis-sec/CVE-2025-6218](https://github.com/ignis-sec/CVE-2025-6218) | A simple proof of concept for WinRAR Path Traversal - RCE - CVE-2025-6218 | 2025-06-29T19:06:53Z |
@@ -1650,6 +1659,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2025-5548](https://www.cve.org/CVERecord?id=CVE-2025-5548) | [TheMalwareGuardian/CVE-2025-5548](https://github.com/TheMalwareGuardian/CVE-2025-5548) | Buffer overflow in FreeFloat FTP Server 1.0 illustrating how a single unsafe handler can generate multiple CVE entries across different commands. | 2026-03-09T10:50:06Z |
 | [CVE-2025-5548](https://www.cve.org/CVERecord?id=CVE-2025-5548) | [Victor875/CVE-2025-5548](https://github.com/Victor875/CVE-2025-5548) | no description | 2026-03-15T19:11:22Z |
 | [CVE-2025-5548](https://www.cve.org/CVERecord?id=CVE-2025-5548) | [gumbita/cve-2025-5548-freefloat-ftp-walkthrough](https://github.com/gumbita/cve-2025-5548-freefloat-ftp-walkthrough) | Documentación paso a paso del análisis y la explotación controlada de la CVE-2025-5548 en FreeFloat FTP Server 1.0, incluyendo preparación del entorno, análisis técnico, desarrollo del exploit y validación final. | 2026-03-18T10:05:26Z |
+| [CVE-2025-5548](https://www.cve.org/CVERecord?id=CVE-2025-5548) | [greycat-amc/CVE-2025-5548](https://github.com/greycat-amc/CVE-2025-5548) | Analisis de CVE relacionada con stack overflow | 2026-04-01T08:25:21Z |
 | [CVE-2025-55462](https://www.cve.org/CVERecord?id=CVE-2025-55462) | [sibikrish001/CVE-2025-55462](https://github.com/sibikrish001/CVE-2025-55462) | no description | 2026-01-09T14:52:25Z |
 | [CVE-2025-55449](https://www.cve.org/CVERecord?id=CVE-2025-55449) | [Marven11/CVE-2025-55449-AstrBot-RCE](https://github.com/Marven11/CVE-2025-55449-AstrBot-RCE) | AstrBot老版本RCE | 2025-11-11T13:11:04Z |
 | [CVE-2025-55449](https://www.cve.org/CVERecord?id=CVE-2025-55449) | [xhh1h/CVE-2025-55449](https://github.com/xhh1h/CVE-2025-55449) | CVE-2025-55449 EXP | 2025-12-10T05:31:57Z |
@@ -2126,6 +2136,8 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [amikanev/CVE-2025-55182-LAB](https://github.com/amikanev/CVE-2025-55182-LAB) | no description | 2026-03-30T12:27:07Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [hujiaozhuzhu/CVE-2025-55182_liyon](https://github.com/hujiaozhuzhu/CVE-2025-55182_liyon) | CVE-2025-55182 | 2026-04-02T09:47:07Z |
 | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [toprak-t800/CVE-2025-55182](https://github.com/toprak-t800/CVE-2025-55182) | no description | 2026-04-04T04:16:49Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [porsellaj/cve-2025-55182-react2shell-analysis](https://github.com/porsellaj/cve-2025-55182-react2shell-analysis) | Technical analysis of CVE-2025-55182 (React2Shell RCE vulnerability) | 2026-04-04T23:24:29Z |
+| [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | [aliksir/nextjs-security-scanner](https://github.com/aliksir/nextjs-security-scanner) | Bash script to detect CVE-2025-55182 (React2Shell) and credential exposure in Next.js projects. Zero dependencies. | 2026-04-03T17:33:22Z |
 | [CVE-2025-55130](https://www.cve.org/CVERecord?id=CVE-2025-55130) | [scumfrog/CVE-2025-55130](https://github.com/scumfrog/CVE-2025-55130) | POC for CVE-2025-55130 | 2026-02-01T17:25:42Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [mgthuramoemyint/POC-CVE-2025-54988](https://github.com/mgthuramoemyint/POC-CVE-2025-54988) | A PDF generator for CVE-2025-54988 | 2025-09-04T02:19:13Z |
 | [CVE-2025-54988](https://www.cve.org/CVERecord?id=CVE-2025-54988) | [galoryber/cve-2025-54988-VulnTikaProject](https://github.com/galoryber/cve-2025-54988-VulnTikaProject) | Creating a vulnerable instance to test against | 2025-12-17T20:23:16Z |
@@ -4052,6 +4064,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2025-1910](https://www.cve.org/CVERecord?id=CVE-2025-1910) | [lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation](https://github.com/lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation) | Proof-of-Concept for exploiting CVE-2025-1910, a local privilege escalation within Watchguard&#x27;s Mobile VPN with SSL client. | 2026-01-05T14:07:51Z |
 | [CVE-2025-1868](https://www.cve.org/CVERecord?id=CVE-2025-1868) | [itres-labs/CVE-2025-1868](https://github.com/itres-labs/CVE-2025-1868) | CVE-2025-1868: Advanced IP Scanner &amp; Advanced Port Scanner NTLM Leakage HTTP Tester | 2026-01-03T11:05:52Z |
 | [CVE-2025-1793](https://www.cve.org/CVERecord?id=CVE-2025-1793) | [Usama-Figueira/-CVE-2025-1793-poc](https://github.com/Usama-Figueira/-CVE-2025-1793-poc) | no description | 2025-06-11T23:06:50Z |
+| [CVE-2025-17380](https://www.cve.org/CVERecord?id=CVE-2025-17380) | [n0n4m3x41/CVE-2025-1738](https://github.com/n0n4m3x41/CVE-2025-1738) | 0day discover CVE-2025-1738 | 2026-04-05T17:35:58Z |
 | [CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734) | [WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734) | no description | 2025-03-25T12:38:15Z |
 | [CVE-2025-1718](https://www.cve.org/CVERecord?id=CVE-2025-1718) | [issamjr/CVE-2025-1718-Scanner](https://github.com/issamjr/CVE-2025-1718-Scanner) | CVE-2025-1718 - Hitachi Energy FTP Reboot Vulnerability Scanner | 2025-06-24T13:04:46Z |
 | [CVE-2025-1716](https://www.cve.org/CVERecord?id=CVE-2025-1716) | [shybu9/poc_CVE-2025-1716](https://github.com/shybu9/poc_CVE-2025-1716) | no description | 2025-03-04T14:07:33Z |
@@ -10650,6 +10663,7 @@ Last generated: 2026-04-20 04:18:59.252042
 | [CVE-2021-45010](https://www.cve.org/CVERecord?id=CVE-2021-45010) | [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010) | 🐍 Python Exploit for CVE-2021-45010 | 2022-12-20T00:47:30Z |
 | [CVE-2021-44967](https://www.cve.org/CVERecord?id=CVE-2021-44967) | [godylockz/CVE-2021-44967](https://github.com/godylockz/CVE-2021-44967) | POC for CVE-2021-44967: LimeSurvey RCE | 2025-02-17T04:55:23Z |
 | [CVE-2021-44967](https://www.cve.org/CVERecord?id=CVE-2021-44967) | [monke443/CVE-2021-44967](https://github.com/monke443/CVE-2021-44967) | Authenticated (privileged) remote command execution in LimeSurvey Version 5.2.4 via upload and install plugins allows a remote user to upload arbitrary PHP code file. | 2025-04-18T10:59:15Z |
+| [CVE-2021-44967](https://www.cve.org/CVERecord?id=CVE-2021-44967) | [D3Ext/CVE-2021-44967](https://github.com/D3Ext/CVE-2021-44967) | POC exploit for CVE-2021-44967 | 2025-01-05T13:12:07Z |
 | [CVE-2021-44910](https://www.cve.org/CVERecord?id=CVE-2021-44910) | [dockererr/CVE-2021-44910_SpringBlade](https://github.com/dockererr/CVE-2021-44910_SpringBlade) | 在21年，SpringBlade框架曾发现一个JWT认证的漏洞。尽管我们搜索了许多基于原理的扫描工具，但没有找到能够支持这个漏洞的工具。可能是因为这个漏洞相对冷门而不被广泛关注。 | 2023-07-22T16:48:24Z |
 | [CVE-2021-44909](https://www.cve.org/CVERecord?id=CVE-2021-44909) | [g1thub3r1st4/CVE-2021-44909](https://github.com/g1thub3r1st4/CVE-2021-44909) | orangescrum 1.8.0 - Remote Command Execution RCE (unauthenticated) | 2023-10-16T03:54:23Z |
 | [CVE-2021-44906](https://www.cve.org/CVERecord?id=CVE-2021-44906) | [nevermoe/CVE-2021-44906](https://github.com/nevermoe/CVE-2021-44906) | no description | 2023-10-02T15:20:35Z |
