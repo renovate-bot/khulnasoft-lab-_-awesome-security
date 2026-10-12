@@ -2,7 +2,7 @@
 
 > Automatic monitor github cve using Github Actions
 
-Last generated: 2026-10-11 17:01:25.505902
+Last generated: 2026-10-12 06:59:44.465740
 
 | CVE | Name | Description | Date |
 |---|---|---|---|
@@ -4252,6 +4252,7 @@ Last generated: 2026-10-11 17:01:25.505902
 | [CVE-2026-19598](https://www.cve.org/CVERecord?id=CVE-2026-19598) | [sag-asab/CVE-2026-19598](https://github.com/sag-asab/CVE-2026-19598) | Custom Content Types and Fields plugin for WordPress | 2026-08-21T13:06:49Z |
 | [CVE-2026-19598](https://www.cve.org/CVERecord?id=CVE-2026-19598) | [DeadExpl0it/CVE-2026-19598-PoC](https://github.com/DeadExpl0it/CVE-2026-19598-PoC) | Proof of Concept for CVE-2026-19598 affecting Pods &lt;= 3.3.9. | 2026-08-19T02:10:44Z |
 | [CVE-2026-19598](https://www.cve.org/CVERecord?id=CVE-2026-19598) | [0xCyp1337/CVE-2026-19598-](https://github.com/0xCyp1337/CVE-2026-19598-) | no description | 2026-09-05T20:03:34Z |
+| [CVE-2026-19553](https://www.cve.org/CVERecord?id=CVE-2026-19553) | [abraxas/cve-2026-19553-wrap-bio](https://github.com/abraxas/cve-2026-19553-wrap-bio) | CPython - High - wrap_bio hostname skip | 2026-10-02T01:46:32Z |
 | [CVE-2026-1953](https://www.cve.org/CVERecord?id=CVE-2026-1953) | [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure) | Stored cross-site scripting (XSS) vulnerability in the edit profile feature at Nukegraphic CMS V3.1.2 | 2026-02-05T06:25:43Z |
 | [CVE-2026-19516](https://www.cve.org/CVERecord?id=CVE-2026-19516) | [HORKimhab/CVE-2026-19516](https://github.com/HORKimhab/CVE-2026-19516) | CVE-2026-19516 | 2026-09-04T13:02:38Z |
 | [CVE-2026-19501](https://www.cve.org/CVERecord?id=CVE-2026-19501) | [typedefabcd1234ntd/CVE-2026-19501-poc](https://github.com/typedefabcd1234ntd/CVE-2026-19501-poc) | CVE-2026-19501 poc | 2026-08-18T15:15:56Z |
@@ -4264,6 +4265,7 @@ Last generated: 2026-10-11 17:01:25.505902
 | [CVE-2026-19478](https://www.cve.org/CVERecord?id=CVE-2026-19478) | [n0xdaemon/cve-2026-19478](https://github.com/n0xdaemon/cve-2026-19478) | CVE-2026-19478: GitLab GraphQL Vulnerability PoC | 2026-08-20T20:26:54Z |
 | [CVE-2026-19478](https://www.cve.org/CVERecord?id=CVE-2026-19478) | [punitdarji/Gitlab-CVE-2026-19478](https://github.com/punitdarji/Gitlab-CVE-2026-19478) | Gitlab-CVE-2026-19478 | 2026-08-22T12:07:07Z |
 | [CVE-2026-19478](https://www.cve.org/CVERecord?id=CVE-2026-19478) | [EQSTLab/CVE-2026-19478](https://github.com/EQSTLab/CVE-2026-19478) | GitLab Code injection | 2026-08-27T06:30:36Z |
+| [CVE-2026-19445](https://www.cve.org/CVERecord?id=CVE-2026-19445) | [abraxas/cve-2026-19445-sni-uaf](https://github.com/abraxas/cve-2026-19445-sni-uaf) | CPython - Critical - SNI SSLContext UAF | 2026-10-02T01:46:32Z |
 | [CVE-2026-1937](https://www.cve.org/CVERecord?id=CVE-2026-1937) | [Nxploited/CVE-2026-1937](https://github.com/Nxploited/CVE-2026-1937) | YayMail &lt;= 4.3.2 - Missing Authorization to Authenticated (Shop Manager+) Arbitrary Options Update via &#x27;yaymail_import_state&#x27; AJAX Action | 2026-04-18T09:25:31Z |
 | [CVE-2026-19295](https://www.cve.org/CVERecord?id=CVE-2026-19295) | [rmhowe425/POC-CVE-2026-19295](https://github.com/rmhowe425/POC-CVE-2026-19295) | no description | 2026-08-28T20:59:16Z |
 | [CVE-2026-19286](https://www.cve.org/CVERecord?id=CVE-2026-19286) | [rmhowe425/POC-CVE-2026-19286](https://github.com/rmhowe425/POC-CVE-2026-19286) | no description | 2026-08-29T17:02:13Z |
